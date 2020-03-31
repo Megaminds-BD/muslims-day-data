@@ -1,0 +1,3310 @@
+{
+  "dhaka_time": {
+    "april": [
+      {
+        "asor_start": "0:00",
+        "fajr_end": "0:00",
+        "iftar": "0:00",
+        "isha_start": "0:00",
+        "sehri_end": "0:00",
+        "zuhor_start": "0:00"
+      },
+      {
+        "asor_start": "4:29",
+        "fajr_end": "5:49",
+        "iftar": "6:18",
+        "isha_start": "7:33",
+        "sehri_end": "4:29",
+        "zuhor_start": "12:06"
+      },
+      {
+        "asor_start": "4:29",
+        "fajr_end": "5:48",
+        "iftar": "6:18",
+        "isha_start": "7:33",
+        "sehri_end": "4:28",
+        "zuhor_start": "12:06"
+      },
+      {
+        "asor_start": "4:29",
+        "fajr_end": "5:47",
+        "iftar": "6:18",
+        "isha_start": "7:34",
+        "sehri_end": "4:27",
+        "zuhor_start": "12:06"
+      },
+      {
+        "asor_start": "4:29",
+        "fajr_end": "5:46",
+        "iftar": "6:19",
+        "isha_start": "7:34",
+        "sehri_end": "4:26",
+        "zuhor_start": "12:05"
+      },
+      {
+        "asor_start": "4:29",
+        "fajr_end": "5:46",
+        "iftar": "6:19",
+        "isha_start": "7:35",
+        "sehri_end": "4:25",
+        "zuhor_start": "12:05"
+      },
+      {
+        "asor_start": "4:29",
+        "fajr_end": "5:45",
+        "iftar": "6:19",
+        "isha_start": "7:35",
+        "sehri_end": "4:24",
+        "zuhor_start": "12:05"
+      },
+      {
+        "asor_start": "4:29",
+        "fajr_end": "5:44",
+        "iftar": "6:20",
+        "isha_start": "7:35",
+        "sehri_end": "4:23",
+        "zuhor_start": "12:05"
+      },
+      {
+        "asor_start": "4:29",
+        "fajr_end": "5:43",
+        "iftar": "6:20",
+        "isha_start": "7:36",
+        "sehri_end": "4:22",
+        "zuhor_start": "12:04"
+      },
+      {
+        "asor_start": "4:29",
+        "fajr_end": "5:42",
+        "iftar": "6:21",
+        "isha_start": "7:36",
+        "sehri_end": "4:21",
+        "zuhor_start": "12:04"
+      },
+      {
+        "asor_start": "4:29",
+        "fajr_end": "5:41",
+        "iftar": "6:21",
+        "isha_start": "7:37",
+        "sehri_end": "4:20",
+        "zuhor_start": "12:03"
+      },
+      {
+        "asor_start": "4:29",
+        "fajr_end": "5:40",
+        "iftar": "6:21",
+        "isha_start": "7:38",
+        "sehri_end": "4:19",
+        "zuhor_start": "12:03"
+      },
+      {
+        "asor_start": "4:30",
+        "fajr_end": "5:39",
+        "iftar": "6:22",
+        "isha_start": "7:38",
+        "sehri_end": "4:18",
+        "zuhor_start": "12:03"
+      },
+      {
+        "asor_start": "4:30",
+        "fajr_end": "5:38",
+        "iftar": "6:22",
+        "isha_start": "7:39",
+        "sehri_end": "4:17",
+        "zuhor_start": "12:03"
+      },
+      {
+        "asor_start": "4:30",
+        "fajr_end": "5:37",
+        "iftar": "6:23",
+        "isha_start": "7:40",
+        "sehri_end": "4:16",
+        "zuhor_start": "12:03"
+      },
+      {
+        "asor_start": "4:30",
+        "fajr_end": "5:36",
+        "iftar": "6:23",
+        "isha_start": "7:40",
+        "sehri_end": "4:15",
+        "zuhor_start": "12:02"
+      },
+      {
+        "asor_start": "4:30",
+        "fajr_end": "5:35",
+        "iftar": "6:23",
+        "isha_start": "7:40",
+        "sehri_end": "4:14",
+        "zuhor_start": "12:02"
+      },
+      {
+        "asor_start": "4:30",
+        "fajr_end": "5:34",
+        "iftar": "6:24",
+        "isha_start": "7:41",
+        "sehri_end": "4:13",
+        "zuhor_start": "12:02"
+      },
+      {
+        "asor_start": "4:30",
+        "fajr_end": "5:34",
+        "iftar": "6:24",
+        "isha_start": "7:42",
+        "sehri_end": "4:12",
+        "zuhor_start": "12:01"
+      },
+      {
+        "asor_start": "4:30",
+        "fajr_end": "5:33",
+        "iftar": "6:25",
+        "isha_start": "7:42",
+        "sehri_end": "4:11",
+        "zuhor_start": "12:01"
+      },
+      {
+        "asor_start": "4:30",
+        "fajr_end": "5:32",
+        "iftar": "6:25",
+        "isha_start": "7:43",
+        "sehri_end": "4:10",
+        "zuhor_start": "12:01"
+      },
+      {
+        "asor_start": "4:30",
+        "fajr_end": "5:31",
+        "iftar": "6:26",
+        "isha_start": "7:44",
+        "sehri_end": "4:09",
+        "zuhor_start": "12:01"
+      },
+      {
+        "asor_start": "4:30",
+        "fajr_end": "5:30",
+        "iftar": "6:26",
+        "isha_start": "7:44",
+        "sehri_end": "4:08",
+        "zuhor_start": "12:01"
+      },
+      {
+        "asor_start": "4:30",
+        "fajr_end": "5:29",
+        "iftar": "6:26",
+        "isha_start": "7:45",
+        "sehri_end": "4:07",
+        "zuhor_start": "12:01"
+      },
+      {
+        "asor_start": "4:30",
+        "fajr_end": "5:29",
+        "iftar": "6:27",
+        "isha_start": "7:45",
+        "sehri_end": "4:06",
+        "zuhor_start": "12:00"
+      },
+      {
+        "asor_start": "4:30",
+        "fajr_end": "5:28",
+        "iftar": "6:27",
+        "isha_start": "7:46",
+        "sehri_end": "4:05",
+        "zuhor_start": "12:00"
+      },
+      {
+        "asor_start": "4:31",
+        "fajr_end": "5:27",
+        "iftar": "6:28",
+        "isha_start": "7:46",
+        "sehri_end": "4:04",
+        "zuhor_start": "12:00"
+      },
+      {
+        "asor_start": "4:31",
+        "fajr_end": "5:26",
+        "iftar": "6:28",
+        "isha_start": "7:47",
+        "sehri_end": "4:03",
+        "zuhor_start": "12:00"
+      },
+      {
+        "asor_start": "4:31",
+        "fajr_end": "5:25",
+        "iftar": "6:29",
+        "isha_start": "7:48",
+        "sehri_end": "4:02",
+        "zuhor_start": "12:00"
+      },
+      {
+        "asor_start": "4:31",
+        "fajr_end": "5:25",
+        "iftar": "6:29",
+        "isha_start": "7:49",
+        "sehri_end": "4:01",
+        "zuhor_start": "12:00"
+      },
+      {
+        "asor_start": "4:31",
+        "fajr_end": "5:24",
+        "iftar": "6:30",
+        "isha_start": "7:49",
+        "sehri_end": "4:00",
+        "zuhor_start": "11:59"
+      }
+    ],
+    "august": [
+      {
+        "asor_start": "0:00",
+        "fajr_end": "0:00",
+        "iftar": "0:00",
+        "isha_start": "0:00",
+        "sehri_end": "0:00",
+        "zuhor_start": "00:00"
+      },
+      {
+        "asor_start": "4:42",
+        "fajr_end": "5:26",
+        "iftar": "6:45",
+        "isha_start": "8:05",
+        "sehri_end": "4:03",
+        "zuhor_start": "12:08"
+      },
+      {
+        "asor_start": "4:42",
+        "fajr_end": "5:26",
+        "iftar": "6:45",
+        "isha_start": "8:05",
+        "sehri_end": "4:03",
+        "zuhor_start": "12:08"
+      },
+      {
+        "asor_start": "4:42",
+        "fajr_end": "5:27",
+        "iftar": "6:44",
+        "isha_start": "8:04",
+        "sehri_end": "4:05",
+        "zuhor_start": "12:08"
+      },
+      {
+        "asor_start": "4:42",
+        "fajr_end": "5:27",
+        "iftar": "6:44",
+        "isha_start": "8:04",
+        "sehri_end": "4:05",
+        "zuhor_start": "12:08"
+      },
+      {
+        "asor_start": "4:42",
+        "fajr_end": "5:27",
+        "iftar": "6:44",
+        "isha_start": "8:04",
+        "sehri_end": "4:05",
+        "zuhor_start": "12:08"
+      },
+      {
+        "asor_start": "4:41",
+        "fajr_end": "5:28",
+        "iftar": "6:42",
+        "isha_start": "8:01",
+        "sehri_end": "4:07",
+        "zuhor_start": "12:08"
+      },
+      {
+        "asor_start": "4:41",
+        "fajr_end": "5:28",
+        "iftar": "6:42",
+        "isha_start": "8:01",
+        "sehri_end": "4:07",
+        "zuhor_start": "12:08"
+      },
+      {
+        "asor_start": "4:41",
+        "fajr_end": "5:28",
+        "iftar": "6:42",
+        "isha_start": "8:01",
+        "sehri_end": "4:07",
+        "zuhor_start": "12:08"
+      },
+      {
+        "asor_start": "4:40",
+        "fajr_end": "5:30",
+        "iftar": "6:40",
+        "isha_start": "7:59",
+        "sehri_end": "4:09",
+        "zuhor_start": "12:07"
+      },
+      {
+        "asor_start": "4:40",
+        "fajr_end": "5:30",
+        "iftar": "6:40",
+        "isha_start": "7:59",
+        "sehri_end": "4:09",
+        "zuhor_start": "12:07"
+      },
+      {
+        "asor_start": "4:40",
+        "fajr_end": "5:30",
+        "iftar": "6:40",
+        "isha_start": "7:59",
+        "sehri_end": "4:09",
+        "zuhor_start": "12:07"
+      },
+      {
+        "asor_start": "4:39",
+        "fajr_end": "5:31",
+        "iftar": "6:38",
+        "isha_start": "7:56",
+        "sehri_end": "4:10",
+        "zuhor_start": "12:07"
+      },
+      {
+        "asor_start": "4:39",
+        "fajr_end": "5:31",
+        "iftar": "6:38",
+        "isha_start": "7:56",
+        "sehri_end": "4:10",
+        "zuhor_start": "12:07"
+      },
+      {
+        "asor_start": "4:39",
+        "fajr_end": "5:31",
+        "iftar": "6:38",
+        "isha_start": "7:56",
+        "sehri_end": "4:10",
+        "zuhor_start": "12:07"
+      },
+      {
+        "asor_start": "4:38",
+        "fajr_end": "5:32",
+        "iftar": "6:35",
+        "isha_start": "7:53",
+        "sehri_end": "4:12",
+        "zuhor_start": "12:06"
+      },
+      {
+        "asor_start": "4:38",
+        "fajr_end": "5:32",
+        "iftar": "6:35",
+        "isha_start": "7:53",
+        "sehri_end": "4:12",
+        "zuhor_start": "12:06"
+      },
+      {
+        "asor_start": "4:38",
+        "fajr_end": "5:32",
+        "iftar": "6:35",
+        "isha_start": "7:53",
+        "sehri_end": "4:12",
+        "zuhor_start": "12:06"
+      },
+      {
+        "asor_start": "4:37",
+        "fajr_end": "5:33",
+        "iftar": "6:33",
+        "isha_start": "7:50",
+        "sehri_end": "4:14",
+        "zuhor_start": "12:05"
+      },
+      {
+        "asor_start": "4:37",
+        "fajr_end": "5:33",
+        "iftar": "6:33",
+        "isha_start": "7:50",
+        "sehri_end": "4:14",
+        "zuhor_start": "12:05"
+      },
+      {
+        "asor_start": "4:37",
+        "fajr_end": "5:33",
+        "iftar": "6:33",
+        "isha_start": "7:50",
+        "sehri_end": "4:14",
+        "zuhor_start": "12:05"
+      },
+      {
+        "asor_start": "4:35",
+        "fajr_end": "5:34",
+        "iftar": "6:32",
+        "isha_start": "7:47",
+        "sehri_end": "4:15",
+        "zuhor_start": "12:05"
+      },
+      {
+        "asor_start": "4:35",
+        "fajr_end": "5:34",
+        "iftar": "6:31",
+        "isha_start": "7:47",
+        "sehri_end": "4:15",
+        "zuhor_start": "12:05"
+      },
+      {
+        "asor_start": "4:35",
+        "fajr_end": "5:34",
+        "iftar": "6:30",
+        "isha_start": "7:47",
+        "sehri_end": "4:15",
+        "zuhor_start": "12:05"
+      },
+      {
+        "asor_start": "4:34",
+        "fajr_end": "5:35",
+        "iftar": "6:29",
+        "isha_start": "7:44",
+        "sehri_end": "4:17",
+        "zuhor_start": "12:04"
+      },
+      {
+        "asor_start": "4:34",
+        "fajr_end": "5:35",
+        "iftar": "6:28",
+        "isha_start": "7:44",
+        "sehri_end": "4:17",
+        "zuhor_start": "12:04"
+      },
+      {
+        "asor_start": "4:34",
+        "fajr_end": "5:35",
+        "iftar": "6:28",
+        "isha_start": "7:44",
+        "sehri_end": "4:17",
+        "zuhor_start": "12:04"
+      },
+      {
+        "asor_start": "4:32",
+        "fajr_end": "5:36",
+        "iftar": "6:27",
+        "isha_start": "7:41",
+        "sehri_end": "4:19",
+        "zuhor_start": "12:03"
+      },
+      {
+        "asor_start": "4:32",
+        "fajr_end": "5:36",
+        "iftar": "6:26",
+        "isha_start": "7:41",
+        "sehri_end": "4:19",
+        "zuhor_start": "12:03"
+      },
+      {
+        "asor_start": "4:32",
+        "fajr_end": "5:36",
+        "iftar": "6:25",
+        "isha_start": "7:41",
+        "sehri_end": "4:19",
+        "zuhor_start": "12:03"
+      },
+      {
+        "asor_start": "4:32",
+        "fajr_end": "5:36",
+        "iftar": "6:25",
+        "isha_start": "7:41",
+        "sehri_end": "4:19",
+        "zuhor_start": "12:03"
+      },
+      {
+        "asor_start": "4:29",
+        "fajr_end": "5:38",
+        "iftar": "6:24",
+        "isha_start": "7:35",
+        "sehri_end": "4:21",
+        "zuhor_start": "12:02"
+      }
+    ],
+    "december": [
+      {
+        "asor_start": "0:00",
+        "fajr_end": "0:00",
+        "iftar": "0:00",
+        "isha_start": "0:00",
+        "sehri_end": "0:00",
+        "zuhor_start": "0:00"
+      },
+      {
+        "asor_start": "3:35",
+        "fajr_end": "6:23",
+        "iftar": "5:14",
+        "isha_start": "6:32",
+        "sehri_end": "5:00",
+        "zuhor_start": "11:51"
+      },
+      {
+        "asor_start": "3:35",
+        "fajr_end": "6:24",
+        "iftar": "5:14",
+        "isha_start": "6:32",
+        "sehri_end": "5:00",
+        "zuhor_start": "11:51"
+      },
+      {
+        "asor_start": "3:35",
+        "fajr_end": "6:25",
+        "iftar": "5:14",
+        "isha_start": "6:33",
+        "sehri_end": "5:01",
+        "zuhor_start": "11:52"
+      },
+      {
+        "asor_start": "3:35",
+        "fajr_end": "6:26",
+        "iftar": "5:14",
+        "isha_start": "6:33",
+        "sehri_end": "5:01",
+        "zuhor_start": "11:52"
+      },
+      {
+        "asor_start": "3:35",
+        "fajr_end": "6:26",
+        "iftar": "5:14",
+        "isha_start": "6:33",
+        "sehri_end": "5:02",
+        "zuhor_start": "11:52"
+      },
+      {
+        "asor_start": "3:35",
+        "fajr_end": "6:27",
+        "iftar": "5:14",
+        "isha_start": "6:33",
+        "sehri_end": "5:03",
+        "zuhor_start": "11:53"
+      },
+      {
+        "asor_start": "3:35",
+        "fajr_end": "6:28",
+        "iftar": "5:14",
+        "isha_start": "6:33",
+        "sehri_end": "5:03",
+        "zuhor_start": "11:53"
+      },
+      {
+        "asor_start": "3:35",
+        "fajr_end": "6:28",
+        "iftar": "5:14",
+        "isha_start": "6:34",
+        "sehri_end": "5:04",
+        "zuhor_start": "11:53"
+      },
+      {
+        "asor_start": "3:36",
+        "fajr_end": "6:29",
+        "iftar": "5:15",
+        "isha_start": "6:35",
+        "sehri_end": "5:05",
+        "zuhor_start": "11:54"
+      },
+      {
+        "asor_start": "3:36",
+        "fajr_end": "6:29",
+        "iftar": "5:15",
+        "isha_start": "6:35",
+        "sehri_end": "5:05",
+        "zuhor_start": "11:54"
+      },
+      {
+        "asor_start": "3:36",
+        "fajr_end": "6:30",
+        "iftar": "5:15",
+        "isha_start": "6:35",
+        "sehri_end": "5:06",
+        "zuhor_start": "11:55"
+      },
+      {
+        "asor_start": "3:37",
+        "fajr_end": "6:30",
+        "iftar": "5:16",
+        "isha_start": "6:36",
+        "sehri_end": "5:07",
+        "zuhor_start": "11:56"
+      },
+      {
+        "asor_start": "3:37",
+        "fajr_end": "6:32",
+        "iftar": "5:16",
+        "isha_start": "6:36",
+        "sehri_end": "5:07",
+        "zuhor_start": "11:56"
+      },
+      {
+        "asor_start": "3:37",
+        "fajr_end": "6:32",
+        "iftar": "5:16",
+        "isha_start": "6:36",
+        "sehri_end": "5:07",
+        "zuhor_start": "11:56"
+      },
+      {
+        "asor_start": "3:38",
+        "fajr_end": "6:32",
+        "iftar": "5:17",
+        "isha_start": "6:37",
+        "sehri_end": "5:08",
+        "zuhor_start": "11:57"
+      },
+      {
+        "asor_start": "3:38",
+        "fajr_end": "6:33",
+        "iftar": "5:17",
+        "isha_start": "6:37",
+        "sehri_end": "5:08",
+        "zuhor_start": "11:57"
+      },
+      {
+        "asor_start": "3:38",
+        "fajr_end": "6:34",
+        "iftar": "5:17",
+        "isha_start": "6:38",
+        "sehri_end": "5:09",
+        "zuhor_start": "11:57"
+      },
+      {
+        "asor_start": "3:39",
+        "fajr_end": "6:34",
+        "iftar": "5:18",
+        "isha_start": "6:39",
+        "sehri_end": "5:10",
+        "zuhor_start": "11:58"
+      },
+      {
+        "asor_start": "3:39",
+        "fajr_end": "6:34",
+        "iftar": "5:18",
+        "isha_start": "6:39",
+        "sehri_end": "5:10",
+        "zuhor_start": "11:58"
+      },
+      {
+        "asor_start": "3:39",
+        "fajr_end": "6:35",
+        "iftar": "5:19",
+        "isha_start": "6:39",
+        "sehri_end": "5:10",
+        "zuhor_start": "11:59"
+      },
+      {
+        "asor_start": "3:40",
+        "fajr_end": "6:36",
+        "iftar": "5:20",
+        "isha_start": "6:40",
+        "sehri_end": "5:11",
+        "zuhor_start": "12:00"
+      },
+      {
+        "asor_start": "3:40",
+        "fajr_end": "6:36",
+        "iftar": "5:20",
+        "isha_start": "6:40",
+        "sehri_end": "5:11",
+        "zuhor_start": "12:00"
+      },
+      {
+        "asor_start": "3:41",
+        "fajr_end": "6:36",
+        "iftar": "5:20",
+        "isha_start": "6:41",
+        "sehri_end": "5:12",
+        "zuhor_start": "12:01"
+      },
+      {
+        "asor_start": "3:42",
+        "fajr_end": "6:37",
+        "iftar": "5:21",
+        "isha_start": "6:42",
+        "sehri_end": "5:13",
+        "zuhor_start": "12:02"
+      },
+      {
+        "asor_start": "3:42",
+        "fajr_end": "6:37",
+        "iftar": "5:21",
+        "isha_start": "6:43",
+        "sehri_end": "5:13",
+        "zuhor_start": "12:02"
+      },
+      {
+        "asor_start": "3:42",
+        "fajr_end": "6:38",
+        "iftar": "5:22",
+        "isha_start": "6:44",
+        "sehri_end": "5:13",
+        "zuhor_start": "12:02"
+      },
+      {
+        "asor_start": "3:43",
+        "fajr_end": "6:39",
+        "iftar": "5:23",
+        "isha_start": "6:45",
+        "sehri_end": "5:14",
+        "zuhor_start": "12:03"
+      },
+      {
+        "asor_start": "3:43",
+        "fajr_end": "6:39",
+        "iftar": "5:23",
+        "isha_start": "6:45",
+        "sehri_end": "5:14",
+        "zuhor_start": "12:03"
+      },
+      {
+        "asor_start": "3:44",
+        "fajr_end": "6:39",
+        "iftar": "5:24",
+        "isha_start": "6:45",
+        "sehri_end": "5:14",
+        "zuhor_start": "12:03"
+      },
+      {
+        "asor_start": "3:45",
+        "fajr_end": "6:39",
+        "iftar": "5:25",
+        "isha_start": "6:45",
+        "sehri_end": "5:15",
+        "zuhor_start": "12:04"
+      },
+      {
+        "asor_start": "3:45",
+        "fajr_end": "6:40",
+        "iftar": "5:26",
+        "isha_start": "6:45",
+        "sehri_end": "5:15",
+        "zuhor_start": "12:05"
+      }
+    ],
+    "february": [
+      {
+        "asor_start": "0:00",
+        "fajr_end": "0:00",
+        "iftar": "0:00",
+        "isha_start": "0:00",
+        "sehri_end": "0:00",
+        "zuhor_start": "0:00"
+      },
+      {
+        "asor_start": "4:08",
+        "fajr_end": "6:38",
+        "iftar": "5:48",
+        "isha_start": "7:04",
+        "sehri_end": "5:18",
+        "zuhor_start": "12:16"
+      },
+      {
+        "asor_start": "4:09",
+        "fajr_end": "6:37",
+        "iftar": "5:49",
+        "isha_start": "7:05",
+        "sehri_end": "5:17",
+        "zuhor_start": "12:16"
+      },
+      {
+        "asor_start": "4:10",
+        "fajr_end": "6:37",
+        "iftar": "5:50",
+        "isha_start": "7:06",
+        "sehri_end": "5:17",
+        "zuhor_start": "12:16"
+      },
+      {
+        "asor_start": "4:10",
+        "fajr_end": "6:36",
+        "iftar": "5:50",
+        "isha_start": "7:06",
+        "sehri_end": "5:16",
+        "zuhor_start": "12:16"
+      },
+      {
+        "asor_start": "4:11",
+        "fajr_end": "6:36",
+        "iftar": "5:51",
+        "isha_start": "7:07",
+        "sehri_end": "5:16",
+        "zuhor_start": "12:16"
+      },
+      {
+        "asor_start": "4:11",
+        "fajr_end": "6:36",
+        "iftar": "5:52",
+        "isha_start": "7:07",
+        "sehri_end": "5:16",
+        "zuhor_start": "12:16"
+      },
+      {
+        "asor_start": "4:12",
+        "fajr_end": "6:35",
+        "iftar": "5:52",
+        "isha_start": "7:08",
+        "sehri_end": "5:15",
+        "zuhor_start": "12:16"
+      },
+      {
+        "asor_start": "4:12",
+        "fajr_end": "6:34",
+        "iftar": "5:53",
+        "isha_start": "7:08",
+        "sehri_end": "5:14",
+        "zuhor_start": "12:16"
+      },
+      {
+        "asor_start": "4:13",
+        "fajr_end": "6:34",
+        "iftar": "5:54",
+        "isha_start": "7:09",
+        "sehri_end": "5:14",
+        "zuhor_start": "12:16"
+      },
+      {
+        "asor_start": "4:13",
+        "fajr_end": "6:33",
+        "iftar": "5:54",
+        "isha_start": "7:09",
+        "sehri_end": "5:13",
+        "zuhor_start": "12:16"
+      },
+      {
+        "asor_start": "4:14",
+        "fajr_end": "6:33",
+        "iftar": "5:55",
+        "isha_start": "7:10",
+        "sehri_end": "5:13",
+        "zuhor_start": "12:16"
+      },
+      {
+        "asor_start": "4:15",
+        "fajr_end": "6:32",
+        "iftar": "5:55",
+        "isha_start": "7:10",
+        "sehri_end": "5:13",
+        "zuhor_start": "12:16"
+      },
+      {
+        "asor_start": "4:16",
+        "fajr_end": "6:31",
+        "iftar": "5:56",
+        "isha_start": "7:11",
+        "sehri_end": "5:12",
+        "zuhor_start": "12:16"
+      },
+      {
+        "asor_start": "4:16",
+        "fajr_end": "6:31",
+        "iftar": "5:57",
+        "isha_start": "7:11",
+        "sehri_end": "5:12",
+        "zuhor_start": "12:16"
+      },
+      {
+        "asor_start": "4:16",
+        "fajr_end": "6:30",
+        "iftar": "5:57",
+        "isha_start": "7:12",
+        "sehri_end": "5:11",
+        "zuhor_start": "12:16"
+      },
+      {
+        "asor_start": "4:17",
+        "fajr_end": "6:29",
+        "iftar": "5:58",
+        "isha_start": "7:12",
+        "sehri_end": "5:10",
+        "zuhor_start": "12:16"
+      },
+      {
+        "asor_start": "4:17",
+        "fajr_end": "6:29",
+        "iftar": "5:58",
+        "isha_start": "7:13",
+        "sehri_end": "5:10",
+        "zuhor_start": "12:16"
+      },
+      {
+        "asor_start": "4:18",
+        "fajr_end": "6:28",
+        "iftar": "5:59",
+        "isha_start": "7:13",
+        "sehri_end": "5:09",
+        "zuhor_start": "12:16"
+      },
+      {
+        "asor_start": "4:18",
+        "fajr_end": "6:27",
+        "iftar": "5:59",
+        "isha_start": "7:13",
+        "sehri_end": "5:08",
+        "zuhor_start": "12:15"
+      },
+      {
+        "asor_start": "4:19",
+        "fajr_end": "6:27",
+        "iftar": "6:00",
+        "isha_start": "7:14",
+        "sehri_end": "5:08",
+        "zuhor_start": "12:15"
+      },
+      {
+        "asor_start": "4:19",
+        "fajr_end": "6:26",
+        "iftar": "6:01",
+        "isha_start": "7:15",
+        "sehri_end": "5:07",
+        "zuhor_start": "12:15"
+      },
+      {
+        "asor_start": "4:20",
+        "fajr_end": "6:25",
+        "iftar": "6:01",
+        "isha_start": "7:15",
+        "sehri_end": "5:06",
+        "zuhor_start": "12:15"
+      },
+      {
+        "asor_start": "4:20",
+        "fajr_end": "6:24",
+        "iftar": "6:02",
+        "isha_start": "7:16",
+        "sehri_end": "5:05",
+        "zuhor_start": "12:15"
+      },
+      {
+        "asor_start": "4:20",
+        "fajr_end": "6:24",
+        "iftar": "6:02",
+        "isha_start": "7:16",
+        "sehri_end": "5:05",
+        "zuhor_start": "12:15"
+      },
+      {
+        "asor_start": "4:21",
+        "fajr_end": "6:23",
+        "iftar": "6:03",
+        "isha_start": "7:17",
+        "sehri_end": "5:04",
+        "zuhor_start": "12:15"
+      },
+      {
+        "asor_start": "4:21",
+        "fajr_end": "6:22",
+        "iftar": "6:03",
+        "isha_start": "7:17",
+        "sehri_end": "5:03",
+        "zuhor_start": "12:15"
+      },
+      {
+        "asor_start": "4:22",
+        "fajr_end": "6:21",
+        "iftar": "6:04",
+        "isha_start": "7:18",
+        "sehri_end": "5:02",
+        "zuhor_start": "12:15"
+      },
+      {
+        "asor_start": "4:22",
+        "fajr_end": "6:20",
+        "iftar": "6:04",
+        "isha_start": "7:18",
+        "sehri_end": "5:01",
+        "zuhor_start": "12:15"
+      },
+      {
+        "asor_start": "4:22",
+        "fajr_end": "6:20",
+        "iftar": "6:04",
+        "isha_start": "7:18",
+        "sehri_end": "5:01",
+        "zuhor_start": "12:15"
+      }
+    ],
+    "january": [
+      {
+        "asor_start": "0:00",
+        "fajr_end": "0:00",
+        "iftar": "0:00",
+        "isha_start": "0:00",
+        "sehri_end": "0:00",
+        "zuhor_start": "0:00"
+      },
+      {
+        "asor_start": "3:46",
+        "fajr_end": "6:41",
+        "iftar": "5:27",
+        "isha_start": "6:45",
+        "sehri_end": "5:16",
+        "zuhor_start": "12:06"
+      },
+      {
+        "asor_start": "3:47",
+        "fajr_end": "6:41",
+        "iftar": "5:27",
+        "isha_start": "6:45",
+        "sehri_end": "5:16",
+        "zuhor_start": "12:06"
+      },
+      {
+        "asor_start": "3:48",
+        "fajr_end": "6:41",
+        "iftar": "5:28",
+        "isha_start": "6:46",
+        "sehri_end": "5:17",
+        "zuhor_start": "12:07"
+      },
+      {
+        "asor_start": "3:48",
+        "fajr_end": "6:41",
+        "iftar": "5:28",
+        "isha_start": "6:46",
+        "sehri_end": "5:17",
+        "zuhor_start": "12:07"
+      },
+      {
+        "asor_start": "3:49",
+        "fajr_end": "6:42",
+        "iftar": "5:29",
+        "isha_start": "6:47",
+        "sehri_end": "5:17",
+        "zuhor_start": "12:07"
+      },
+      {
+        "asor_start": "3:50",
+        "fajr_end": "6:42",
+        "iftar": "5:30",
+        "isha_start": "6:48",
+        "sehri_end": "5:18",
+        "zuhor_start": "12:08"
+      },
+      {
+        "asor_start": "3:50",
+        "fajr_end": "6:42",
+        "iftar": "5:30",
+        "isha_start": "6:48",
+        "sehri_end": "5:18",
+        "zuhor_start": "12:08"
+      },
+      {
+        "asor_start": "3:51",
+        "fajr_end": "6:42",
+        "iftar": "5:31",
+        "isha_start": "6:49",
+        "sehri_end": "5:18",
+        "zuhor_start": "12:08"
+      },
+      {
+        "asor_start": "3:52",
+        "fajr_end": "6:42",
+        "iftar": "5:32",
+        "isha_start": "6:50",
+        "sehri_end": "5:19",
+        "zuhor_start": "12:09"
+      },
+      {
+        "asor_start": "3:52",
+        "fajr_end": "6:42",
+        "iftar": "5:32",
+        "isha_start": "6:50",
+        "sehri_end": "5:19",
+        "zuhor_start": "12:09"
+      },
+      {
+        "asor_start": "3:53",
+        "fajr_end": "6:43",
+        "iftar": "5:33",
+        "isha_start": "6:50",
+        "sehri_end": "5:19",
+        "zuhor_start": "12:09"
+      },
+      {
+        "asor_start": "3:54",
+        "fajr_end": "6:43",
+        "iftar": "5:34",
+        "isha_start": "6:51",
+        "sehri_end": "5:20",
+        "zuhor_start": "12:10"
+      },
+      {
+        "asor_start": "3:54",
+        "fajr_end": "6:43",
+        "iftar": "5:34",
+        "isha_start": "6:51",
+        "sehri_end": "5:20",
+        "zuhor_start": "12:10"
+      },
+      {
+        "asor_start": "3:55",
+        "fajr_end": "6:43",
+        "iftar": "5:35",
+        "isha_start": "6:52",
+        "sehri_end": "5:20",
+        "zuhor_start": "12:11"
+      },
+      {
+        "asor_start": "3:56",
+        "fajr_end": "6:42",
+        "iftar": "5:36",
+        "isha_start": "6:53",
+        "sehri_end": "5:20",
+        "zuhor_start": "12:12"
+      },
+      {
+        "asor_start": "3:56",
+        "fajr_end": "6:42",
+        "iftar": "5:36",
+        "isha_start": "6:53",
+        "sehri_end": "5:20",
+        "zuhor_start": "12:12"
+      },
+      {
+        "asor_start": "3:57",
+        "fajr_end": "6:42",
+        "iftar": "5:37",
+        "isha_start": "6:54",
+        "sehri_end": "5:20",
+        "zuhor_start": "12:12"
+      },
+      {
+        "asor_start": "3:58",
+        "fajr_end": "6:42",
+        "iftar": "5:38",
+        "isha_start": "6:55",
+        "sehri_end": "5:20",
+        "zuhor_start": "12:13"
+      },
+      {
+        "asor_start": "3:58",
+        "fajr_end": "6:42",
+        "iftar": "5:38",
+        "isha_start": "6:55",
+        "sehri_end": "5:20",
+        "zuhor_start": "12:13"
+      },
+      {
+        "asor_start": "3:59",
+        "fajr_end": "6:42",
+        "iftar": "5:39",
+        "isha_start": "6:56",
+        "sehri_end": "5:20",
+        "zuhor_start": "12:13"
+      },
+      {
+        "asor_start": "4:00",
+        "fajr_end": "6:42",
+        "iftar": "5:40",
+        "isha_start": "6:57",
+        "sehri_end": "5:20",
+        "zuhor_start": "12:13"
+      },
+      {
+        "asor_start": "4:01",
+        "fajr_end": "6:42",
+        "iftar": "5:41",
+        "isha_start": "6:57",
+        "sehri_end": "5:20",
+        "zuhor_start": "12:13"
+      },
+      {
+        "asor_start": "4:02",
+        "fajr_end": "6:41",
+        "iftar": "5:42",
+        "isha_start": "6:58",
+        "sehri_end": "5:20",
+        "zuhor_start": "12:13"
+      },
+      {
+        "asor_start": "4:03",
+        "fajr_end": "6:41",
+        "iftar": "5:43",
+        "isha_start": "6:59",
+        "sehri_end": "5:19",
+        "zuhor_start": "12:14"
+      },
+      {
+        "asor_start": "4:03",
+        "fajr_end": "6:41",
+        "iftar": "5:43",
+        "isha_start": "6:59",
+        "sehri_end": "5:19",
+        "zuhor_start": "12:14"
+      },
+      {
+        "asor_start": "4:04",
+        "fajr_end": "6:41",
+        "iftar": "5:44",
+        "isha_start": "6:59",
+        "sehri_end": "5:19",
+        "zuhor_start": "12:14"
+      },
+      {
+        "asor_start": "4:05",
+        "fajr_end": "6:40",
+        "iftar": "5:45",
+        "isha_start": "7:00",
+        "sehri_end": "5:19",
+        "zuhor_start": "12:15"
+      },
+      {
+        "asor_start": "4:05",
+        "fajr_end": "6:40",
+        "iftar": "5:45",
+        "isha_start": "7:01",
+        "sehri_end": "5:19",
+        "zuhor_start": "12:15"
+      },
+      {
+        "asor_start": "4:06",
+        "fajr_end": "6:40",
+        "iftar": "5:46",
+        "isha_start": "7:02",
+        "sehri_end": "5:19",
+        "zuhor_start": "12:15"
+      },
+      {
+        "asor_start": "4:07",
+        "fajr_end": "6:39",
+        "iftar": "5:47",
+        "isha_start": "7:03",
+        "sehri_end": "5:18",
+        "zuhor_start": "12:16"
+      },
+      {
+        "asor_start": "4:07",
+        "fajr_end": "6:39",
+        "iftar": "5:47",
+        "isha_start": "7:03",
+        "sehri_end": "5:18",
+        "zuhor_start": "12:16"
+      }
+    ],
+    "july": [
+      {
+        "asor_start": "0:00",
+        "fajr_end": "0:00",
+        "iftar": "0:00",
+        "isha_start": "0:00",
+        "sehri_end": "0:00",
+        "zuhor_start": "00:00"
+      },
+      {
+        "asor_start": "4:42",
+        "fajr_end": "5:15",
+        "iftar": "6:54",
+        "isha_start": "8:20",
+        "sehri_end": "3:42",
+        "zuhor_start": "12:06"
+      },
+      {
+        "asor_start": "4:42",
+        "fajr_end": "5:15",
+        "iftar": "6:54",
+        "isha_start": "8:20",
+        "sehri_end": "3:42",
+        "zuhor_start": "12:06"
+      },
+      {
+        "asor_start": "4:42",
+        "fajr_end": "5:15",
+        "iftar": "6:54",
+        "isha_start": "8:20",
+        "sehri_end": "3:43",
+        "zuhor_start": "12:06"
+      },
+      {
+        "asor_start": "4:42",
+        "fajr_end": "5:16",
+        "iftar": "6:54",
+        "isha_start": "8:20",
+        "sehri_end": "3:43",
+        "zuhor_start": "12:06"
+      },
+      {
+        "asor_start": "4:42",
+        "fajr_end": "5:16",
+        "iftar": "6:54",
+        "isha_start": "8:20",
+        "sehri_end": "3:43",
+        "zuhor_start": "12:06"
+      },
+      {
+        "asor_start": "4:42",
+        "fajr_end": "5:17",
+        "iftar": "6:54",
+        "isha_start": "8:20",
+        "sehri_end": "3:44",
+        "zuhor_start": "12:06"
+      },
+      {
+        "asor_start": "4:42",
+        "fajr_end": "5:17",
+        "iftar": "6:54",
+        "isha_start": "8:20",
+        "sehri_end": "3:44",
+        "zuhor_start": "12:06"
+      },
+      {
+        "asor_start": "4:42",
+        "fajr_end": "5:18",
+        "iftar": "6:54",
+        "isha_start": "8:20",
+        "sehri_end": "3:45",
+        "zuhor_start": "12:07"
+      },
+      {
+        "asor_start": "4:43",
+        "fajr_end": "5:19",
+        "iftar": "6:53",
+        "isha_start": "8:19",
+        "sehri_end": "3:45",
+        "zuhor_start": "12:07"
+      },
+      {
+        "asor_start": "4:43",
+        "fajr_end": "5:19",
+        "iftar": "6:53",
+        "isha_start": "8:19",
+        "sehri_end": "3:46",
+        "zuhor_start": "12:07"
+      },
+      {
+        "asor_start": "4:43",
+        "fajr_end": "5:19",
+        "iftar": "6:53",
+        "isha_start": "8:19",
+        "sehri_end": "3:47",
+        "zuhor_start": "12:07"
+      },
+      {
+        "asor_start": "4:43",
+        "fajr_end": "5:19",
+        "iftar": "6:53",
+        "isha_start": "8:18",
+        "sehri_end": "3:48",
+        "zuhor_start": "12:08"
+      },
+      {
+        "asor_start": "4:43",
+        "fajr_end": "5:19",
+        "iftar": "6:53",
+        "isha_start": "8:18",
+        "sehri_end": "3:48",
+        "zuhor_start": "12:08"
+      },
+      {
+        "asor_start": "4:43",
+        "fajr_end": "5:19",
+        "iftar": "6:53",
+        "isha_start": "8:18",
+        "sehri_end": "3:48",
+        "zuhor_start": "12:08"
+      },
+      {
+        "asor_start": "4:43",
+        "fajr_end": "5:20",
+        "iftar": "6:54",
+        "isha_start": "8:20",
+        "sehri_end": "3:49",
+        "zuhor_start": "12:08"
+      },
+      {
+        "asor_start": "4:43",
+        "fajr_end": "5:20",
+        "iftar": "6:53",
+        "isha_start": "8:17",
+        "sehri_end": "3:49",
+        "zuhor_start": "12:08"
+      },
+      {
+        "asor_start": "4:43",
+        "fajr_end": "5:21",
+        "iftar": "6:53",
+        "isha_start": "8:16",
+        "sehri_end": "3:50",
+        "zuhor_start": "12:08"
+      },
+      {
+        "asor_start": "4:43",
+        "fajr_end": "5:21",
+        "iftar": "6:52",
+        "isha_start": "8:15",
+        "sehri_end": "3:50",
+        "zuhor_start": "12:08"
+      },
+      {
+        "asor_start": "4:43",
+        "fajr_end": "5:21",
+        "iftar": "6:52",
+        "isha_start": "8:15",
+        "sehri_end": "3:51",
+        "zuhor_start": "12:08"
+      },
+      {
+        "asor_start": "4:43",
+        "fajr_end": "5:23",
+        "iftar": "6:51",
+        "isha_start": "8:15",
+        "sehri_end": "3:52",
+        "zuhor_start": "12:08"
+      },
+      {
+        "asor_start": "4:43",
+        "fajr_end": "5:23",
+        "iftar": "6:50",
+        "isha_start": "8:14",
+        "sehri_end": "3:53",
+        "zuhor_start": "12:08"
+      },
+      {
+        "asor_start": "4:43",
+        "fajr_end": "5:23",
+        "iftar": "6:50",
+        "isha_start": "8:14",
+        "sehri_end": "3:53",
+        "zuhor_start": "12:08"
+      },
+      {
+        "asor_start": "4:43",
+        "fajr_end": "5:23",
+        "iftar": "6:50",
+        "isha_start": "8:13",
+        "sehri_end": "3:54",
+        "zuhor_start": "12:08"
+      },
+      {
+        "asor_start": "4:43",
+        "fajr_end": "5:24",
+        "iftar": "6:49",
+        "isha_start": "8:12",
+        "sehri_end": "3:55",
+        "zuhor_start": "12:08"
+      },
+      {
+        "asor_start": "4:43",
+        "fajr_end": "5:24",
+        "iftar": "6:49",
+        "isha_start": "8:11",
+        "sehri_end": "3:56",
+        "zuhor_start": "12:08"
+      },
+      {
+        "asor_start": "4:43",
+        "fajr_end": "5:25",
+        "iftar": "6:49",
+        "isha_start": "8:10",
+        "sehri_end": "3:57",
+        "zuhor_start": "12:08"
+      },
+      {
+        "asor_start": "4:43",
+        "fajr_end": "5:25",
+        "iftar": "6:48",
+        "isha_start": "8:09",
+        "sehri_end": "3:58",
+        "zuhor_start": "12:08"
+      },
+      {
+        "asor_start": "4:43",
+        "fajr_end": "5:26",
+        "iftar": "6:48",
+        "isha_start": "8:09",
+        "sehri_end": "3:58",
+        "zuhor_start": "12:08"
+      },
+      {
+        "asor_start": "4:43",
+        "fajr_end": "5:26",
+        "iftar": "6:47",
+        "isha_start": "8:08",
+        "sehri_end": "3:58",
+        "zuhor_start": "12:08"
+      },
+      {
+        "asor_start": "4:42",
+        "fajr_end": "5:27",
+        "iftar": "6:46",
+        "isha_start": "8:07",
+        "sehri_end": "3:59",
+        "zuhor_start": "12:08"
+      },
+      {
+        "asor_start": "4:42",
+        "fajr_end": "5:27",
+        "iftar": "6:46",
+        "isha_start": "8:06",
+        "sehri_end": "3:59",
+        "zuhor_start": "12:08"
+      }
+    ],
+    "june": [
+      {
+        "asor_start": "0:00",
+        "fajr_end": "0:00",
+        "iftar": "0:00",
+        "isha_start": "0:00",
+        "sehri_end": "0:00",
+        "zuhor_start": "0:00"
+      },
+      {
+        "asor_start": "4:35",
+        "fajr_end": "5:10",
+        "iftar": "6:46",
+        "isha_start": "8:09",
+        "sehri_end": "3:39",
+        "zuhor_start": "12:00"
+      },
+      {
+        "asor_start": "4:35",
+        "fajr_end": "5:10",
+        "iftar": "6:46",
+        "isha_start": "8:11",
+        "sehri_end": "3:39",
+        "zuhor_start": "12:00"
+      },
+      {
+        "asor_start": "4:35",
+        "fajr_end": "5:09",
+        "iftar": "6:46",
+        "isha_start": "8:11",
+        "sehri_end": "3:39",
+        "zuhor_start": "12:00"
+      },
+      {
+        "asor_start": "4:35",
+        "fajr_end": "5:09",
+        "iftar": "6:47",
+        "isha_start": "8:11",
+        "sehri_end": "3:39",
+        "zuhor_start": "12:00"
+      },
+      {
+        "asor_start": "4:35",
+        "fajr_end": "5:09",
+        "iftar": "6:47",
+        "isha_start": "8:11",
+        "sehri_end": "3:39",
+        "zuhor_start": "12:00"
+      },
+      {
+        "asor_start": "4:36",
+        "fajr_end": "5:09",
+        "iftar": "6:47",
+        "isha_start": "8:11",
+        "sehri_end": "3:38",
+        "zuhor_start": "12:01"
+      },
+      {
+        "asor_start": "4:36",
+        "fajr_end": "5:09",
+        "iftar": "6:48",
+        "isha_start": "8:12",
+        "sehri_end": "3:38",
+        "zuhor_start": "12:01"
+      },
+      {
+        "asor_start": "4:36",
+        "fajr_end": "5:09",
+        "iftar": "6:48",
+        "isha_start": "8:12",
+        "sehri_end": "3:38",
+        "zuhor_start": "12:01"
+      },
+      {
+        "asor_start": "4:37",
+        "fajr_end": "5:09",
+        "iftar": "6:49",
+        "isha_start": "8:12",
+        "sehri_end": "3:38",
+        "zuhor_start": "12:01"
+      },
+      {
+        "asor_start": "4:37",
+        "fajr_end": "5:09",
+        "iftar": "6:49",
+        "isha_start": "8:13",
+        "sehri_end": "3:38",
+        "zuhor_start": "12:01"
+      },
+      {
+        "asor_start": "4:37",
+        "fajr_end": "5:09",
+        "iftar": "6:50",
+        "isha_start": "8:13",
+        "sehri_end": "3:38",
+        "zuhor_start": "12:01"
+      },
+      {
+        "asor_start": "4:38",
+        "fajr_end": "5:09",
+        "iftar": "6:50",
+        "isha_start": "8:14",
+        "sehri_end": "3:38",
+        "zuhor_start": "12:02"
+      },
+      {
+        "asor_start": "4:38",
+        "fajr_end": "5:09",
+        "iftar": "6:50",
+        "isha_start": "8:14",
+        "sehri_end": "3:37",
+        "zuhor_start": "12:02"
+      },
+      {
+        "asor_start": "4:38",
+        "fajr_end": "5:09",
+        "iftar": "6:50",
+        "isha_start": "8:14",
+        "sehri_end": "3:38",
+        "zuhor_start": "12:02"
+      },
+      {
+        "asor_start": "4:38",
+        "fajr_end": "5:10",
+        "iftar": "6:51",
+        "isha_start": "8:15",
+        "sehri_end": "3:38",
+        "zuhor_start": "12:02"
+      },
+      {
+        "asor_start": "4:39",
+        "fajr_end": "5:10",
+        "iftar": "6:51",
+        "isha_start": "8:15",
+        "sehri_end": "3:38",
+        "zuhor_start": "12:02"
+      },
+      {
+        "asor_start": "4:39",
+        "fajr_end": "5:10",
+        "iftar": "6:51",
+        "isha_start": "8:15",
+        "sehri_end": "3:38",
+        "zuhor_start": "12:02"
+      },
+      {
+        "asor_start": "4:39",
+        "fajr_end": "5:10",
+        "iftar": "6:51",
+        "isha_start": "8:15",
+        "sehri_end": "3:38",
+        "zuhor_start": "12:03"
+      },
+      {
+        "asor_start": "4:39",
+        "fajr_end": "5:10",
+        "iftar": "6:52",
+        "isha_start": "8:16",
+        "sehri_end": "3:38",
+        "zuhor_start": "12:03"
+      },
+      {
+        "asor_start": "4:39",
+        "fajr_end": "5:10",
+        "iftar": "6:52",
+        "isha_start": "8:16",
+        "sehri_end": "3:38",
+        "zuhor_start": "12:03"
+      },
+      {
+        "asor_start": "4:40",
+        "fajr_end": "5:11",
+        "iftar": "6:52",
+        "isha_start": "8:16",
+        "sehri_end": "3:39",
+        "zuhor_start": "12:03"
+      },
+      {
+        "asor_start": "4:40",
+        "fajr_end": "5:11",
+        "iftar": "6:52",
+        "isha_start": "8:16",
+        "sehri_end": "3:39",
+        "zuhor_start": "12:03"
+      },
+      {
+        "asor_start": "4:40",
+        "fajr_end": "5:11",
+        "iftar": "6:52",
+        "isha_start": "8:16",
+        "sehri_end": "3:39",
+        "zuhor_start": "12:03"
+      },
+      {
+        "asor_start": "4:40",
+        "fajr_end": "5:11",
+        "iftar": "6:53",
+        "isha_start": "8:17",
+        "sehri_end": "3:39",
+        "zuhor_start": "12:04"
+      },
+      {
+        "asor_start": "4:40",
+        "fajr_end": "5:12",
+        "iftar": "6:53",
+        "isha_start": "8:17",
+        "sehri_end": "3:39",
+        "zuhor_start": "12:04"
+      },
+      {
+        "asor_start": "4:41",
+        "fajr_end": "5:12",
+        "iftar": "6:53",
+        "isha_start": "8:17",
+        "sehri_end": "3:40",
+        "zuhor_start": "12:04"
+      },
+      {
+        "asor_start": "4:41",
+        "fajr_end": "5:12",
+        "iftar": "6:53",
+        "isha_start": "8:17",
+        "sehri_end": "3:40",
+        "zuhor_start": "12:05"
+      },
+      {
+        "asor_start": "4:41",
+        "fajr_end": "5:12",
+        "iftar": "6:53",
+        "isha_start": "8:18",
+        "sehri_end": "3:41",
+        "zuhor_start": "12:05"
+      },
+      {
+        "asor_start": "4:41",
+        "fajr_end": "5:13",
+        "iftar": "6:53",
+        "isha_start": "8:18",
+        "sehri_end": "3:41",
+        "zuhor_start": "12:05"
+      },
+      {
+        "asor_start": "4:42",
+        "fajr_end": "5:13",
+        "iftar": "6:53",
+        "isha_start": "8:18",
+        "sehri_end": "3:42",
+        "zuhor_start": "12:06"
+      }
+    ],
+    "march": [
+      {
+        "asor_start": "0:00",
+        "fajr_end": "0:00",
+        "iftar": "0:00",
+        "isha_start": "0:00",
+        "sehri_end": "0:00",
+        "zuhor_start": "0:00"
+      },
+      {
+        "asor_start": "4:22",
+        "fajr_end": "6:19",
+        "iftar": "6:05",
+        "isha_start": "7:18",
+        "sehri_end": "5:01",
+        "zuhor_start": "12:14"
+      },
+      {
+        "asor_start": "4:22",
+        "fajr_end": "6:18",
+        "iftar": "6:05",
+        "isha_start": "7:18",
+        "sehri_end": "5:00",
+        "zuhor_start": "12:14"
+      },
+      {
+        "asor_start": "4:22",
+        "fajr_end": "6:17",
+        "iftar": "6:06",
+        "isha_start": "7:19",
+        "sehri_end": "4:59",
+        "zuhor_start": "12:14"
+      },
+      {
+        "asor_start": "4:23",
+        "fajr_end": "6:17",
+        "iftar": "6:06",
+        "isha_start": "7:19",
+        "sehri_end": "4:59",
+        "zuhor_start": "12:14"
+      },
+      {
+        "asor_start": "4:23",
+        "fajr_end": "6:16",
+        "iftar": "6:06",
+        "isha_start": "7:19",
+        "sehri_end": "4:58",
+        "zuhor_start": "12:13"
+      },
+      {
+        "asor_start": "4:24",
+        "fajr_end": "6:15",
+        "iftar": "6:07",
+        "isha_start": "7:20",
+        "sehri_end": "4:57",
+        "zuhor_start": "12:13"
+      },
+      {
+        "asor_start": "4:24",
+        "fajr_end": "6:14",
+        "iftar": "6:07",
+        "isha_start": "7:20",
+        "sehri_end": "4:56",
+        "zuhor_start": "12:13"
+      },
+      {
+        "asor_start": "4:24",
+        "fajr_end": "6:13",
+        "iftar": "6:08",
+        "isha_start": "7:21",
+        "sehri_end": "4:55",
+        "zuhor_start": "12:13"
+      },
+      {
+        "asor_start": "4:25",
+        "fajr_end": "6:12",
+        "iftar": "6:08",
+        "isha_start": "7:21",
+        "sehri_end": "4:54",
+        "zuhor_start": "12:12"
+      },
+      {
+        "asor_start": "4:25",
+        "fajr_end": "6:11",
+        "iftar": "6:09",
+        "isha_start": "7:22",
+        "sehri_end": "4:53",
+        "zuhor_start": "12:12"
+      },
+      {
+        "asor_start": "4:26",
+        "fajr_end": "6:10",
+        "iftar": "6:09",
+        "isha_start": "7:22",
+        "sehri_end": "4:52",
+        "zuhor_start": "12:12"
+      },
+      {
+        "asor_start": "4:26",
+        "fajr_end": "6:09",
+        "iftar": "6:10",
+        "isha_start": "7:23",
+        "sehri_end": "4:51",
+        "zuhor_start": "12:12"
+      },
+      {
+        "asor_start": "4:26",
+        "fajr_end": "6:08",
+        "iftar": "6:10",
+        "isha_start": "7:23",
+        "sehri_end": "4:50",
+        "zuhor_start": "12:12"
+      },
+      {
+        "asor_start": "4:26",
+        "fajr_end": "6:07",
+        "iftar": "6:10",
+        "isha_start": "7:23",
+        "sehri_end": "4:49",
+        "zuhor_start": "12:11"
+      },
+      {
+        "asor_start": "4:26",
+        "fajr_end": "6:06",
+        "iftar": "6:11",
+        "isha_start": "7:24",
+        "sehri_end": "4:48",
+        "zuhor_start": "12:11"
+      },
+      {
+        "asor_start": "4:27",
+        "fajr_end": "6:05",
+        "iftar": "6:11",
+        "isha_start": "7:24",
+        "sehri_end": "4:47",
+        "zuhor_start": "12:11"
+      },
+      {
+        "asor_start": "4:27",
+        "fajr_end": "6:04",
+        "iftar": "6:12",
+        "isha_start": "7:25",
+        "sehri_end": "4:46",
+        "zuhor_start": "12:10"
+      },
+      {
+        "asor_start": "4:27",
+        "fajr_end": "6:03",
+        "iftar": "6:12",
+        "isha_start": "7:25",
+        "sehri_end": "4:45",
+        "zuhor_start": "12:10"
+      },
+      {
+        "asor_start": "4:27",
+        "fajr_end": "6:02",
+        "iftar": "6:12",
+        "isha_start": "7:25",
+        "sehri_end": "4:44",
+        "zuhor_start": "12:10"
+      },
+      {
+        "asor_start": "4:27",
+        "fajr_end": "6:01",
+        "iftar": "6:13",
+        "isha_start": "7:26",
+        "sehri_end": "4:43",
+        "zuhor_start": "12:09"
+      },
+      {
+        "asor_start": "4:27",
+        "fajr_end": "6:00",
+        "iftar": "6:13",
+        "isha_start": "7:26",
+        "sehri_end": "4:42",
+        "zuhor_start": "12:09"
+      },
+      {
+        "asor_start": "4:28",
+        "fajr_end": "5:59",
+        "iftar": "6:14",
+        "isha_start": "7:27",
+        "sehri_end": "4:41",
+        "zuhor_start": "12:09"
+      },
+      {
+        "asor_start": "4:28",
+        "fajr_end": "5:58",
+        "iftar": "6:14",
+        "isha_start": "7:27",
+        "sehri_end": "4:40",
+        "zuhor_start": "12:08"
+      },
+      {
+        "asor_start": "4:28",
+        "fajr_end": "5:57",
+        "iftar": "6:14",
+        "isha_start": "7:28",
+        "sehri_end": "4:39",
+        "zuhor_start": "12:08"
+      },
+      {
+        "asor_start": "4:28",
+        "fajr_end": "5:56",
+        "iftar": "6:15",
+        "isha_start": "7:29",
+        "sehri_end": "4:38",
+        "zuhor_start": "12:08"
+      },
+      {
+        "asor_start": "4:28",
+        "fajr_end": "5:55",
+        "iftar": "6:15",
+        "isha_start": "7:29",
+        "sehri_end": "4:37",
+        "zuhor_start": "12:07"
+      },
+      {
+        "asor_start": "4:29",
+        "fajr_end": "5:54",
+        "iftar": "6:16",
+        "isha_start": "7:30",
+        "sehri_end": "4:36",
+        "zuhor_start": "12:07"
+      },
+      {
+        "asor_start": "4:29",
+        "fajr_end": "5:53",
+        "iftar": "6:16",
+        "isha_start": "7:30",
+        "sehri_end": "4:35",
+        "zuhor_start": "12:07"
+      },
+      {
+        "asor_start": "4:29",
+        "fajr_end": "5:52",
+        "iftar": "6:16",
+        "isha_start": "7:31",
+        "sehri_end": "4:34",
+        "zuhor_start": "12:06"
+      },
+      {
+        "asor_start": "4:29",
+        "fajr_end": "5:51",
+        "iftar": "6:17",
+        "isha_start": "7:32",
+        "sehri_end": "4:33",
+        "zuhor_start": "12:06"
+      },
+      {
+        "asor_start": "4:29",
+        "fajr_end": "5:50",
+        "iftar": "6:17",
+        "isha_start": "7:32",
+        "sehri_end": "4:32",
+        "zuhor_start": "12:06"
+      }
+    ],
+    "may": [
+      {
+        "asor_start": "0:00",
+        "fajr_end": "0:00",
+        "iftar": "0:00",
+        "isha_start": "0:00",
+        "sehri_end": "0:00",
+        "zuhor_start": "0:00"
+      },
+      {
+        "asor_start": "4:31",
+        "fajr_end": "5:23",
+        "iftar": "6:29",
+        "isha_start": "7:50",
+        "sehri_end": "3:59",
+        "zuhor_start": "11:59"
+      },
+      {
+        "asor_start": "4:31",
+        "fajr_end": "5:23",
+        "iftar": "6:30",
+        "isha_start": "7:51",
+        "sehri_end": "3:58",
+        "zuhor_start": "11:59"
+      },
+      {
+        "asor_start": "4:31",
+        "fajr_end": "5:22",
+        "iftar": "6:31",
+        "isha_start": "7:51",
+        "sehri_end": "3:57",
+        "zuhor_start": "11:59"
+      },
+      {
+        "asor_start": "4:31",
+        "fajr_end": "5:21",
+        "iftar": "6:32",
+        "isha_start": "7:52",
+        "sehri_end": "3:56",
+        "zuhor_start": "11:59"
+      },
+      {
+        "asor_start": "4:31",
+        "fajr_end": "5:21",
+        "iftar": "6:33",
+        "isha_start": "7:53",
+        "sehri_end": "3:55",
+        "zuhor_start": "11:59"
+      },
+      {
+        "asor_start": "4:31",
+        "fajr_end": "5:20",
+        "iftar": "6:34",
+        "isha_start": "7:53",
+        "sehri_end": "3:54",
+        "zuhor_start": "11:59"
+      },
+      {
+        "asor_start": "4:31",
+        "fajr_end": "5:19",
+        "iftar": "6:34",
+        "isha_start": "7:54",
+        "sehri_end": "3:52",
+        "zuhor_start": "11:59"
+      },
+      {
+        "asor_start": "4:31",
+        "fajr_end": "5:19",
+        "iftar": "6:34",
+        "isha_start": "7:54",
+        "sehri_end": "3:51",
+        "zuhor_start": "11:59"
+      },
+      {
+        "asor_start": "4:32",
+        "fajr_end": "5:18",
+        "iftar": "6:35",
+        "isha_start": "7:55",
+        "sehri_end": "3:50",
+        "zuhor_start": "11:58"
+      },
+      {
+        "asor_start": "4:32",
+        "fajr_end": "5:18",
+        "iftar": "6:35",
+        "isha_start": "7:55",
+        "sehri_end": "3:50",
+        "zuhor_start": "11:58"
+      },
+      {
+        "asor_start": "4:32",
+        "fajr_end": "5:17",
+        "iftar": "6:36",
+        "isha_start": "7:56",
+        "sehri_end": "3:49",
+        "zuhor_start": "11:58"
+      },
+      {
+        "asor_start": "4:32",
+        "fajr_end": "5:16",
+        "iftar": "6:36",
+        "isha_start": "7:57",
+        "sehri_end": "3:49",
+        "zuhor_start": "11:58"
+      },
+      {
+        "asor_start": "4:32",
+        "fajr_end": "5:16",
+        "iftar": "6:36",
+        "isha_start": "7:57",
+        "sehri_end": "3:48",
+        "zuhor_start": "11:58"
+      },
+      {
+        "asor_start": "4:32",
+        "fajr_end": "5:15",
+        "iftar": "6:37",
+        "isha_start": "7:58",
+        "sehri_end": "3:48",
+        "zuhor_start": "11:58"
+      },
+      {
+        "asor_start": "4:33",
+        "fajr_end": "5:15",
+        "iftar": "6:37",
+        "isha_start": "7:59",
+        "sehri_end": "3:47",
+        "zuhor_start": "11:58"
+      },
+      {
+        "asor_start": "4:33",
+        "fajr_end": "5:14",
+        "iftar": "6:38",
+        "isha_start": "8:00",
+        "sehri_end": "3:47",
+        "zuhor_start": "11:58"
+      },
+      {
+        "asor_start": "4:33",
+        "fajr_end": "5:14",
+        "iftar": "6:38",
+        "isha_start": "8:00",
+        "sehri_end": "3:46",
+        "zuhor_start": "11:58"
+      },
+      {
+        "asor_start": "4:33",
+        "fajr_end": "5:14",
+        "iftar": "6:39",
+        "isha_start": "8:01",
+        "sehri_end": "3:46",
+        "zuhor_start": "11:58"
+      },
+      {
+        "asor_start": "4:33",
+        "fajr_end": "5:13",
+        "iftar": "6:39",
+        "isha_start": "8:01",
+        "sehri_end": "3:45",
+        "zuhor_start": "11:58"
+      },
+      {
+        "asor_start": "4:33",
+        "fajr_end": "5:13",
+        "iftar": "6:40",
+        "isha_start": "8:02",
+        "sehri_end": "3:44",
+        "zuhor_start": "11:59"
+      },
+      {
+        "asor_start": "4:33",
+        "fajr_end": "5:12",
+        "iftar": "6:40",
+        "isha_start": "8:03",
+        "sehri_end": "3:44",
+        "zuhor_start": "11:59"
+      },
+      {
+        "asor_start": "4:34",
+        "fajr_end": "5:12",
+        "iftar": "6:41",
+        "isha_start": "8:03",
+        "sehri_end": "3:43",
+        "zuhor_start": "11:59"
+      },
+      {
+        "asor_start": "4:34",
+        "fajr_end": "5:12",
+        "iftar": "6:42",
+        "isha_start": "8:04",
+        "sehri_end": "3:43",
+        "zuhor_start": "11:59"
+      },
+      {
+        "asor_start": "4:34",
+        "fajr_end": "5:11",
+        "iftar": "6:42",
+        "isha_start": "8:05",
+        "sehri_end": "3:42",
+        "zuhor_start": "11:59"
+      },
+      {
+        "asor_start": "4:34",
+        "fajr_end": "5:11",
+        "iftar": "6:42",
+        "isha_start": "8:06",
+        "sehri_end": "3:42",
+        "zuhor_start": "11:59"
+      },
+      {
+        "asor_start": "4:34",
+        "fajr_end": "5:11",
+        "iftar": "6:43",
+        "isha_start": "8:06",
+        "sehri_end": "3:41",
+        "zuhor_start": "11:59"
+      },
+      {
+        "asor_start": "4:35",
+        "fajr_end": "5:11",
+        "iftar": "6:43",
+        "isha_start": "8:06",
+        "sehri_end": "3:41",
+        "zuhor_start": "11:59"
+      },
+      {
+        "asor_start": "4:35",
+        "fajr_end": "5:10",
+        "iftar": "6:44",
+        "isha_start": "8:07",
+        "sehri_end": "3:40",
+        "zuhor_start": "11:59"
+      },
+      {
+        "asor_start": "4:35",
+        "fajr_end": "5:10",
+        "iftar": "6:44",
+        "isha_start": "8:07",
+        "sehri_end": "3:40",
+        "zuhor_start": "11:59"
+      },
+      {
+        "asor_start": "4:35",
+        "fajr_end": "5:10",
+        "iftar": "6:45",
+        "isha_start": "8:08",
+        "sehri_end": "3:40",
+        "zuhor_start": "11:59"
+      },
+      {
+        "asor_start": "4:35",
+        "fajr_end": "5:10",
+        "iftar": "6:45",
+        "isha_start": "8:08",
+        "sehri_end": "3:39",
+        "zuhor_start": "12:00"
+      }
+    ],
+    "november": [
+      {
+        "asor_start": "0:00",
+        "fajr_end": "0:00",
+        "iftar": "0:00",
+        "isha_start": "0:00",
+        "sehri_end": "0:00",
+        "zuhor_start": "00:00"
+      },
+      {
+        "asor_start": "3:43",
+        "fajr_end": "6:04",
+        "iftar": "5:23",
+        "isha_start": "6:38",
+        "sehri_end": "4:43",
+        "zuhor_start": "11:45"
+      },
+      {
+        "asor_start": "3:43",
+        "fajr_end": "6:04",
+        "iftar": "5:23",
+        "isha_start": "6:38",
+        "sehri_end": "4:44",
+        "zuhor_start": "11:45"
+      },
+      {
+        "asor_start": "3:42",
+        "fajr_end": "6:05",
+        "iftar": "5:22",
+        "isha_start": "6:37",
+        "sehri_end": "4:44",
+        "zuhor_start": "11:45"
+      },
+      {
+        "asor_start": "3:42",
+        "fajr_end": "6:05",
+        "iftar": "5:22",
+        "isha_start": "6:37",
+        "sehri_end": "4:44",
+        "zuhor_start": "11:45"
+      },
+      {
+        "asor_start": "3:42",
+        "fajr_end": "6:06",
+        "iftar": "5:21",
+        "isha_start": "6:36",
+        "sehri_end": "4:45",
+        "zuhor_start": "11:45"
+      },
+      {
+        "asor_start": "3:41",
+        "fajr_end": "6:07",
+        "iftar": "5:20",
+        "isha_start": "6:35",
+        "sehri_end": "4:46",
+        "zuhor_start": "11:45"
+      },
+      {
+        "asor_start": "3:41",
+        "fajr_end": "6:07",
+        "iftar": "5:20",
+        "isha_start": "6:35",
+        "sehri_end": "4:46",
+        "zuhor_start": "11:45"
+      },
+      {
+        "asor_start": "3:41",
+        "fajr_end": "6:08",
+        "iftar": "5:19",
+        "isha_start": "6:35",
+        "sehri_end": "4:46",
+        "zuhor_start": "11:45"
+      },
+      {
+        "asor_start": "3:39",
+        "fajr_end": "6:08",
+        "iftar": "5:18",
+        "isha_start": "6:34",
+        "sehri_end": "4:47",
+        "zuhor_start": "12:07"
+      },
+      {
+        "asor_start": "3:39",
+        "fajr_end": "6:09",
+        "iftar": "5:18",
+        "isha_start": "6:34",
+        "sehri_end": "4:47",
+        "zuhor_start": "11:46"
+      },
+      {
+        "asor_start": "3:39",
+        "fajr_end": "6:10",
+        "iftar": "5:18",
+        "isha_start": "6:34",
+        "sehri_end": "4:48",
+        "zuhor_start": "11:46"
+      },
+      {
+        "asor_start": "3:38",
+        "fajr_end": "6:11",
+        "iftar": "5:17",
+        "isha_start": "6:33",
+        "sehri_end": "4:49",
+        "zuhor_start": "11:46"
+      },
+      {
+        "asor_start": "3:38",
+        "fajr_end": "6:11",
+        "iftar": "5:17",
+        "isha_start": "6:33",
+        "sehri_end": "4:49",
+        "zuhor_start": "11:46"
+      },
+      {
+        "asor_start": "3:38",
+        "fajr_end": "6:12",
+        "iftar": "5:17",
+        "isha_start": "6:33",
+        "sehri_end": "4:50",
+        "zuhor_start": "11:46"
+      },
+      {
+        "asor_start": "3:37",
+        "fajr_end": "6:12",
+        "iftar": "5:16",
+        "isha_start": "6:32",
+        "sehri_end": "4:51",
+        "zuhor_start": "11:47"
+      },
+      {
+        "asor_start": "3:37",
+        "fajr_end": "6:13",
+        "iftar": "5:16",
+        "isha_start": "6:32",
+        "sehri_end": "4:51",
+        "zuhor_start": "11:47"
+      },
+      {
+        "asor_start": "3:37",
+        "fajr_end": "6:14",
+        "iftar": "5:16",
+        "isha_start": "6:32",
+        "sehri_end": "4:51",
+        "zuhor_start": "11:47"
+      },
+      {
+        "asor_start": "3:36",
+        "fajr_end": "6:14",
+        "iftar": "5:15",
+        "isha_start": "6:32",
+        "sehri_end": "4:52",
+        "zuhor_start": "11:47"
+      },
+      {
+        "asor_start": "3:36",
+        "fajr_end": "6:15",
+        "iftar": "5:15",
+        "isha_start": "6:32",
+        "sehri_end": "4:52",
+        "zuhor_start": "11:47"
+      },
+      {
+        "asor_start": "3:36",
+        "fajr_end": "6:16",
+        "iftar": "5:15",
+        "isha_start": "6:32",
+        "sehri_end": "4:53",
+        "zuhor_start": "11:47"
+      },
+      {
+        "asor_start": "3:35",
+        "fajr_end": "6:17",
+        "iftar": "5:15",
+        "isha_start": "6:31",
+        "sehri_end": "4:54",
+        "zuhor_start": "11:48"
+      },
+      {
+        "asor_start": "3:35",
+        "fajr_end": "6:17",
+        "iftar": "5:15",
+        "isha_start": "6:31",
+        "sehri_end": "4:54",
+        "zuhor_start": "11:48"
+      },
+      {
+        "asor_start": "3:35",
+        "fajr_end": "6:18",
+        "iftar": "5:15",
+        "isha_start": "6:31",
+        "sehri_end": "4:54",
+        "zuhor_start": "11:48"
+      },
+      {
+        "asor_start": "3:35",
+        "fajr_end": "6:19",
+        "iftar": "5:14",
+        "isha_start": "6:31",
+        "sehri_end": "4:55",
+        "zuhor_start": "11:49"
+      },
+      {
+        "asor_start": "3:15",
+        "fajr_end": "6:19",
+        "iftar": "5:14",
+        "isha_start": "6:31",
+        "sehri_end": "4:56",
+        "zuhor_start": "11:49"
+      },
+      {
+        "asor_start": "3:35",
+        "fajr_end": "6:19",
+        "iftar": "5:14",
+        "isha_start": "6:31",
+        "sehri_end": "4:57",
+        "zuhor_start": "11:49"
+      },
+      {
+        "asor_start": "3:35",
+        "fajr_end": "6:21",
+        "iftar": "5:14",
+        "isha_start": "6:31",
+        "sehri_end": "4:58",
+        "zuhor_start": "11:50"
+      },
+      {
+        "asor_start": "3:35",
+        "fajr_end": "6:22",
+        "iftar": "5:14",
+        "isha_start": "6:31",
+        "sehri_end": "4:58",
+        "zuhor_start": "11:50"
+      },
+      {
+        "asor_start": "3:35",
+        "fajr_end": "6:23",
+        "iftar": "5:14",
+        "isha_start": "6:31",
+        "sehri_end": "4:58",
+        "zuhor_start": "11:50"
+      },
+      {
+        "asor_start": "3:35",
+        "fajr_end": "6:23",
+        "iftar": "5:14",
+        "isha_start": "6:32",
+        "sehri_end": "4:59",
+        "zuhor_start": "11:51"
+      }
+    ],
+    "october": [
+      {
+        "asor_start": "0:00",
+        "fajr_end": "0:00",
+        "iftar": "0:00",
+        "isha_start": "0:00",
+        "sehri_end": "0:00",
+        "zuhor_start": "00:00"
+      },
+      {
+        "asor_start": "4:06",
+        "fajr_end": "5:50",
+        "iftar": "5:49",
+        "isha_start": "7:02",
+        "sehri_end": "4:31",
+        "zuhor_start": "11:51"
+      },
+      {
+        "asor_start": "4:05",
+        "fajr_end": "5:50",
+        "iftar": "5:48",
+        "isha_start": "7:01",
+        "sehri_end": "4:31",
+        "zuhor_start": "11:51"
+      },
+      {
+        "asor_start": "4:04",
+        "fajr_end": "5:50",
+        "iftar": "5:47",
+        "isha_start": "7:00",
+        "sehri_end": "4:31",
+        "zuhor_start": "11:50"
+      },
+      {
+        "asor_start": "4:04",
+        "fajr_end": "5:51",
+        "iftar": "5:46",
+        "isha_start": "6:59",
+        "sehri_end": "4:32",
+        "zuhor_start": "11:50"
+      },
+      {
+        "asor_start": "4:03",
+        "fajr_end": "5:51",
+        "iftar": "5:45",
+        "isha_start": "6:58",
+        "sehri_end": "4:32",
+        "zuhor_start": "11:50"
+      },
+      {
+        "asor_start": "4:02",
+        "fajr_end": "5:51",
+        "iftar": "5:44",
+        "isha_start": "6:57",
+        "sehri_end": "4:33",
+        "zuhor_start": "11:50"
+      },
+      {
+        "asor_start": "4:02",
+        "fajr_end": "5:52",
+        "iftar": "5:43",
+        "isha_start": "6:56",
+        "sehri_end": "4:33",
+        "zuhor_start": "11:50"
+      },
+      {
+        "asor_start": "4:01",
+        "fajr_end": "5:53",
+        "iftar": "5:42",
+        "isha_start": "6:55",
+        "sehri_end": "4:33",
+        "zuhor_start": "11:50"
+      },
+      {
+        "asor_start": "4:00",
+        "fajr_end": "5:53",
+        "iftar": "5:41",
+        "isha_start": "6:54",
+        "sehri_end": "4:34",
+        "zuhor_start": "11:49"
+      },
+      {
+        "asor_start": "3:59",
+        "fajr_end": "5:53",
+        "iftar": "5:41",
+        "isha_start": "6:54",
+        "sehri_end": "4:34",
+        "zuhor_start": "11:49"
+      },
+      {
+        "asor_start": "3:58",
+        "fajr_end": "5:53",
+        "iftar": "5:40",
+        "isha_start": "6:53",
+        "sehri_end": "4:34",
+        "zuhor_start": "11:49"
+      },
+      {
+        "asor_start": "3:57",
+        "fajr_end": "5:54",
+        "iftar": "5:39",
+        "isha_start": "6:52",
+        "sehri_end": "4:35",
+        "zuhor_start": "11:49"
+      },
+      {
+        "asor_start": "3:57",
+        "fajr_end": "5:54",
+        "iftar": "5:38",
+        "isha_start": "6:52",
+        "sehri_end": "4:35",
+        "zuhor_start": "11:49"
+      },
+      {
+        "asor_start": "3:56",
+        "fajr_end": "5:54",
+        "iftar": "5:37",
+        "isha_start": "6:51",
+        "sehri_end": "4:35",
+        "zuhor_start": "11:49"
+      },
+      {
+        "asor_start": "3:55",
+        "fajr_end": "5:53",
+        "iftar": "5:36",
+        "isha_start": "6:50",
+        "sehri_end": "4:36",
+        "zuhor_start": "11:48"
+      },
+      {
+        "asor_start": "3:55",
+        "fajr_end": "5:56",
+        "iftar": "5:35",
+        "isha_start": "6:49",
+        "sehri_end": "4:36",
+        "zuhor_start": "11:48"
+      },
+      {
+        "asor_start": "3:54",
+        "fajr_end": "5:56",
+        "iftar": "5:35",
+        "isha_start": "6:48",
+        "sehri_end": "4:36",
+        "zuhor_start": "11:48"
+      },
+      {
+        "asor_start": "3:53",
+        "fajr_end": "5:57",
+        "iftar": "5:33",
+        "isha_start": "6:47",
+        "sehri_end": "4:37",
+        "zuhor_start": "11:47"
+      },
+      {
+        "asor_start": "3:53",
+        "fajr_end": "5:57",
+        "iftar": "5:33",
+        "isha_start": "6:47",
+        "sehri_end": "4:37",
+        "zuhor_start": "11:47"
+      },
+      {
+        "asor_start": "3:52",
+        "fajr_end": "5:57",
+        "iftar": "5:32",
+        "isha_start": "6:46",
+        "sehri_end": "4:38",
+        "zuhor_start": "11:47"
+      },
+      {
+        "asor_start": "3:51",
+        "fajr_end": "5:58",
+        "iftar": "5:31",
+        "isha_start": "6:45",
+        "sehri_end": "4:39",
+        "zuhor_start": "11:47"
+      },
+      {
+        "asor_start": "3:50",
+        "fajr_end": "5:58",
+        "iftar": "5:30",
+        "isha_start": "6:44",
+        "sehri_end": "4:39",
+        "zuhor_start": "11:47"
+      },
+      {
+        "asor_start": "3:49",
+        "fajr_end": "5:59",
+        "iftar": "5:29",
+        "isha_start": "6:43",
+        "sehri_end": "4:39",
+        "zuhor_start": "11:47"
+      },
+      {
+        "asor_start": "3:48",
+        "fajr_end": "5:59",
+        "iftar": "5:28",
+        "isha_start": "6:42",
+        "sehri_end": "4:40",
+        "zuhor_start": "11:46"
+      },
+      {
+        "asor_start": "3:48",
+        "fajr_end": "5:59",
+        "iftar": "5:28",
+        "isha_start": "6:42",
+        "sehri_end": "4:40",
+        "zuhor_start": "11:46"
+      },
+      {
+        "asor_start": "3:47",
+        "fajr_end": "6:00",
+        "iftar": "5:27",
+        "isha_start": "6:41",
+        "sehri_end": "4:40",
+        "zuhor_start": "11:46"
+      },
+      {
+        "asor_start": "3:46",
+        "fajr_end": "6:00",
+        "iftar": "5:26",
+        "isha_start": "6:40",
+        "sehri_end": "4:41",
+        "zuhor_start": "11:46"
+      },
+      {
+        "asor_start": "3:46",
+        "fajr_end": "6:01",
+        "iftar": "5:26",
+        "isha_start": "6:40",
+        "sehri_end": "4:41",
+        "zuhor_start": "11:45"
+      },
+      {
+        "asor_start": "3:45",
+        "fajr_end": "6:02",
+        "iftar": "5:25",
+        "isha_start": "6:40",
+        "sehri_end": "4:41",
+        "zuhor_start": "11:45"
+      },
+      {
+        "asor_start": "3:44",
+        "fajr_end": "6:02",
+        "iftar": "5:24",
+        "isha_start": "6:39",
+        "sehri_end": "4:42",
+        "zuhor_start": "11:45"
+      },
+      {
+        "asor_start": "3:44",
+        "fajr_end": "6:03",
+        "iftar": "5:24",
+        "isha_start": "6:39",
+        "sehri_end": "4:42",
+        "zuhor_start": "11:45"
+      }
+    ],
+    "september": [
+      {
+        "asor_start": "0:00",
+        "fajr_end": "0:00",
+        "iftar": "0:00",
+        "isha_start": "0:00",
+        "sehri_end": "0:00",
+        "zuhor_start": "00:00"
+      },
+      {
+        "asor_start": "4:29",
+        "fajr_end": "5:38",
+        "iftar": "6:20",
+        "isha_start": "7:35",
+        "sehri_end": "4:21",
+        "zuhor_start": "12:02"
+      },
+      {
+        "asor_start": "4:29",
+        "fajr_end": "5:38",
+        "iftar": "6:20",
+        "isha_start": "7:35",
+        "sehri_end": "4:21",
+        "zuhor_start": "12:02"
+      },
+      {
+        "asor_start": "4:27",
+        "fajr_end": "5:39",
+        "iftar": "6:18",
+        "isha_start": "7:33",
+        "sehri_end": "4:22",
+        "zuhor_start": "12:01"
+      },
+      {
+        "asor_start": "4:27",
+        "fajr_end": "5:39",
+        "iftar": "6:18",
+        "isha_start": "7:33",
+        "sehri_end": "4:22",
+        "zuhor_start": "12:01"
+      },
+      {
+        "asor_start": "4:27",
+        "fajr_end": "5:39",
+        "iftar": "6:18",
+        "isha_start": "7:33",
+        "sehri_end": "4:22",
+        "zuhor_start": "12:01"
+      },
+      {
+        "asor_start": "4:25",
+        "fajr_end": "5:40",
+        "iftar": "6:15",
+        "isha_start": "7:30",
+        "sehri_end": "4:24",
+        "zuhor_start": "12:00"
+      },
+      {
+        "asor_start": "4:25",
+        "fajr_end": "5:40",
+        "iftar": "6:15",
+        "isha_start": "7:30",
+        "sehri_end": "4:24",
+        "zuhor_start": "12:00"
+      },
+      {
+        "asor_start": "4:25",
+        "fajr_end": "5:40",
+        "iftar": "6:15",
+        "isha_start": "7:30",
+        "sehri_end": "4:24",
+        "zuhor_start": "12:00"
+      },
+      {
+        "asor_start": "4:23",
+        "fajr_end": "5:41",
+        "iftar": "6:12",
+        "isha_start": "7:26",
+        "sehri_end": "4:25",
+        "zuhor_start": "11:59"
+      },
+      {
+        "asor_start": "4:23",
+        "fajr_end": "5:41",
+        "iftar": "6:12",
+        "isha_start": "7:26",
+        "sehri_end": "4:25",
+        "zuhor_start": "11:59"
+      },
+      {
+        "asor_start": "4:23",
+        "fajr_end": "5:41",
+        "iftar": "6:12",
+        "isha_start": "7:26",
+        "sehri_end": "4:25",
+        "zuhor_start": "11:59"
+      },
+      {
+        "asor_start": "4:21",
+        "fajr_end": "5:42",
+        "iftar": "6:09",
+        "isha_start": "7:23",
+        "sehri_end": "4:26",
+        "zuhor_start": "11:58"
+      },
+      {
+        "asor_start": "4:21",
+        "fajr_end": "5:42",
+        "iftar": "6:09",
+        "isha_start": "7:23",
+        "sehri_end": "4:26",
+        "zuhor_start": "11:58"
+      },
+      {
+        "asor_start": "4:21",
+        "fajr_end": "5:42",
+        "iftar": "6:09",
+        "isha_start": "7:23",
+        "sehri_end": "4:26",
+        "zuhor_start": "11:58"
+      },
+      {
+        "asor_start": "4:19",
+        "fajr_end": "5:43",
+        "iftar": "6:06",
+        "isha_start": "7:20",
+        "sehri_end": "4:27",
+        "zuhor_start": "11:57"
+      },
+      {
+        "asor_start": "4:19",
+        "fajr_end": "5:43",
+        "iftar": "6:06",
+        "isha_start": "7:20",
+        "sehri_end": "4:27",
+        "zuhor_start": "11:57"
+      },
+      {
+        "asor_start": "4:19",
+        "fajr_end": "5:43",
+        "iftar": "6:06",
+        "isha_start": "7:20",
+        "sehri_end": "4:27",
+        "zuhor_start": "11:57"
+      },
+      {
+        "asor_start": "4:17",
+        "fajr_end": "5:45",
+        "iftar": "6:03",
+        "isha_start": "7:16",
+        "sehri_end": "4:29",
+        "zuhor_start": "11:56"
+      },
+      {
+        "asor_start": "4:17",
+        "fajr_end": "5:45",
+        "iftar": "6:03",
+        "isha_start": "7:16",
+        "sehri_end": "4:29",
+        "zuhor_start": "11:56"
+      },
+      {
+        "asor_start": "4:17",
+        "fajr_end": "5:45",
+        "iftar": "6:03",
+        "isha_start": "7:16",
+        "sehri_end": "4:29",
+        "zuhor_start": "11:56"
+      },
+      {
+        "asor_start": "4:14",
+        "fajr_end": "5:46",
+        "iftar": "5:59",
+        "isha_start": "7:13",
+        "sehri_end": "4:30",
+        "zuhor_start": "11:55"
+      },
+      {
+        "asor_start": "4:14",
+        "fajr_end": "5:46",
+        "iftar": "5:59",
+        "isha_start": "7:13",
+        "sehri_end": "4:30",
+        "zuhor_start": "11:55"
+      },
+      {
+        "asor_start": "4:14",
+        "fajr_end": "5:46",
+        "iftar": "5:59",
+        "isha_start": "7:13",
+        "sehri_end": "4:30",
+        "zuhor_start": "11:55"
+      },
+      {
+        "asor_start": "4:12",
+        "fajr_end": "5:46",
+        "iftar": "5:57",
+        "isha_start": "7:10",
+        "sehri_end": "4:31",
+        "zuhor_start": "11:54"
+      },
+      {
+        "asor_start": "4:12",
+        "fajr_end": "5:46",
+        "iftar": "5:57",
+        "isha_start": "7:10",
+        "sehri_end": "4:31",
+        "zuhor_start": "11:54"
+      },
+      {
+        "asor_start": "4:12",
+        "fajr_end": "5:46",
+        "iftar": "5:57",
+        "isha_start": "7:10",
+        "sehri_end": "4:31",
+        "zuhor_start": "11:54"
+      },
+      {
+        "asor_start": "4:09",
+        "fajr_end": "5:47",
+        "iftar": "5:53",
+        "isha_start": "7:06",
+        "sehri_end": "4:32",
+        "zuhor_start": "11:53"
+      },
+      {
+        "asor_start": "4:09",
+        "fajr_end": "5:47",
+        "iftar": "5:53",
+        "isha_start": "7:06",
+        "sehri_end": "4:32",
+        "zuhor_start": "11:53"
+      },
+      {
+        "asor_start": "4:09",
+        "fajr_end": "5:47",
+        "iftar": "5:53",
+        "isha_start": "7:06",
+        "sehri_end": "4:32",
+        "zuhor_start": "11:53"
+      },
+      {
+        "asor_start": "4:07",
+        "fajr_end": "5:50",
+        "iftar": "5:50",
+        "isha_start": "7:04",
+        "sehri_end": "4:36",
+        "zuhor_start": "11:52"
+      }
+    ]
+  },
+  "district_info": {
+    "bagerhat": {
+      "iftar": 0,
+      "sehri": 5
+    },
+    "bandarban": {
+      "iftar": -7,
+      "sehri": -10
+    },
+    "barguna": {
+      "iftar": -2,
+      "sehri": 5
+    },
+    "barisal": {
+      "iftar": -2,
+      "sehri": 2
+    },
+    "bhola": {
+      "iftar": -3,
+      "sehri": 2
+    },
+    "bogra": {
+      "iftar": 5,
+      "sehri": 1
+    },
+    "brahmanbaria": {
+      "iftar": -3,
+      "sehri": -4
+    },
+    "chandpur": {
+      "iftar": -3,
+      "sehri": 0
+    },
+    "chapainawabganj": {
+      "iftar": 9,
+      "sehri": 6
+    },
+    "chittagong": {
+      "iftar": -9,
+      "sehri": -2
+    },
+    "chuadanga": {
+      "iftar": 5,
+      "sehri": 6
+    },
+    "comilla": {
+      "iftar": -4,
+      "sehri": -2
+    },
+    "cox's bazar": {
+      "iftar": -6,
+      "sehri": -10
+    },
+    "dhaka": {
+      "iftar": 0,
+      "sehri": 0
+    },
+    "dinajpur": {
+      "iftar": 9,
+      "sehri": 2
+    },
+    "faridpur": {
+      "iftar": 1,
+      "sehri": 2
+    },
+    "feni": {
+      "iftar": -6,
+      "sehri": -2
+    },
+    "gaibandha": {
+      "iftar": 5,
+      "sehri": -1
+    },
+    "gazipur": {
+      "iftar": 0,
+      "sehri": -1
+    },
+    "gopalganj": {
+      "iftar": 1,
+      "sehri": 4
+    },
+    "habiganj": {
+      "iftar": -4,
+      "sehri": -6
+    },
+    "jamalpur": {
+      "iftar": 3,
+      "sehri": -1
+    },
+    "jessore": {
+      "iftar": 3,
+      "sehri": 6
+    },
+    "jhalokati": {
+      "iftar": -1,
+      "sehri": 3
+    },
+    "jhenaidah": {
+      "iftar": 4,
+      "sehri": 5
+    },
+    "joypurhat": {
+      "iftar": 7,
+      "sehri": 2
+    },
+    "khagrachhari": {
+      "iftar": -8,
+      "sehri": -5
+    },
+    "khulna": {
+      "iftar": -1,
+      "sehri": 6
+    },
+    "kishoreganj": {
+      "iftar": -1,
+      "sehri": -3
+    },
+    "kurigram": {
+      "iftar": 6,
+      "sehri": -2
+    },
+    "kushtia": {
+      "iftar": 5,
+      "sehri": 5
+    },
+    "lakshmipur": {
+      "iftar": -4,
+      "sehri": 0
+    },
+    "lalmonirhat": {
+      "iftar": 7,
+      "sehri": -2
+    },
+    "madaripur": {
+      "iftar": -1,
+      "sehri": 2
+    },
+    "magura": {
+      "iftar": 3,
+      "sehri": 4
+    },
+    "manikganj": {
+      "iftar": 1,
+      "sehri": 1
+    },
+    "meherpur": {
+      "iftar": 7,
+      "sehri": 7
+    },
+    "moulvibazar": {
+      "iftar": -5,
+      "sehri": -8
+    },
+    "munshiganj": {
+      "iftar": -1,
+      "sehri": 0
+    },
+    "mymensingh": {
+      "iftar": 1,
+      "sehri": -3
+    },
+    "naogaon": {
+      "iftar": 7,
+      "sehri": 3
+    },
+    "narail": {
+      "iftar": 2,
+      "sehri": 5
+    },
+    "narayanganj": {
+      "iftar": -1,
+      "sehri": 0
+    },
+    "narsingdi": {
+      "iftar": -2,
+      "sehri": -2
+    },
+    "natore": {
+      "iftar": 6,
+      "sehri": 4
+    },
+    "netrakona": {
+      "iftar": 0,
+      "sehri": -4
+    },
+    "nilphamari": {
+      "iftar": 9,
+      "sehri": 1
+    },
+    "noakhali": {
+      "iftar": -5,
+      "sehri": -1
+    },
+    "pabna": {
+      "iftar": 5,
+      "sehri": 4
+    },
+    "panchagarh": {
+      "iftar": 11,
+      "sehri": 1
+    },
+    "patuakhali": {
+      "iftar": -2,
+      "sehri": 4
+    },
+    "pirojpur": {
+      "iftar": -1,
+      "sehri": 5
+    },
+    "rajbari": {
+      "iftar": 4,
+      "sehri": 4
+    },
+    "rajshahi": {
+      "iftar": 7,
+      "sehri": 5
+    },
+    "rangamati": {
+      "iftar": -7,
+      "sehri": -10
+    },
+    "rangpur": {
+      "iftar": 7,
+      "sehri": -1
+    },
+    "satkhira": {
+      "iftar": 3,
+      "sehri": 8
+    },
+    "shariatpur": {
+      "iftar": -1,
+      "sehri": 2
+    },
+    "sherpur": {
+      "iftar": 3,
+      "sehri": -2
+    },
+    "sirajganj": {
+      "iftar": 3,
+      "sehri": 1
+    },
+    "sunamganj": {
+      "iftar": -2,
+      "sehri": -7
+    },
+    "sylhet": {
+      "iftar": -5,
+      "sehri": -9
+    },
+    "tangail": {
+      "iftar": 2,
+      "sehri": 0
+    },
+    "thakurgaon": {
+      "iftar": 11,
+      "sehri": 2
+    }
+  }
+}
