@@ -1,50 +1,53 @@
-[
-    {
-        "action_url": "https://www.facebook.com/appoframadan/",
-        "button_text": "Donate",
-        "enable": false,
-        "id": 1,
-        "message": "সাদকায়ে জারিয়ায় সামিল হতে এই অ্যাপের ডেভেলপমেন্টের জন্য কন্ট্রিবিউট করুন",
-        "title": "App of Ramadan প্রোজেক্টে ডোনেট করুন"
-    },
-    {
-        "action_url": "https://www.facebook.com/aromusk/",
-        "button_text": "আতর কিনুন",
-        "enable": false,
-        "id": 2,
-        "message": "আতর ব্যবহার করা সুন্নাহ। প্রিমিয়াম কোয়ালিটির অর্গানিক আতরের জন্য বিশ্বস্ত প্রতিষ্ঠান Aromusk",
-        "title": "রমাদনে Aromusk এর আতর কিনুন ১০% ছাড়ে!"
-    },
-    {
-        "action_url": "https://www.niyamahshop.com/",
-        "button_text": "visit shop",
-        "enable": false,
-        "id": 3,
-        "message": "কুরআন, হাদীস ও ইসলামী বই দ্রুত হোম ডেলিভারি পাওয়ার বিশ্বস্ত প্রতিষ্ঠান",
-        "title": "নিয়ামাহ বুকশপে ৫০% পর্যন্ত ছাড়!"
-    },
-    {
-        "action_url": "https://www.niyamahshop.com/",
-        "button_text": "visit shop",
-        "enable": false,
-        "id": 4,
-        "message": "বিশুদ্ধ ইসলামী বইয়ের জন্য নিয়ামাহ বুকশপ একটি নির্ভরযোগ্য প্রতিষ্ঠান",
-        "title": "বইমেলা উপলক্ষে নিয়ামাহ শপে ৫০% পর্যন্ত ছাড়!"
-    },
-    {
-        "action_url": "https://bangla.bdnews24.com/bangladesh/article1739349.bdnews",
-        "button_text": "Details",
-        "enable": false,
-        "id": 5,
-        "message": "সুরক্ষা নিশ্চিত না করে জুমআর নামাজে অংশ না নিতে ইসলামিক ফাউন্ডেশনের আহ্বান",
-        "title": "জুমার নামাজে উপস্থিতি সীমিত রাখার আহ্বান"
-    },
-    {
-        "action_url": "https://www.facebook.com/groups/muslimsday/",
-        "button_text": "JOIN",
-        "enable": true,
-        "id": 6,
-        "message": "অ্যাপের যে কোনো সমস্যা সরাসরি আমাদের জানান গ্রুপের মাধ্যমে",
-        "title": "জয়েন করুন Muslims Day ফেসবুক গ্রুপে"
-    }
-]
+{
+    "admob_enable": false,
+    "banner_ads": [
+        {
+            "action_url": "https://www.facebook.com/appoframadan/",
+            "button_text": "Donate",
+            "enable": false,
+            "id": 1,
+            "message": "সাদকায়ে জারিয়ায় সামিল হতে এই অ্যাপের ডেভেলপমেন্টের জন্য কন্ট্রিবিউট করুন",
+            "title": "App of Ramadan প্রোজেক্টে ডোনেট করুন"
+        },
+        {
+            "action_url": "https://www.facebook.com/aromusk/",
+            "button_text": "আতর কিনুন",
+            "enable": false,
+            "id": 2,
+            "message": "আতর ব্যবহার করা সুন্নাহ। প্রিমিয়াম কোয়ালিটির অর্গানিক আতরের জন্য বিশ্বস্ত প্রতিষ্ঠান Aromusk",
+            "title": "রমাদনে Aromusk এর আতর কিনুন ১০% ছাড়ে!"
+        },
+        {
+            "action_url": "https://www.niyamahshop.com/",
+            "button_text": "visit shop",
+            "enable": false,
+            "id": 3,
+            "message": "কুরআন, হাদীস ও ইসলামী বই দ্রুত হোম ডেলিভারি পাওয়ার বিশ্বস্ত প্রতিষ্ঠান",
+            "title": "নিয়ামাহ বুকশপে ৫০% পর্যন্ত ছাড়!"
+        },
+        {
+            "action_url": "https://www.niyamahshop.com/",
+            "button_text": "visit shop",
+            "enable": false,
+            "id": 4,
+            "message": "বিশুদ্ধ ইসলামী বইয়ের জন্য নিয়ামাহ বুকশপ একটি নির্ভরযোগ্য প্রতিষ্ঠান",
+            "title": "বইমেলা উপলক্ষে নিয়ামাহ শপে ৫০% পর্যন্ত ছাড়!"
+        },
+        {
+            "action_url": "https://bangla.bdnews24.com/bangladesh/article1739349.bdnews",
+            "button_text": "Details",
+            "enable": false,
+            "id": 5,
+            "message": "সুরক্ষা নিশ্চিত না করে জুমআর নামাজে অংশ না নিতে ইসলামিক ফাউন্ডেশনের আহ্বান",
+            "title": "জুমার নামাজে উপস্থিতি সীমিত রাখার আহ্বান"
+        },
+        {
+            "action_url": "https://www.facebook.com/groups/muslimsday/",
+            "button_text": "JOIN",
+            "enable": true,
+            "id": 6,
+            "message": "অ্যাপের যে কোনো সমস্যা সরাসরি আমাদের জানান গ্রুপের মাধ্যমে",
+            "title": "জয়েন করুন Muslims Day ফেসবুক গ্রুপে"
+        }
+    ]
+}
