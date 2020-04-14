@@ -1,0 +1,34 @@
+{
+  "ad" : {
+    "updated_at" : 1586695978,
+    "url" : "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/ad-array.json"
+  },
+  "app_info" : {
+    "updated_at" : 1585450723,
+    "url" : "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/app-info.json"
+  },
+  "arabic_month" : {
+    "updated_at" : 1585450723,
+    "url" : "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/arabic-month.json"
+  },
+  "district_time" : {
+    "updated_at" : 1586320932,
+    "url" : "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/district-time.json"
+  },
+  "donation" : {
+    "updated_at" : 1585450723,
+    "url" : "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/donation.json"
+  },
+  "dua" : {
+    "updated_at" : 1586666479,
+    "url" : "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/dua.json"
+  },
+  "qari" : {
+    "updated_at" : 1585450723,
+    "url" : "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/qari.json"
+  },
+  "special_note" : {
+    "updated_at" : 1586084357,
+    "url" : "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/special-note.json"
+  }
+}
