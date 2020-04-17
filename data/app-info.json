@@ -1,7 +1,7 @@
 {
-    "VersionCode": 56,
-    "VersionName": "5.0",
-    "changeLog": "অনেকগুলো বাগ ফিক্স করা হয়েছে। নিষিদ্ধ সময়ের বাগ ঠিক করা হয়েছে। এছাড়াও ইউজার ইন্টারফেসের কিছু সমস্যা ছিল কিছু ডিভাইসে, সেগুলোও ঠিক করা হয়েছে।\n\nঅ্যাপটি ব্যবহার করার পূর্বে আপডেট করে নেয়া উচিত। তাই আপডেট করা ছাড়া আপাতত ব্যবহার করতে পারছেন না।",
+    "VersionCode": 57,
+    "VersionName": "5.0.1",
+    "changeLog": "হিজরি তারিখ ও বারবার ইন্টারনেট কানেক্ট করার যে সমস্যা ছিল সেটা সমাধান করা হয়েছে।\n\nদেশের বাইরের জন্য হিজরি তারিখ সমন্বয় করার ফিচার এসেছে। তাই এখুনি অ্যাপ আপডেট করে নিন!",
     "feedbackUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeAziyC-G8Zna13ZkzHd3B4YwZduYkhqW4MYsmPQPD04Pn1dA/viewform?usp=sf_link",
     "ifaTimeEndPoint": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/district-time.json",
     "ifaTimeEndpointUpdatedAt": 1585652008,
