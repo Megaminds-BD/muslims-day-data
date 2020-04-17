@@ -4,7 +4,7 @@
         {
             "button_text": "Details",
             "action_url": "https://hellohasan.com/2020/02/17/%e0%a6%b0%e0%a6%ae%e0%a6%9c%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%b8%e0%a6%ae%e0%a7%9f%e0%a6%b8%e0%a7%82%e0%a6%9a%e0%a7%80-%e0%a7%a8%e0%a7%a6%e0%a7%a8%e0%a7%a6/",
-            "enable": false,
+            "enable": true,
             "id": 1,
             "message": "জেনে নিন কয়েকটি হাদীস, কিছু টিপস এবং সাথে কিছু লেকচারের রেফারেন্স",
             "title": "রমজানের প্রস্তুতি কেমন হবে?"
