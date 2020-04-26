@@ -4,7 +4,7 @@
         {
             "button_text": "Details",
             "action_url": "https://hellohasan.com/2016/07/04/%e0%a6%b8%e0%a7%87%e0%a6%b9%e0%a6%b0%e0%a6%bf-%e0%a6%87%e0%a6%ab%e0%a6%a4%e0%a6%be%e0%a6%b0%e0%a7%87%e0%a6%b0-%e0%a6%b8%e0%a6%ae%e0%a7%9f%e0%a6%b8%e0%a7%80%e0%a6%ae%e0%a6%be/",
-            "enable": true,
+            "enable": false,
             "id": 1,
             "message": "আজান পর্যন্ত কি সাহরি করা যায়? ইফতার কখন হয়? জেনে নিন কিছু মৌলিক তথ্য।",
             "title": "সাহরি ইফতারের সময়ঃ কিছু ভুল ধারনা"
@@ -12,18 +12,18 @@
         {
             "action_url": "https://www.facebook.com/AslafAcademyMale/posts/110158643997312",
             "button_text": "Details",
-            "enable": true,
+            "enable": false,
             "id": 2,
             "message": "ক্লাস নিবেন মসজিদে নববীর একজন বাংলাদেশী শিক্ষক। ২ রমাদান থেকে শুরু!",
             "title": "অনলাইন কুরআন শিক্ষা কোর্সঃ আসলাফ অ্যাকাডেমি"
         },
         {
-            "action_url": "https://www.niyamahshop.com/",
-            "button_text": "visit shop",
-            "enable": false,
+            "action_url": "https://www.facebook.com/shorobor.bd/photos/a.458045457664960/1770509469751879/?type=3&theater",
+            "button_text": "Details",
+            "enable": true,
             "id": 3,
-            "message": "কুরআন, হাদীস ও ইসলামী বই দ্রুত হোম ডেলিভারি পাওয়ার বিশ্বস্ত প্রতিষ্ঠান",
-            "title": "নিয়ামাহ বুকশপে ৫০% পর্যন্ত ছাড়!"
+            "message": "'সরবর' এ একজন রোজাদারকে সারা মাসের ইফতার করাতে পারেন ৬৬০ টাকায়!",
+            "title": "দরিদ্র রোজাদারকে পুরো রমাদান ইফতার করাই"
         },
         {
             "action_url": "https://www.niyamahshop.com/",
