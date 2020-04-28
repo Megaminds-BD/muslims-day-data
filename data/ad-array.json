@@ -12,15 +12,15 @@
         {
             "action_url": "https://www.facebook.com/AslafAcademyMale/posts/110158643997312",
             "button_text": "Details",
-            "enable": false,
+            "enable": true,
             "id": 2,
-            "message": "ক্লাস নিবেন মসজিদে নববীর একজন বাংলাদেশী শিক্ষক। ২ রমাদান থেকে শুরু!",
+            "message": "ক্লাস নিবেন মসজিদে নববীর একজন বাংলাদেশী শিক্ষক। ৭ রমাদান থেকে শুরু!",
             "title": "অনলাইন কুরআন শিক্ষা কোর্সঃ আসলাফ অ্যাকাডেমি"
         },
         {
             "action_url": "https://www.facebook.com/shorobor.bd/photos/a.458045457664960/1770509469751879/?type=3&theater",
             "button_text": "Details",
-            "enable": true,
+            "enable": false,
             "id": 3,
             "message": "'সরোবর' এ একজন রোজাদারকে সারা মাসের ইফতার করাতে পারেন ৬৬০ টাকায়!",
             "title": "দরিদ্র রোজাদারকে পুরো রমাদান ইফতার করাই"
