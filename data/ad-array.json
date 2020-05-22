@@ -20,10 +20,10 @@
         {
             "action_url": "https://www.facebook.com/shorobor.bd/photos/a.458045457664960/1770509469751879/?type=3&theater",
             "button_text": "Details",
-            "enable": false,
+            "enable": true,
             "id": 3,
-            "message": "'সরোবর' এ একজন রোজাদারকে সারা মাসের ইফতার করাতে পারেন ৬৬০ টাকায়!",
-            "title": "দরিদ্র রোজাদারকে পুরো রমাদান ইফতার করাই"
+            "message": "শুদ্ধ করে কুরআন পড়া শিখতে পারেন মাত্র ৩ মাসে! ১৩ জুন থেকে শুরু!",
+            "title": "কুরআন ও তাজবীদ শেখার অনলাইন কোর্স"
         },
         {
             "action_url": "https://www.niyamahshop.com/",
