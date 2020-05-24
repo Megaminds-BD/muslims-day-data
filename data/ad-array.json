@@ -34,12 +34,12 @@
             "title": "বইমেলা উপলক্ষে নিয়ামাহ শপে ৫০% পর্যন্ত ছাড়!"
         },
         {
-            "action_url": "https://bangla.bdnews24.com/bangladesh/article1739349.bdnews",
-            "button_text": "Details",
-            "enable": false,
+            "action_url": "https://play.google.com/store/apps/details?id=believers.ashshifa",
+            "button_text": "Download",
+            "enable": true,
             "id": 5,
-            "message": "সুরক্ষা নিশ্চিত না করে জুমআর নামাজে অংশ না নিতে ইসলামিক ফাউন্ডেশনের আহ্বান",
-            "title": "জুমার নামাজে উপস্থিতি সীমিত রাখার আহ্বান"
+            "message": "যে অ্যাপটি আপনাকে সাহায্য করবে তাক্বওয়া অর্জন করতে। ডাউনলোড করুন প্লে স্টোর থেকে",
+            "title": "Ash Shifa - জীবনকে আখিরাতমুখী করার অ্যাপ"
         },
         {
             "action_url": "https://www.facebook.com/groups/muslimsday/",
