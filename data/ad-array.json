@@ -4,7 +4,7 @@
         {
             "button_text": "Details",
             "action_url": "https://hellohasan.com/2020/05/30/শাওয়াল-ছয়-রোজা-সাক্ষী/",
-            "enable": true,
+            "enable": false,
             "id": 1,
             "message": "জেনে নিন শাওয়ালের ৬টি রোজার ফজিলত ও এ সংক্রান্ত নানা প্রশ্নের উত্তর",
             "title": "শাওয়াল মাসের ছয়টি রোজার ফজিলত ও বিধান"
@@ -20,10 +20,10 @@
         {
             "action_url": "https://docs.google.com/document/d/1LavaFW3cr8m2tlnESFq0F24OWNJfHgYFPKzWeg6dTHE",
             "button_text": "Details",
-            "enable": false,
+            "enable": true,
             "id": 3,
-            "message": "শুদ্ধ করে কুরআন পড়া শিখতে পারেন মাত্র ৩ মাসে! ১৩ জুন থেকে ক্লাস শুরু!",
-            "title": "কুরআন ও তাজবীদ শেখার অনলাইন কোর্স"
+            "message": "বাংলা উচ্চারণে কুরআন পড়লে গুনাহ হবে! শুদ্ধ করে কুরআন পড়তে শিখুন অনলাইনে!",
+            "title": "প্রত্যেক মুসলিমের উপর কুরআন শিক্ষা করা ফরজ"
         },
         {
             "action_url": "https://www.niyamahshop.com/",
