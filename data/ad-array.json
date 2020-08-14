@@ -4,7 +4,7 @@
         {
             "button_text": "Details",
             "action_url": "https://hellohasan.com/2016/07/16/নামাজ-রোজা-নিয়ত-ভুল-ধারণা/",
-            "enable": true,
+            "enable": false,
             "id": 1,
             "message": "নামাজ ও রোজার আরবি-বাংলা নিয়ত বিষয়ক প্রচলিত ভুল ধারণার অবসান",
             "title": "নিয়ত \"করা\" ফরজ, কিন্তু নিয়ত \"পড়া\" ফরজ নয়"
