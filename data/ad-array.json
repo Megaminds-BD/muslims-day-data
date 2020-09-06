@@ -3,11 +3,11 @@
     "banner_ads": [
         {
             "button_text": "Details",
-            "action_url": "https://hellohasan.com/2016/07/16/নামাজ-রোজা-নিয়ত-ভুল-ধারণা/",
-            "enable": false,
+            "action_url": "https://hellohasan.com/android-course-bangladesh",
+            "enable": true,
             "id": 1,
-            "message": "নামাজ ও রোজার আরবি-বাংলা নিয়ত বিষয়ক প্রচলিত ভুল ধারণার অবসান",
-            "title": "নিয়ত \"করা\" ফরজ, কিন্তু নিয়ত \"পড়া\" ফরজ নয়"
+            "message": "অনলাইনে কোর্স করুন অ্যাপ ডেভেলপমেন্ট শেখার জন্য!",
+            "title": "Android App Development Course"
         },
         {
             "action_url": "https://www.facebook.com/story.php?story_fbid=1324066071134592&id=776232985917906",
