@@ -4,7 +4,7 @@
         {
             "button_text": "Details",
             "action_url": "https://hellohasan.com/android-course-bangladesh",
-            "enable": true,
+            "enable": false,
             "id": 1,
             "message": "অনলাইনে কোর্স করুন অ্যাপ ডেভেলপমেন্ট শেখার জন্য!",
             "title": "Android App Development Course"
