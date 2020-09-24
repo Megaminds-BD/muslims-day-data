@@ -26,12 +26,12 @@
             "title": "প্রত্যেক মুসলিমের উপর কুরআন শিক্ষা করা ফরজ"
         },
         {
-            "action_url": "https://www.niyamahshop.com/",
-            "button_text": "visit shop",
-            "enable": false,
+            "action_url": "https://www.niyamahshop.com/store/author/ibn-nasir-at-turairi/nobijir-dinlipi/",
+            "button_text": "Order Now",
+            "enable": true,
             "id": 4,
-            "message": "বিশুদ্ধ ইসলামী বইয়ের জন্য নিয়ামাহ বুকশপ একটি নির্ভরযোগ্য প্রতিষ্ঠান",
-            "title": "বইমেলা উপলক্ষে নিয়ামাহ শপে ৫০% পর্যন্ত ছাড়!"
+            "message": "নবীজি (সা) সকাল থেকে রাত কিভাবে কাটাতেন তার বিস্তারিত বর্ণনা জানতে বইটি পড়ুন!",
+            "title": "\"নবীজির (সা) দিনলিপি\" - দারুণ একটা বই!"
         },
         {
             "action_url": "https://play.google.com/store/apps/details?id=believers.ashshifa",
