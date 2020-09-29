@@ -28,7 +28,7 @@
         {
             "action_url": "https://www.alkawsar.com/bn/article/2580/",
             "button_text": "READ",
-            "enable": true,
+            "enable": false,
             "id": 4,
             "message": "মাসিক আলকাউসার থেকে জেনে নিন এই ভিত্তিহীন বিদআত সম্পর্কে",
             "title": "\"আখেরী চাহার শোম্বা\" - একটি মিথ্যা, বানোয়াট রেওয়াজ"
