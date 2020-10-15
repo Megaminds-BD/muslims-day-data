@@ -7,9 +7,9 @@
     "updated_at" : 1585450723,
     "url" : "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/app-info.json"
   },
-  "arabic_month" : {
+  "hijri_month" : {
     "updated_at" : 1585450723,
-    "url" : "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/arabic-month.json"
+    "url" : "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/hijri-month.json"
   },
   "district_time" : {
     "updated_at" : 1586320932,
