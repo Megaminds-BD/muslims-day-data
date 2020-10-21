@@ -4,7 +4,7 @@
         {
             "button_text": "READ",
             "action_url": "https://hellohasan.com/2020/02/04/মানসাঙ্ক-বই-রিভিউ/",
-            "enable": true,
+            "enable": false,
             "id": 1,
             "message": "ধর্ষণের পিছনের কারণগুলো এবং এর প্রতিকারে ইসলামের বাস্তবভিত্তিক পদক্ষেপ",
             "title": "\"মানসাঙ্ক\" - চমৎকার একটি বইয়ের রিভিউ"
@@ -58,12 +58,12 @@
             "title": "অর্গানিক আতরের জন্য বিশ্বস্ত প্রতিষ্ঠান Aromusk"
         },
         {
-            "action_url": "https://www.facebook.com/711871658924089/posts/2802573279853906/",
-            "button_text": "Details",
-            "enable": false,
+            "action_url": "https://www.niyamahshop.com/store/author/adham-sharkawi/nobijir-pathshala/",
+            "button_text": "Order",
+            "enable": true,
             "id": 8,
-            "message": "অর্ডারের সময় Muslims Day অ্যাপের রেফারেন্স দিয়ে বুঝে নিন ১০% ডিসকাউন্ট!",
-            "title": "হোম মেড এপল সিডার ভিনেগার ও সুন্দরবনের খাঁটি মধু"
+            "message": "৩১ টি সহীহ হাদীস থেকে প্রাপ্ত পূর্বেকার সময়ের নানা শিক্ষনীয় ঘটনা",
+            "title": "\"নবীজির (সা) পাঠশালা\" বইয়ের প্রি-অর্ডারে ৩০% ছাড়!"
         }
     ]
 }
