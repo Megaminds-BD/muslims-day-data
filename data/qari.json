@@ -1,86 +1,90 @@
 [
-    {
-        "name": "আদেল রাইয়ান",
-        "server": "http://server8.mp3quran.net/ryan/"
-    },
-    {
-        "name": "আব্দুর রহমান আস-সুদাইস",
-        "server": "http://server11.mp3quran.net/sds/"
-    },
-    {
-        "name": "আব্দুল বাসেত আব্দুস সামাদ",
-        "server": "http://server13.mp3quran.net/basit_mjwd/"
-    },
-    {
-        "name": "মাহির আল মুয়াইকালী",
-        "server": "http://server8.mp3quran.net/maher/"
-    },
-    {
-        "name": "আব্দুর রশীদ সূফী",
-        "server": "http://server9.mp3quran.net/soufi/"
-    },
-    {
-        "name": "আকরাম আল-আলাকেমী",
-        "server": "http://server9.mp3quran.net/akrm/"
-    },
-    {
-        "name": "আদ-দূকালী মুহাম্মাদ আল-আলম",
-        "server": "http://server7.mp3quran.net/dokali/"
-    },
-    {
-        "name": "আদেল আল-কালবানী",
-        "server": "http://server8.mp3quran.net/a_klb/"
-    },
-    {
-        "name": "আলী ইবন আব্দুর রহমান আল-হুযাইফী",
-        "server": "http://server9.mp3quran.net/hthfi/"
-    },
-    {
-        "name": "আহমাদ সাবের",
-        "server": "http://server8.mp3quran.net/saber/"
-    },
-    {
-        "name": "ইয়াহইয়া হাওয়া",
-        "server": "http://server12.mp3quran.net/yahya/"
-    },
-    {
-        "name": "মুস্তাফা রা‘দ আল-‘আযযাওয়ী",
-        "server": "http://server8.mp3quran.net/ra3ad/"
-    },
-    {
-        "name": "নাবীল আর-রিফা‘য়ী",
-        "server": "http://server9.mp3quran.net/nabil/"
-    },
-    {
-        "name": "মিশারী আল-আফাসী",
-        "server": "http://server8.mp3quran.net/afs/"
-    },
-    {
-        "name": "মুহাম্মাদ আল-লুহাইদান",
-        "server": "http://server8.mp3quran.net/lhdan/"
-    },
-    {
-        "name": "মুহাম্মাদ সিদ্দীক আল-মিনশাবী",
-        "server": "http://server11.mp3quran.net/minsh_mjwd/"
-    },
-    {
-        "name": "জামাল শাকের আব্দুল্লাহ্",
-        "server": "http://server6.mp3quran.net/jamal/"
-    },
-    {
-        "name": "হাতেম ফরীদ আল-ওয়া‘য়ের",
-        "server": "http://server11.mp3quran.net/hatem/"
-    },
-    {
-        "name": "হানী আর-রিফা‘য়ী",
-        "server": "http://server8.mp3quran.net/hani/"
-    },
-    {
-        "name": "সাঊদ আশ-শুরাইম",
-        "server": "http://server7.mp3quran.net/shur/"
-    },
-    {
-        "name": "সা‘দ আল-গামেদী",
-        "server": "http://server7.mp3quran.net/s_gmd/"
-    }
+  {
+    "name": "আদেল রাইয়ান",
+    "server": "http://server8.mp3quran.net/ryan/"
+  },
+  {
+    "name": "আব্দুর রহমান আস-সুদাইস",
+    "server": "http://server11.mp3quran.net/sds/"
+  },
+  {
+    "name": "আব্দুল বাসেত আব্দুস সামাদ",
+    "server": "http://server13.mp3quran.net/basit_mjwd/"
+  },
+  {
+    "name": "মাহির আল মুয়াইকালী",
+    "server": "http://server8.mp3quran.net/maher/"
+  },
+  {
+    "name": "ইয়াসীর আদ-দুসারী",
+    "server": "https://server11.mp3quran.net/yasser/"
+  },
+  {
+    "name": "আব্দুর রশীদ সূফী",
+    "server": "http://server9.mp3quran.net/soufi/"
+  },
+  {
+    "name": "আকরাম আল-আলাকেমী",
+    "server": "http://server9.mp3quran.net/akrm/"
+  },
+  {
+    "name": "আদ-দূকালী মুহাম্মাদ আল-আলম",
+    "server": "http://server7.mp3quran.net/dokali/"
+  },
+  {
+    "name": "আদেল আল-কালবানী",
+    "server": "http://server8.mp3quran.net/a_klb/"
+  },
+  {
+    "name": "আলী ইবন আব্দুর রহমান আল-হুযাইফী",
+    "server": "http://server9.mp3quran.net/hthfi/"
+  },
+  {
+    "name": "আহমাদ সাবের",
+    "server": "http://server8.mp3quran.net/saber/"
+  },
+  {
+    "name": "ইয়াহইয়া হাওয়া",
+    "server": "http://server12.mp3quran.net/yahya/"
+  },
+  {
+    "name": "মুস্তাফা রা‘দ আল-‘আযযাওয়ী",
+    "server": "http://server8.mp3quran.net/ra3ad/"
+  },
+  {
+    "name": "নাবীল আর-রিফা‘য়ী",
+    "server": "http://server9.mp3quran.net/nabil/"
+  },
+  {
+    "name": "মিশারী আল-আফাসী",
+    "server": "http://server8.mp3quran.net/afs/"
+  },
+  {
+    "name": "মুহাম্মাদ আল-লুহাইদান",
+    "server": "http://server8.mp3quran.net/lhdan/"
+  },
+  {
+    "name": "মুহাম্মাদ সিদ্দীক আল-মিনশাবী",
+    "server": "http://server11.mp3quran.net/minsh_mjwd/"
+  },
+  {
+    "name": "জামাল শাকের আব্দুল্লাহ্",
+    "server": "http://server6.mp3quran.net/jamal/"
+  },
+  {
+    "name": "হাতেম ফরীদ আল-ওয়া‘য়ের",
+    "server": "http://server11.mp3quran.net/hatem/"
+  },
+  {
+    "name": "হানী আর-রিফা‘য়ী",
+    "server": "http://server8.mp3quran.net/hani/"
+  },
+  {
+    "name": "সাঊদ আশ-শুরাইম",
+    "server": "http://server7.mp3quran.net/shur/"
+  },
+  {
+    "name": "সা‘দ আল-গামেদী",
+    "server": "http://server7.mp3quran.net/s_gmd/"
+  }
 ]
