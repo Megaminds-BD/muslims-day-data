@@ -12,7 +12,7 @@
         {
             "action_url": "https://www.facebook.com/muslimsdayapp/posts/4966611656742554",
             "button_text": "Read",
-            "enable": true,
+            "enable": false,
             "id": 2,
             "message": "এ মাসের রোজাগুলো রাখতে হবে ২৯, ৩০, ৩১ ডিসেম্বর ২০২০",
             "title": "আইয়ামে বীজ এর ৩টি রোজা রাখছেন তো?"
