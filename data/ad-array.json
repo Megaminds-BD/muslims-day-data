@@ -4,7 +4,7 @@
         {
             "button_text": "Details",
             "action_url": "https://taibahacademy.com/diploma-in-islamic-studies?utm_source=muslims-day&utm_medium=banner&utm_campaign=islamic-studies",
-            "enable": true,
+            "enable": false,
             "id": 1,
             "message": "অনলাইনে দ্বীন শিক্ষা করার নির্ভরযোগ্য প্রতিষ্ঠান - তাইবাহ একাডেমি",
             "title": "ইসলামিক স্টাডিজে ডিপ্লোমা করার অনন্য সুযোগ!"
