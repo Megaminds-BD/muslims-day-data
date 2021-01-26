@@ -3,16 +3,16 @@
     "banner_ads": [
         {
             "button_text": "Details",
-            "action_url": "https://taibahacademy.com/diploma-in-islamic-studies?utm_source=muslims-day&utm_medium=banner&utm_campaign=islamic-studies",
-            "enable": false,
+            "action_url": "https://taibahacademy.com/taibah-counselling?utm_source=muslims-day&utm_medium=banner&utm_campaign=taibah-counselling",
+            "enable": true,
             "id": 1,
-            "message": "অনলাইনে দ্বীন শিক্ষা করার নির্ভরযোগ্য প্রতিষ্ঠান - তাইবাহ একাডেমি",
-            "title": "ইসলামিক স্টাডিজে ডিপ্লোমা করার অনন্য সুযোগ!"
+            "message": "তাইবাহ একাডেমির এ প্রোগ্রামের কাউনসিলর ড. মানজুরে ইলাহী (হাফিজাহুল্লাহ)",
+            "title": "পরিবার ও পারিবারিক সম্পর্ক বিষয়ক কাউনসেলিং"
         },
         {
             "action_url": "https://www.facebook.com/muslimsdayapp/posts/5082911258445926",
             "button_text": "Read",
-            "enable": true,
+            "enable": false,
             "id": 2,
             "message": "এ মাসের রোজাগুলো রাখতে হবে ২৭, ২৮ ও ২৯ জানুয়ারি ২০২১",
             "title": "আইয়ামে বীজ এর ৩টি রোজা রাখছেন তো?"
