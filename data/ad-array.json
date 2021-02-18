@@ -34,17 +34,17 @@
             "title": "\"আখেরী চাহার শোম্বা\" - একটি মিথ্যা, বানোয়াট রেওয়াজ"
         },
         {
-            "action_url": "https://play.google.com/store/apps/details?id=believers.ashshifa",
-            "button_text": "Download",
-            "enable": false,
+            "action_url": "https://play.google.com/store/apps/details?id=theoaktroop.appoframadan",
+            "button_text": "Update",
+            "enable": true,
             "id": 5,
-            "message": "যে অ্যাপটি আপনাকে সাহায্য করবে তাক্বওয়া অর্জন করতে",
-            "title": "Ash Shifa - জীবনকে আখিরাতমুখী করার অ্যাপ"
+            "message": "নতুন ভার্সনে থাকছে সকলের কাঙ্খিত ডার্ক মোড সেটিংস!",
+            "title": "অ্যাপ আপডেট করুন 5.0.10 ভার্সনে"
         },
         {
             "action_url": "https://www.facebook.com/groups/muslimsday/",
             "button_text": "JOIN",
-            "enable": true,
+            "enable": false,
             "id": 6,
             "message": "অ্যাপের যে কোনো সমস্যা সরাসরি আমাদের জানান গ্রুপের মাধ্যমে",
             "title": "জয়েন করুন Muslims Day ফেসবুক গ্রুপে"
