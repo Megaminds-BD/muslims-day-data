@@ -36,7 +36,7 @@
         {
             "action_url": "https://play.google.com/store/apps/details?id=theoaktroop.appoframadan",
             "button_text": "Update",
-            "enable": true,
+            "enable": false,
             "id": 5,
             "message": "নতুন ভার্সনে থাকছে সকলের কাঙ্খিত ডার্ক মোড সেটিংস!",
             "title": "অ্যাপ আপডেট করুন 5.0.10 ভার্সনে"
