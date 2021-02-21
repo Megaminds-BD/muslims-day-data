@@ -30,5 +30,9 @@
     "special_note": {
         "updated_at": 1596189093,
         "url": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/special-note.json"
+    },
+    "wrong_concept": {
+        "updated_at": 1596189094,
+        "url": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/wrong-concept.json"
     }
 }
