@@ -2,7 +2,7 @@
   {
     "category_id": 1,
     "category_name": "হাদীসের নামে জালিয়াতি",
-    "category_image": "https://i.imgur.com/m3sDLcU.png",
+    "category_image": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/image/book.png",
     "content_list": [
       {
         "title": "নবীজির (সা) মিষ্টি খাওয়া সংক্রান্ত মিথ্যা গল্প",
@@ -29,7 +29,7 @@
   {
     "category_id": 2,
     "category_name": "সালাত সংক্রান্ত ভুল",
-    "category_image": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/ic_salat.xml",
+    "category_image": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/image/salat.png",
     "content_list": [
       {
         "title": "সালাত শুরুর আগে জায়নামাজের দুআ পড়া",
