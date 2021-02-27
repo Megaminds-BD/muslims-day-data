@@ -12,7 +12,7 @@
         {
             "action_url": "https://www.facebook.com/muslimsdayapp/posts/5208621772541540",
             "button_text": "Read",
-            "enable": false,
+            "enable": true,
             "id": 2,
             "message": "এ রোজাগুলো রাখতে হবে ২৬, ২৭ ও ২৮ ফেব্রুয়ারি ২০২১; বিস্তারিত পড়ুন",
             "title": "আইয়ামে বীজ এর ৩টি রোজা রাখছেন তো?"
