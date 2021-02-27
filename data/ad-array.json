@@ -12,7 +12,7 @@
         {
             "action_url": "https://www.facebook.com/muslimsdayapp/posts/5208621772541540",
             "button_text": "Read",
-            "enable": true,
+            "enable": false,
             "id": 2,
             "message": "এ রোজাগুলো রাখতে হবে ২৬, ২৭ ও ২৮ ফেব্রুয়ারি ২০২১; বিস্তারিত পড়ুন",
             "title": "আইয়ামে বীজ এর ৩টি রোজা রাখছেন তো?"
@@ -44,9 +44,9 @@
         {
             "action_url": "https://www.facebook.com/groups/muslimsday/",
             "button_text": "JOIN",
-            "enable": false,
+            "enable": true,
             "id": 6,
-            "message": "অ্যাপের যে কোনো সমস্যা সরাসরি আমাদের জানান গ্রুপের মাধ্যমে",
+            "message": "অ্যাপের যে কোনো সমস্যা জানাতে, সরাসরি যোগাযোগ করুন",
             "title": "জয়েন করুন Muslims Day ফেসবুক গ্রুপে"
         },
         {
