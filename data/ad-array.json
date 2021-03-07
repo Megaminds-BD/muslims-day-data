@@ -3,11 +3,11 @@
     "banner_ads": [
         {
             "button_text": "Details",
-            "action_url": "https://taibahacademy.com/taibah-counselling?utm_source=muslims-day&utm_medium=banner&utm_campaign=taibah-counselling",
-            "enable": false,
+            "action_url": "https://aslafacademy.com/courses/productive-ramadan",
+            "enable": true,
             "id": 1,
-            "message": "ড. মানজুরে ইলাহীর অধীনে অংশ নিন তাইবাহ একাডেমির কাউন্সেলিংয়ে",
-            "title": "পরিবার ও পারিবারিক সম্পর্ক বিষয়ক কাউনসেলিং"
+            "message": "বাড়তি ২৫% ডিসকাউন্টের কুপন কোডঃ "muslims-day"",
+            "title": "রামাদানকে প্রোডাক্টিভ করতে অনন্য একটি কোর্স"
         },
         {
             "action_url": "https://www.facebook.com/muslimsdayapp/posts/5208621772541540",
