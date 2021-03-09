@@ -4,7 +4,7 @@
     {
       "button_text": "Details",
       "action_url": "https://aslafacademy.com/courses/productive-ramadan",
-      "enable": true,
+      "enable": false,
       "id": 1,
       "message": "বাড়তি ২৫% ডিসকাউন্টের কুপন কোডঃ \"muslims-day\"",
       "title": "রামাদানকে প্রোডাক্টিভ করতে অনন্য একটি কোর্স"
