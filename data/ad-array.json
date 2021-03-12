@@ -12,7 +12,7 @@
     {
       "action_url": "https://www.facebook.com/muslimsdayapp/posts/5293713474032369",
       "button_text": "Read",
-      "enable": true,
+      "enable": false,
       "id": 2,
       "message": "টেস্টিংয়ে অংশ নিয়ে আপনার এই অ্যাপের ডেভেলপমেন্টে অবদান রাখুন",
       "title": "রিলিজ হলো Muslims Day BETA টেস্টিং অ্যাপ"
