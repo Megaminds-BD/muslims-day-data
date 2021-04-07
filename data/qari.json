@@ -86,5 +86,9 @@
   {
     "name": "সা‘দ আল-গামেদী",
     "server": "http://server7.mp3quran.net/s_gmd/"
+  },
+  {
+    "name": "বান্দার বালীলাহ",
+    "server": "https://server6.mp3quran.net/balilah/"
   }
 ]
