@@ -44,7 +44,7 @@
     {
       "action_url": "https://www.facebook.com/groups/muslimsday/",
       "button_text": "JOIN",
-      "enable": false,
+      "enable": true,
       "id": 6,
       "message": "অ্যাপের যে কোনো সমস্যা জানাতে, সরাসরি যোগাযোগ করুন",
       "title": "জয়েন করুন Muslims Day ফেসবুক গ্রুপে"
