@@ -10,12 +10,12 @@
       "title": "রামাদানকে প্রোডাক্টিভ করতে অনন্য একটি কোর্স"
     },
     {
-      "action_url": "https://hellohasan.com/2016/07/04/সাহরি-ইফতারের-সময়সীমা",
+      "action_url": "https://www.facebook.com/groups/muslimsday/permalink/1093657871142287",
       "button_text": "Read",
-      "enable": false,
+      "enable": true,
       "id": 2,
-      "message": "কুরআন-হাদীসের আলোকে সাহরি ও ইফতারের সময় সম্পর্কে জেনে নিই",
-      "title": "সাহরি ও ইফতারের সময় নিয়ে কিছু ভুল ধারনা"
+      "message": "যে কাজগুলোর জন্য সিয়াম ভঙ্গ হয় না, দলিল সহ জেনে নিই",
+      "title": "সিয়ামরত অবস্থায় যে কাজগুলো বৈধ"
     },
     {
       "action_url": "https://www.facebook.com/muslimsdayapp/photos/a.899814753422285/4802955819774806",
@@ -44,7 +44,7 @@
     {
       "action_url": "https://www.facebook.com/groups/muslimsday/",
       "button_text": "JOIN",
-      "enable": true,
+      "enable": false,
       "id": 6,
       "message": "অ্যাপের যে কোনো সমস্যা জানাতে, সরাসরি যোগাযোগ করুন",
       "title": "জয়েন করুন Muslims Day ফেসবুক গ্রুপে"
