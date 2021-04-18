@@ -3,16 +3,16 @@
   "banner_ads": [
     {
       "button_text": "Details",
-      "action_url": "https://aslafacademy.com/courses/productive-ramadan",
-      "enable": false,
+      "action_url": "https://hellohasan.com/2016/07/04/সাহরি-ইফতারের-সময়সীমা",
+      "enable": true,
       "id": 1,
-      "message": "বাড়তি ২৫% ডিসকাউন্টের কুপন কোডঃ \"muslims-day\"",
-      "title": "রামাদানকে প্রোডাক্টিভ করতে অনন্য একটি কোর্স"
+      "message": "সাহরি ইফতারের সঠিক সময় সম্পর্কে দলিল সহ বিস্তারিত জেনে নিই",
+      "title": "সাহরি-ইফতারের সময়ঃ প্রচলিত কিছু ভুল ধারনা"
     },
     {
       "action_url": "https://www.facebook.com/groups/muslimsday/permalink/1094341881073886",
       "button_text": "Read",
-      "enable": true,
+      "enable": false,
       "id": 2,
       "message": "সালাত ও সাওমের সময়, হিজরি তারিখ, উইজেট সহ বিভিন্ন প্রশ্নের উত্তর",
       "title": "অ্যাপ সম্পর্কে কমন কিছু প্রশ্ন এবং তার উত্তর"
