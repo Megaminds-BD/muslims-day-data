@@ -4,7 +4,7 @@
     {
       "button_text": "Read",
       "action_url": "https://hellohasan.com/2016/07/04/সাহরি-ইফতারের-সময়সীমা",
-      "enable": true,
+      "enable": false,
       "id": 1,
       "message": "সাহরি ইফতারের সঠিক সময় সম্পর্কে দলিল সহ বিস্তারিত জেনে নিই",
       "title": "সাহরি-ইফতারের সময়ঃ প্রচলিত কিছু ভুল ধারনা"
