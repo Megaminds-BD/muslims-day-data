@@ -49,7 +49,7 @@
       "bank_or_wallet_name": "CellFin (Fund Transfer)",
       "branch": "",
       "isBank": false,
-      "isEnable": false,
+      "isEnable": true,
       "routing_number": "",
       "swift_code": "",
       "additional_info": "Account holder name: Abdullah Al Hasan"
