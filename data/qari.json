@@ -90,5 +90,9 @@
   {
     "name": "বান্দার বালীলাহ",
     "server": "https://server6.mp3quran.net/balilah/"
+  },
+  {
+    "name": "মাহমুদ খলিল আল-হুসারী",
+    "server": "https://server13.mp3quran.net/husr/"
   }
 ]
