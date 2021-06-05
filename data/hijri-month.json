@@ -1,74 +1,74 @@
 [
-    {
-        "end": "2020-09-18",
-        "name": "Muharram",
-        "start": "2020-08-21",
-        "hijri_year": "1442"
-    },
-    {
-        "end": "2020-10-18",
-        "name": "Safar",
-        "start": "2020-09-19",
-        "hijri_year": "1442"
-    },
-    {
-        "end": "2020-11-16",
-        "name": "Rabi Al Awwal",
-        "start": "2020-10-19",
-        "hijri_year": "1442"
-    },
-    {
-        "end": "2020-12-16",
-        "name": "Rabi Ath-Thani",
-        "start": "2020-11-17",
-        "hijri_year": "1442"
-    },
-    {
-        "end": "2021-01-14",
-        "name": "Jumada Al Ula",
-        "start": "2020-12-17",
-        "hijri_year": "1442"
-    },
-    {
-        "end": "2021-02-13",
-        "name": "Jumada Al Akhirah",
-        "start": "2021-01-15",
-        "hijri_year": "1442"
-    },
-    {
-        "end": "2021-03-15",
-        "name": "Rajab",
-        "start": "2021-02-14",
-        "hijri_year": "1442"
-    },
-    {
-        "end": "2021-04-13",
-        "name": "Sha'ban",
-        "start": "2021-03-16",
-        "hijri_year": "1442"
-    },
-    {
-        "end": "2021-05-13",
-        "name": "Ramadan",
-        "start": "2021-04-14",
-        "hijri_year": "1442"
-    },
-    {
-        "end": "2021-06-11",
-        "name": "Shawwal",
-        "start": "2021-05-14",
-        "hijri_year": "1442"
-    },
-    {
-        "end": "2020-07-22",
-        "name": "Dhu l-Kada ",
-        "start": "2020-06-23",
-        "hijri_year": "1442"
-    },
-    {
-        "end": "2020-08-21",
-        "name": "Dhu Al Hijjah",
-        "start": "2020-07-23",
-        "hijri_year": "1442"
-    }
+  {
+    "end": "2020-09-18",
+    "name": "Muharram",
+    "start": "2020-08-21",
+    "hijri_year": "1442"
+  },
+  {
+    "end": "2020-10-18",
+    "name": "Safar",
+    "start": "2020-09-19",
+    "hijri_year": "1442"
+  },
+  {
+    "end": "2020-11-16",
+    "name": "Rabi Al Awwal",
+    "start": "2020-10-19",
+    "hijri_year": "1442"
+  },
+  {
+    "end": "2020-12-16",
+    "name": "Rabi Ath-Thani",
+    "start": "2020-11-17",
+    "hijri_year": "1442"
+  },
+  {
+    "end": "2021-01-14",
+    "name": "Jumada Al Ula",
+    "start": "2020-12-17",
+    "hijri_year": "1442"
+  },
+  {
+    "end": "2021-02-13",
+    "name": "Jumada Al Akhirah",
+    "start": "2021-01-15",
+    "hijri_year": "1442"
+  },
+  {
+    "end": "2021-03-15",
+    "name": "Rajab",
+    "start": "2021-02-14",
+    "hijri_year": "1442"
+  },
+  {
+    "end": "2021-04-13",
+    "name": "Sha'ban",
+    "start": "2021-03-16",
+    "hijri_year": "1442"
+  },
+  {
+    "end": "2021-05-13",
+    "name": "Ramadan",
+    "start": "2021-04-14",
+    "hijri_year": "1442"
+  },
+  {
+    "end": "2021-06-11",
+    "name": "Shawwal",
+    "start": "2021-05-14",
+    "hijri_year": "1442"
+  },
+  {
+    "end": "2021-07-11",
+    "name": "Dhu l-Kada ",
+    "start": "2021-06-12",
+    "hijri_year": "1442"
+  },
+  {
+    "end": "2021-08-09",
+    "name": "Dhu Al Hijjah",
+    "start": "2021-07-12",
+    "hijri_year": "1442"
+  }
 ]
