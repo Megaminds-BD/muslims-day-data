@@ -34,5 +34,13 @@
     "wrong_concept": {
         "updated_at": 1623472697,
         "url": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/wrong-concept.json"
-    }
+    },
+    "article_masala": {
+        "updated_at": 1623472697,
+        "url": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/article-masala.json"
+    },
+    "masnun_amal": {
+        "updated_at": 1623472697,
+        "url": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/masnun-amal.json"
+    },
 }
