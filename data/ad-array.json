@@ -26,6 +26,14 @@
       "title": "কুরবানির জন্য প্রস্তুতি নিচ্ছেন তো?"
     },
     {
+      "button_text": "JOIN",
+      "action_url": "https://www.facebook.com/groups/muslimsday",
+      "enable": true,
+      "id": 4,
+      "message": "অ্যাপের যে কোনো সমস্যা আমাদেরকে অবহিত করতে আমাদের গ্রুপে জয়েন করুন",
+      "title": "জয়েন করুন আমাদের ফেসবুক গ্রুপে"
+    },
+    {
       "button_text": "Donate",
       "action_url": "https://drive.google.com/file/d/1DCCfeLt1kbKd206vGRs3wOu9nG4qu__F",
       "enable": false,
