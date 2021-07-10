@@ -26,12 +26,12 @@
       "title": "কুরবানির জন্য প্রস্তুতি নিচ্ছেন তো?"
     },
     {
-      "button_text": "JOIN",
-      "action_url": "https://www.facebook.com/groups/muslimsday",
-      "enable": false,
+      "button_text": "READ",
+      "action_url": "https://www.facebook.com/muslimsdayapp/posts/5877054149031629",
+      "enable": true,
       "id": 4,
-      "message": "অ্যাপের যে কোনো সমস্যায় পোস্ট করুন আমাদের ফেসবুক গ্রুপে",
-      "title": "জয়েন করুন আমাদের ফেসবুক গ্রুপে"
+      "message": "ইসলামিক ফাউন্ডেশনের রেফারেন্স সহ বিস্তারিত জেনে নিন",
+      "title": "অ্যাপে দেখানো হিজরি তারিখ সঠিক"
     },
     {
       "button_text": "Donate",
