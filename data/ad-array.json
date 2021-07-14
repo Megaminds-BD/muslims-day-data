@@ -4,7 +4,7 @@
     {
       "button_text": "Read",
       "action_url": "https://shorobor.biz/product/udhiya?utm_source=muslims-day&utm_medium=banner&utm_campaign=udhiya",
-      "enable": true,
+      "enable": false,
       "id": 1,
       "message": "উদহিয়া/কুরবানি প্রজেক্ট সরোবরের সামাজিক ব্যবসা যেখানে গরুর ভাগ বিক্রি হয়",
       "title": "সরোবর উদহিয়া প্রজেক্ট"
