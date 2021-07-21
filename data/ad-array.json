@@ -20,7 +20,7 @@
     {
       "button_text": "Read",
       "action_url": "https://hellohasan.com/2016/09/02/কুরবানি-ফজিলত-আমল-মাসআলা/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": fa3se,
+      "enable": false,
       "id": 3,
       "message": "জিলহজ্জের মাসের আমল। কুরবানির মাসআলা, করণীয় ও বর্জনীয় কাজসমূহ",
       "title": "কুরবানির জন্য প্রস্তুতি নিচ্ছেন তো?"
@@ -36,7 +36,7 @@
     {
       "button_text": "Donate",
       "action_url": "https://drive.google.com/file/d/1DCCfeLt1kbKd206vGRs3wOu9nG4qu__F",
-      "enable": true,
+      "enable": false,
       "id": 101,
       "message": "সাদকায়ে জারিয়ায় সামিল হতে এই অ্যাপের ডেভেলপমেন্টের জন্য অনুদান দিন",
       "title": "মুসলিমস ডে প্রজেক্টে ডোনেট করুন"
