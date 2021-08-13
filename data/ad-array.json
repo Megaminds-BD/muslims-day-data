@@ -44,7 +44,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://www.niyamahshop.com/store/author/zainab-al-gazi/dua-ruqyah/?utm_source=muslims-day&utm_medium=banner&utm_campaign=niyamah",
-      "enable": true,
+      "enable": false,
       "id": 6,
       "message": "বদ নজর, জ্বিনের আসর, জাদুটোনা ইত্যদির জন্য সুন্নাহসম্মত ভাবে রুকইয়াহ করুন",
       "title": "রুকইয়াহ শারইয়্যাহ: সুন্নাহসম্মত চিকিৎসা পদ্ধতি"
