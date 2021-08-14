@@ -36,7 +36,7 @@
     {
       "button_text": "Update",
       "action_url": "https://play.google.com/store/apps/details?id=theoaktroop.appoframadan",
-      "enable": true,
+      "enable": false,
       "id": 5,
       "message": "নতুন ভার্সনে থাকছে কুরআনের অডিও ডাউনলোডের ফিচার সহ আরো অনেক কিছু!",
       "title": "অ্যাপের নতুন ভার্সন 5.3 এখন প্লে স্টোরে!"
