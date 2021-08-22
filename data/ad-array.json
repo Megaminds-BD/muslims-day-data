@@ -12,7 +12,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://hellohasan.com/2021/08/03/মুহাররম-আশুরা-রোজা-ফজিলত",
-      "enable": true,
+      "enable": false,
       "id": 2,
       "message": "আশুরার রোজাঃ ১৯, ২০, ২১ আগস্ট। আইয়ামে বীজঃ ২৩, ২৪, ২৫ আগস্ট",
       "title": "মুহাররম ও আশুরা - করণীয় এবং বর্জনীয়"
@@ -44,7 +44,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://www.facebook.com/aslafacademy/posts/1664065217134674",
-      "enable": false,
+      "enable": true,
       "id": 6,
       "message": "মদীনার মসজিদে নববীর কারিকুলামে, কম সময়ে তাজওইদ-সহ কুরআন শেখার সুব্যবস্থা",
       "title": "ঘরে বসে সহীহ-শুদ্ধভাবে কুরআন শিখুন"
