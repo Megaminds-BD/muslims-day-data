@@ -35,11 +35,11 @@
     },
     {
       "button_text": "Update",
-      "action_url": "https://play.google.com/store/apps/details?id=theoaktroop.appoframadan",
-      "enable": false,
+      "action_url": "https://www.facebook.com/aslafacademy/posts/1665378773669985",
+      "enable": true,
       "id": 5,
-      "message": "নতুন ভার্সনে থাকছে কুরআনের অডিও ডাউনলোডের ফিচার সহ আরো অনেক কিছু!",
-      "title": "অ্যাপের নতুন ভার্সন 5.3 এখন প্লে স্টোরে!"
+      "message": "ঘরে বসেই শিশু-সন্তানকে ইসলামিক লাইফ-স্টাইলে অভ্যস্ত করে তোলার সুব্যবস্থা",
+      "title": "হোম স্কুলিং : শিশু সন্তানের সুশিক্ষা নিশ্চিত করুন"
     },
     {
       "button_text": "বিস্তারিত",
@@ -48,6 +48,22 @@
       "id": 6,
       "message": "মদীনার মসজিদে নববীর কারিকুলামে, কম সময়ে তাজওইদ-সহ কুরআন শেখার সুব্যবস্থা",
       "title": "ঘরে বসে সহীহ-শুদ্ধভাবে কুরআন শিখুন"
+    },
+    {
+      "button_text": "বিস্তারিত",
+      "action_url": "https://www.facebook.com/aslafacademy/posts/1664758077065388",
+      "enable": true,
+      "id": 7,
+      "message": "নিজের ও নিজের আপনজনের সুরক্ষায় রুকইয়াহ ট্রিটমেন্ট শেখার সুব্যবস্থা",
+      "title": "রুকইয়াহ শারইয়্যাহ : একটি সুন্নাহসম্মত চিকিৎসা-পদ্ধতি"
+    },
+    {
+      "button_text": "বিস্তারিত",
+      "action_url": "https://www.facebook.com/aslafacademy/posts/1661974700677059",
+      "enable": true,
+      "id": 8,
+      "message": "ঈমান-আকীদার সামান্য গলতি বরবাদ করে দিতে পারে হাজার বছরের ইবাদাত",
+      "title": "আকীদাকে বিশুদ্ধ করা প্রত্যেক মুসলিমের জন্য জরুরি"
     },
     {
       "button_text": "Donate",
