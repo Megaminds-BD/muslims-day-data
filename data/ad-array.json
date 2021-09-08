@@ -68,7 +68,7 @@
         {
       "button_text": "বিস্তারিত",
       "action_url": "https://aslafacademy.com/courses/philosophy/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
-      "enable": true,
+      "enable": false,
       "id": 9,
       "message": "ইসলামী দর্শন শাস্ত্রের বুনিয়াদি জ্ঞান অর্জন করুন অতি সহজ পদ্ধতিতে",
       "title": "দর্শন শাস্ত্র: ইসলামিক দৃষ্টিভঙ্গি"
@@ -76,7 +76,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://www.niyamahshop.com/store/author/mujahid-mamun/sontan-gorar-110-tips/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
-      "enable": true,
+      "enable": false,
       "id": 10,
       "message": "শিশুর প্রথম ১২টি বছরে তাকে আদর্শ মানুষ রূপে গড়ে তোলার অনন্য কৌশল",
       "title": "জেনে নিন সন্তান গড়ার ১১০টি টিপস"
