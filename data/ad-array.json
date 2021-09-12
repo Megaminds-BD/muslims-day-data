@@ -82,9 +82,17 @@
       "title": "জেনে নিন সন্তান গড়ার ১১০টি টিপস"
     },
     {
+      "button_text": "বিস্তারিত",
+      "action_url": "https://www.niyamahshop.com/store/author/yasar-kandemir/golpe-aka-challis-hadis/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
+      "enable": true,
+      "id": 10,
+      "message": "শিশুরা গল্পে গল্পে শিখবে ৪০টি হাদীস এবং হাদীস থেকে আহরিত শিক্ষা",
+      "title": "গল্পে আঁকা চল্লিশ হাদীস - (শিশুতোষ বই)"
+    },
+    {
       "button_text": "Donate",
       "action_url": "https://drive.google.com/file/d/1DCCfeLt1kbKd206vGRs3wOu9nG4qu__F",
-      "enable": true,
+      "enable": false,
       "id": 101,
       "message": "সাদকায়ে জারিয়ায় সামিল হতে এই অ্যাপের ডেভেলপমেন্টের জন্য অনুদান দিন",
       "title": "আর্থিক অনুদান দিন, মাসে ১০০ টাকা হলেও!"
