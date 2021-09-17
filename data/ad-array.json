@@ -4,7 +4,7 @@
     {
       "button_text": "Read",
       "action_url": "https://hellohasan.com/2021/05/16/আইয়ামে-বীজ-রোজা-কবে-ফজিলত/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": false,
+      "enable": true,
       "id": 1,
       "message": "এ মাসের রোজাঃ ২১, ২২ ও ২৩ সেপ্টেম্বর। জেনে নিন এর ফজিলত ও মাসআলা",
       "title": "সফর মাসের আইয়ামে বীজের রোজা রাখছেন তো?"
@@ -28,7 +28,7 @@
     {
       "button_text": "READ",
       "action_url": "https://hellohasan.com/2021/09/05/আখেরী-চাহার-সোম্বা-বিদআত/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": false,
+      "enable": true,
       "id": 4,
       "message": "জেনে নিন সফর মাস সম্পর্কে প্রচলিত ভুল ধারনা ও অন্যান্য বিদআত সম্পর্কে",
       "title": "আখেরি চাহার সোম্বা - বহুল প্রচলিত ভুল রসম"
@@ -92,7 +92,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://aslafacademy.com/courses/fiqhun-niqah/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
-      "enable": true,
+      "enable": false,
       "id": 12,
       "message": "বিয়ে ও দাম্পত্য জীবনের যাবতীয় হুকুম-আহকাম জানুন সহজেই",
       "title": "বিয়ে-শাদি হোক ইসলামী শরীয়ার আলোকে"
@@ -100,7 +100,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://aslafacademy.com/courses/family-management-female/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
-      "enable": true,
+      "enable": false,
       "id": 13,
       "message": "ইসলামের আলোকে নারীদের জন্য ফ্যামিলি ম্যানেজমেন্ট শেখার অপূর্ব আয়োজন",
       "title": "নারীর ম্যানেজমেন্ট গুণে সুশৃঙ্খল থাকে পরিবার"
@@ -108,7 +108,7 @@
     {
       "button_text": "Donate",
       "action_url": "https://drive.google.com/file/d/1DCCfeLt1kbKd206vGRs3wOu9nG4qu__F",
-      "enable": false,
+      "enable": true,
       "id": 101,
       "message": "সাদকায়ে জারিয়ায় সামিল হতে এই অ্যাপের ডেভেলপমেন্টের জন্য অনুদান দিন",
       "title": "আর্থিক অনুদান দিন, মাসে ১০০ টাকা হলেও!"
