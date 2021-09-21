@@ -28,7 +28,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://www.facebook.com/aslafacademy/posts/1664758077065388",
-      "enable": false,
+      "enable": true,
       "id": 4,
       "message": "নিজের ও নিজের আপনজনের সুরক্ষায় রুকইয়াহ ট্রিটমেন্ট শেখার সুব্যবস্থা",
       "title": "রুকইয়াহ শারইয়্যাহ : একটি সুন্নাহসম্মত চিকিৎসা-পদ্ধতি"
@@ -36,7 +36,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://www.facebook.com/aslafacademy/posts/1661974700677059",
-      "enable": false,
+      "enable": true,
       "id": 5,
       "message": "ঈমান-আকীদার সামান্য গলতি বরবাদ করে দিতে পারে হাজার বছরের ইবাদাত",
       "title": "আকীদাকে বিশুদ্ধ করা প্রত্যেক মুসলিমের জন্য জরুরি"
@@ -84,7 +84,7 @@
     {
       "button_text": "Rate",
       "action_url": "https://play.google.com/store/apps/details?id=theoaktroop.appoframadan",
-      "enable": true,
+      "enable": false,
       "id": 107,
       "message": "আমাদেরকে উৎসাহ দিতে, গুগল প্লে স্টোরে 5 star রেটিং ও রিভিউ দিন",
       "title": "মুসলিমস ডে অ্যাপকে 5 star রেটিং ও রিভিউ দিন"
@@ -92,7 +92,7 @@
     {
       "button_text": "JOIN",
       "action_url": "https://www.facebook.com/groups/muslimsday",
-      "enable": true,
+      "enable": false,
       "id": 106,
       "message": "অ্যাপের যে কোনো সমস্যা আমাদের ফেসবুক গ্রুপের মাধ্যমে জানাতে পারেন",
       "title": "জয়েন করুন Muslims Day অ্যাপের ফেসবুক গ্রুপে"
@@ -100,7 +100,7 @@
     {
       "button_text": "Like",
       "action_url": "https://www.facebook.com/muslimsdayapp",
-      "enable": true,
+      "enable": false,
       "id": 105,
       "message": "বিভিন্ন বিষয়ে আপ টু ডেট থাকতে, আমাদের পেজে লাইক দিয়ে অ্যাক্টিভ থাকুন",
       "title": "Muslims Day অ্যাপের ফেসবুক পেজ ফলো করুন"
@@ -108,7 +108,7 @@
     {
       "button_text": "Read",
       "action_url": "https://hellohasan.com/2021/05/16/আইয়ামে-বীজ-রোজা-কবে-ফজিলত/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": true,
+      "enable": false,
       "id": 104,
       "message": "এ মাসের রোজাঃ ২১, ২২ ও ২৩ সেপ্টেম্বর। জেনে নিন এর ফজিলত ও মাসআলা",
       "title": "সফর মাসের আইয়ামে বীজের রোজা রাখছেন তো?"
@@ -116,7 +116,7 @@
     {
       "button_text": "Read",
       "action_url": "https://hellohasan.com/2021/07/19/ফরজ-নফল-নামাজের-সময়সূচী/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": true,
+      "enable": false,
       "id": 103,
       "message": "রেফারেন্স সহ জেনে নিই- অ্যাপে প্রদর্শিত সালাতের ওয়াক্তের পেছনের মাসআলা",
       "title": "ফরজ ও নফল সালাতের সময়সীমা"
@@ -124,7 +124,7 @@
     {
       "button_text": "READ",
       "action_url": "https://hellohasan.com/2021/09/05/আখেরী-চাহার-সোম্বা-বিদআত/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": true,
+      "enable": false,
       "id": 102,
       "message": "জেনে নিন সফর মাস সম্পর্কে প্রচলিত ভুল ধারনা ও অন্যান্য বিদআত সম্পর্কে",
       "title": "আখেরি চাহার সোম্বা - বহুল প্রচলিত ভুল রসম"
@@ -132,7 +132,7 @@
     {
       "button_text": "Donate",
       "action_url": "https://drive.google.com/file/d/1DCCfeLt1kbKd206vGRs3wOu9nG4qu__F",
-      "enable": true,
+      "enable": false,
       "id": 101,
       "message": "সাদকায়ে জারিয়ায় সামিল হতে এই অ্যাপের ডেভেলপমেন্টের জন্য অনুদান দিন",
       "title": "আর্থিক অনুদান দিন, মাসে ১০০ টাকা হলেও!"
