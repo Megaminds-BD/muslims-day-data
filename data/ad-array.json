@@ -2,42 +2,18 @@
   "admob_enable": true,
   "banner_ads": [
     {
-      "button_text": "Read",
-      "action_url": "https://hellohasan.com/2021/05/16/আইয়ামে-বীজ-রোজা-কবে-ফজিলত/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": true,
-      "id": 1,
-      "message": "এ মাসের রোজাঃ ২১, ২২ ও ২৩ সেপ্টেম্বর। জেনে নিন এর ফজিলত ও মাসআলা",
-      "title": "সফর মাসের আইয়ামে বীজের রোজা রাখছেন তো?"
-    },
-    {
       "button_text": "বিস্তারিত",
       "action_url": "https://www.facebook.com/aslafacademy/posts/1668976389976890",
       "enable": false,
-      "id": 2,
+      "id": 1,
       "message": "প্রোডাক্টিভ মুসলিম হিসেবে জীবনের প্রতিটি মুহূর্তকে অর্থপূর্ণ করে তোলার অনন্য কৌশল",
       "title": "টাইম ম্যানেজমেন্ট - সময়ের সদ্ব্যবহার ঈমানী দায়িত্ব"
-    },
-    {
-      "button_text": "Read",
-      "action_url": "https://hellohasan.com/2021/07/19/ফরজ-নফল-নামাজের-সময়সূচী/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": false,
-      "id": 3,
-      "message": "রেফারেন্স সহ জেনে নিই- অ্যাপে প্রদর্শিত সালাতের ওয়াক্তের পেছনের মাসআলা",
-      "title": "ফরজ ও নফল সালাতের সময়সীমা"
-    },
-    {
-      "button_text": "READ",
-      "action_url": "https://hellohasan.com/2021/09/05/আখেরী-চাহার-সোম্বা-বিদআত/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": true,
-      "id": 4,
-      "message": "জেনে নিন সফর মাস সম্পর্কে প্রচলিত ভুল ধারনা ও অন্যান্য বিদআত সম্পর্কে",
-      "title": "আখেরি চাহার সোম্বা - বহুল প্রচলিত ভুল রসম"
     },
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://www.facebook.com/aslafacademy/posts/1665378773669985",
       "enable": false,
-      "id": 5,
+      "id": 2,
       "message": "ঘরে বসেই শিশু-সন্তানকে ইসলামিক লাইফ-স্টাইলে অভ্যস্ত করে তোলার সুব্যবস্থা",
       "title": "হোম স্কুলিং : শিশু সন্তানের সুশিক্ষা নিশ্চিত করুন"
     },
@@ -45,7 +21,7 @@
       "button_text": "বিস্তারিত",
       "action_url": "https://www.facebook.com/aslafacademy/posts/1664065217134674",
       "enable": false,
-      "id": 6,
+      "id": 3,
       "message": "মদীনার মসজিদে নববীর কারিকুলামে, কম সময়ে তাজওইদ-সহ কুরআন শেখার সুব্যবস্থা",
       "title": "ঘরে বসে সহীহ-শুদ্ধভাবে কুরআন শিখুন"
     },
@@ -53,7 +29,7 @@
       "button_text": "বিস্তারিত",
       "action_url": "https://www.facebook.com/aslafacademy/posts/1664758077065388",
       "enable": false,
-      "id": 7,
+      "id": 4,
       "message": "নিজের ও নিজের আপনজনের সুরক্ষায় রুকইয়াহ ট্রিটমেন্ট শেখার সুব্যবস্থা",
       "title": "রুকইয়াহ শারইয়্যাহ : একটি সুন্নাহসম্মত চিকিৎসা-পদ্ধতি"
     },
@@ -61,7 +37,7 @@
       "button_text": "বিস্তারিত",
       "action_url": "https://www.facebook.com/aslafacademy/posts/1661974700677059",
       "enable": false,
-      "id": 8,
+      "id": 5,
       "message": "ঈমান-আকীদার সামান্য গলতি বরবাদ করে দিতে পারে হাজার বছরের ইবাদাত",
       "title": "আকীদাকে বিশুদ্ধ করা প্রত্যেক মুসলিমের জন্য জরুরি"
     },
@@ -69,7 +45,7 @@
       "button_text": "বিস্তারিত",
       "action_url": "https://aslafacademy.com/courses/philosophy/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
       "enable": false,
-      "id": 9,
+      "id": 6,
       "message": "ইসলামী দর্শন শাস্ত্রের বুনিয়াদি জ্ঞান অর্জন করুন অতি সহজ পদ্ধতিতে",
       "title": "দর্শন শাস্ত্র: ইসলামিক দৃষ্টিভঙ্গি"
     },
@@ -77,7 +53,7 @@
       "button_text": "বিস্তারিত",
       "action_url": "https://www.niyamahshop.com/store/author/mujahid-mamun/sontan-gorar-110-tips/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
       "enable": false,
-      "id": 10,
+      "id": 7,
       "message": "শিশুর প্রথম ১২টি বছরে তাকে আদর্শ মানুষ রূপে গড়ে তোলার অনন্য কৌশল",
       "title": "জেনে নিন সন্তান গড়ার ১১০টি টিপস"
     },
@@ -85,7 +61,7 @@
       "button_text": "বিস্তারিত",
       "action_url": "https://www.niyamahshop.com/store/author/yasar-kandemir/golpe-aka-challis-hadis/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
       "enable": false,
-      "id": 11,
+      "id": 8,
       "message": "শিশুরা গল্পে গল্পে শিখবে ৪০টি হাদীস এবং হাদীস থেকে আহরিত শিক্ষা",
       "title": "গল্পে আঁকা চল্লিশ হাদীস - (শিশুতোষ বই)"
     },
@@ -93,7 +69,7 @@
       "button_text": "বিস্তারিত",
       "action_url": "https://aslafacademy.com/courses/fiqhun-niqah/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
       "enable": false,
-      "id": 12,
+      "id": 9,
       "message": "বিয়ে ও দাম্পত্য জীবনের যাবতীয় হুকুম-আহকাম জানুন সহজেই",
       "title": "বিয়ে-শাদি হোক ইসলামী শরীয়ার আলোকে"
     },
@@ -101,9 +77,57 @@
       "button_text": "বিস্তারিত",
       "action_url": "https://aslafacademy.com/courses/family-management-female/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
       "enable": false,
-      "id": 13,
+      "id": 10,
       "message": "ইসলামের আলোকে নারীদের জন্য ফ্যামিলি ম্যানেজমেন্ট শেখার অপূর্ব আয়োজন",
       "title": "নারীর ম্যানেজমেন্ট গুণে সুশৃঙ্খল থাকে পরিবার"
+    },
+    {
+      "button_text": "Rate",
+      "action_url": "https://play.google.com/store/apps/details?id=theoaktroop.appoframadan",
+      "enable": true,
+      "id": 107,
+      "message": "আমাদেরকে উৎসাহ দিতে, গুগল প্লে স্টোরে 5 star রেটিং ও রিভিউ দিন",
+      "title": "মুসলিমস ডে অ্যাপকে 5 star রেটিং ও রিভিউ দিন"
+    },
+    {
+      "button_text": "JOIN",
+      "action_url": "https://www.facebook.com/groups/muslimsday",
+      "enable": true,
+      "id": 106,
+      "message": "অ্যাপের যে কোনো সমস্যা আমাদের ফেসবুক গ্রুপের মাধ্যমে জানাতে পারেন",
+      "title": "জয়েন করুন Muslims Day অ্যাপের ফেসবুক গ্রুপে"
+    },
+    {
+      "button_text": "Like",
+      "action_url": "https://www.facebook.com/muslimsdayapp",
+      "enable": true,
+      "id": 105,
+      "message": "বিভিন্ন বিষয়ে আপ টু ডেট থাকতে, আমাদের পেজে লাইক দিয়ে অ্যাক্টিভ থাকুন",
+      "title": "Muslims Day অ্যাপের ফেসবুক পেজ ফলো করুন"
+    },
+    {
+      "button_text": "Read",
+      "action_url": "https://hellohasan.com/2021/05/16/আইয়ামে-বীজ-রোজা-কবে-ফজিলত/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
+      "enable": true,
+      "id": 104,
+      "message": "এ মাসের রোজাঃ ২১, ২২ ও ২৩ সেপ্টেম্বর। জেনে নিন এর ফজিলত ও মাসআলা",
+      "title": "সফর মাসের আইয়ামে বীজের রোজা রাখছেন তো?"
+    },
+    {
+      "button_text": "Read",
+      "action_url": "https://hellohasan.com/2021/07/19/ফরজ-নফল-নামাজের-সময়সূচী/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
+      "enable": true,
+      "id": 103,
+      "message": "রেফারেন্স সহ জেনে নিই- অ্যাপে প্রদর্শিত সালাতের ওয়াক্তের পেছনের মাসআলা",
+      "title": "ফরজ ও নফল সালাতের সময়সীমা"
+    },
+    {
+      "button_text": "READ",
+      "action_url": "https://hellohasan.com/2021/09/05/আখেরী-চাহার-সোম্বা-বিদআত/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
+      "enable": true,
+      "id": 102,
+      "message": "জেনে নিন সফর মাস সম্পর্কে প্রচলিত ভুল ধারনা ও অন্যান্য বিদআত সম্পর্কে",
+      "title": "আখেরি চাহার সোম্বা - বহুল প্রচলিত ভুল রসম"
     },
     {
       "button_text": "Donate",
