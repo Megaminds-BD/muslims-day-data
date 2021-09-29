@@ -28,7 +28,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://www.facebook.com/aslafacademy/posts/1664758077065388",
-      "enable": false,
+      "enable": true,
       "id": 4,
       "message": "নিজের ও নিজের আপনজনের সুরক্ষায় রুকইয়াহ ট্রিটমেন্ট শেখার সুব্যবস্থা",
       "title": "রুকইয়াহ শারইয়্যাহ : একটি সুন্নাহসম্মত চিকিৎসা-পদ্ধতি"
@@ -52,7 +52,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://www.niyamahshop.com/store/author/mujahid-mamun/sontan-gorar-110-tips/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
-      "enable": false,
+      "enable": true,
       "id": 7,
       "message": "শিশুর প্রথম ১২টি বছরে তাকে আদর্শ মানুষ রূপে গড়ে তোলার অনন্য কৌশল",
       "title": "জেনে নিন সন্তান গড়ার ১১০টি টিপস"
@@ -60,7 +60,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://www.niyamahshop.com/store/author/yasar-kandemir/golpe-aka-challis-hadis/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
-      "enable": false,
+      "enable": true,
       "id": 8,
       "message": "শিশুরা গল্পে গল্পে শিখবে ৪০টি হাদীস এবং হাদীস থেকে আহরিত শিক্ষা",
       "title": "গল্পে আঁকা চল্লিশ হাদীস - (শিশুতোষ বই)"
@@ -124,7 +124,7 @@
     {
       "button_text": "READ",
       "action_url": "https://hellohasan.com/2021/09/05/আখেরী-চাহার-সোম্বা-বিদআত/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": true,
+      "enable": false,
       "id": 102,
       "message": "জেনে নিন সফর মাস সম্পর্কে প্রচলিত ভুল ধারনা ও অন্যান্য বিদআত সম্পর্কে",
       "title": "আখেরি চাহার সোম্বা - বহুল প্রচলিত ভুল রসম"
@@ -132,7 +132,7 @@
     {
       "button_text": "Donate",
       "action_url": "https://drive.google.com/file/d/1DCCfeLt1kbKd206vGRs3wOu9nG4qu__F",
-      "enable": true,
+      "enable": false,
       "id": 101,
       "message": "সাদকায়ে জারিয়ায় সামিল হতে এই অ্যাপের ডেভেলপমেন্টের জন্য অনুদান দিন",
       "title": "আর্থিক অনুদান দিন, মাসে ১০০ টাকা হলেও!"
