@@ -124,7 +124,7 @@
     {
       "button_text": "Read",
       "action_url": "https://hellohasan.com/2021/07/19/ফরজ-নফল-নামাজের-সময়সূচী/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": true,
+      "enable": false,
       "id": 103,
       "message": "রেফারেন্স সহ জেনে নিই- অ্যাপে প্রদর্শিত সালাতের ওয়াক্তের পেছনের মাসআলা",
       "title": "ফরজ ও নফল সালাতের সময়সীমা"
@@ -140,7 +140,7 @@
     {
       "button_text": "Donate",
       "action_url": "https://drive.google.com/file/d/1DCCfeLt1kbKd206vGRs3wOu9nG4qu__F",
-      "enable": true,
+      "enable": false,
       "id": 101,
       "message": "সাদকায়ে জারিয়ায় সামিল হতে এই অ্যাপের ডেভেলপমেন্টের জন্য অনুদান দিন",
       "title": "আর্থিক অনুদান দিন, মাসে ১০০ টাকা হলেও!"
