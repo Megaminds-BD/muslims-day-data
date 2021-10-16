@@ -83,6 +83,14 @@
     },
     {
       "button_text": "বিস্তারিত",
+      "action_url": "https://www.alkawsar.com/bn/article/2862/",
+      "enable": true,
+      "id": 109,
+      "message": "মীলাদুন্নবী (সা) উদযাপনের ফজিলত প্রমাণে, বিদআতপন্থীদের দুটি জাল বর্ণনা",
+      "title": "মীলাদুন্নবী (সাঃ) বিষয়ে দু'টি ভিত্তিহীন বর্ণনা - আলকাউসার"
+    },
+    {
+      "button_text": "বিস্তারিত",
       "action_url": "https://hellohasan.com/2021/10/11/পূজা-দেখতে-যাওয়ার-বিধান/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
       "enable": false,
       "id": 108,
@@ -116,7 +124,7 @@
     {
       "button_text": "Read",
       "action_url": "https://hellohasan.com/2021/05/16/আইয়ামে-বীজ-রোজা-কবে-ফজিলত/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": false,
+      "enable": true,
       "id": 104,
       "message": "এ মাসের রোজাঃ ২১, ২২ ও ২৩ অক্টোবর। জেনে নিন এর ফজিলত ও মাসআলা",
       "title": "রবিউল আউয়াল মাসের আইয়ামে বীজের রোজা রাখছেন তো?"
@@ -124,7 +132,7 @@
     {
       "button_text": "Read",
       "action_url": "https://hellohasan.com/2021/07/19/ফরজ-নফল-নামাজের-সময়সূচী/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": false,
+      "enable": true,
       "id": 103,
       "message": "রেফারেন্স সহ জেনে নিই- অ্যাপে প্রদর্শিত সালাতের ওয়াক্তের পেছনের মাসআলা",
       "title": "ফরজ ও নফল সালাতের সময়সীমা"
@@ -140,7 +148,7 @@
     {
       "button_text": "Donate",
       "action_url": "https://drive.google.com/file/d/1DCCfeLt1kbKd206vGRs3wOu9nG4qu__F",
-      "enable": false,
+      "enable": true,
       "id": 101,
       "message": "সাদকায়ে জারিয়ায় সামিল হতে এই অ্যাপের ডেভেলপমেন্টের জন্য অনুদান দিন",
       "title": "আর্থিক অনুদান দিন, মাসে ১০০ টাকা হলেও!"
