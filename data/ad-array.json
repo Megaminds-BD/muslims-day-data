@@ -100,7 +100,7 @@
     {
       "button_text": "Rate",
       "action_url": "https://play.google.com/store/apps/details?id=theoaktroop.appoframadan",
-      "enable": true,
+      "enable": false,
       "id": 107,
       "message": "আমাদেরকে উৎসাহ দিতে, গুগল প্লে স্টোরে 5 star রেটিং ও রিভিউ দিন",
       "title": "মুসলিমস ডে অ্যাপকে 5 star রেটিং ও রিভিউ দিন"
