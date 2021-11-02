@@ -84,7 +84,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://hellohasan.com/2021/07/28/সোম-বৃহস্পতি-রোজার-ফজিলত/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
-      "enable": true,
+      "enable": false,
       "id": 109,
       "message": "জেনে নিন, নবী (সা) কেন এই দুইদিন নিয়মিত রোজা রাখতেন",
       "title": "প্রতি সপ্তাহের সোম ও বৃহস্পতিবার রোজার রাখার গুরুত্ব"
@@ -100,7 +100,7 @@
     {
       "button_text": "Rate",
       "action_url": "https://play.google.com/store/apps/details?id=theoaktroop.appoframadan",
-      "enable": true,
+      "enable": false,
       "id": 107,
       "message": "5.5 ভার্সনে অ্যাপ আপডেট করুন ও গুগল প্লে স্টোরে 5 star রেটিং দিন",
       "title": "মুসলিমস ডে অ্যাপকে 5 star রেটিং ও রিভিউ দিন"
