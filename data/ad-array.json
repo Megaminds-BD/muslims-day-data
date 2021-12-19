@@ -4,7 +4,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://hellohasan.com/2021/11/25/সরকারি-বিদ্যুত-ব্যবহার/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
-      "enable": false,
+      "enable": true,
       "id": 111,
       "message": "আসুন, বান্দার হক্ব সংশ্লিষ্ট একটি কঠিন গুনাহের ব্যাপারে সচেতন হই!",
       "title": "সরকারি বিদ্যুৎ ব্যবহার করে ব্যাডমিন্টন খেলা কি জায়েজ?"
@@ -12,7 +12,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://hellohasan.com/2021/11/22/শীতকালের-বিশেষ-আমল/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
-      "enable": false,
+      "enable": true,
       "id": 110,
       "message": "আসুন আল্লাহর প্রিয় পাত্র হই। আল্লাহর দেয়া সুযোগগুলো কাজে লাগাই",
       "title": "শীতকালের ৫টি বিশেষ আমল"
@@ -28,7 +28,7 @@
     {
       "button_text": "Rate",
       "action_url": "https://play.google.com/store/apps/details?id=theoaktroop.appoframadan",
-      "enable": false,
+      "enable": true,
       "id": 107,
       "message": "5.6 ভার্সনে অ্যাপ আপডেট করুন ও গুগল প্লে স্টোরে 5 star রেটিং দিন",
       "title": "মুসলিমস ডে অ্যাপকে 5 star রেটিং ও রিভিউ দিন"
@@ -52,7 +52,7 @@
     {
       "button_text": "Read",
       "action_url": "https://hellohasan.com/2021/05/16/আইয়ামে-বীজ-রোজা-কবে-ফজিলত/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": true,
+      "enable": false,
       "id": 104,
       "message": "এ মাসের রোজাঃ ১৮, ১৯ ও ২০ ডিসেম্বর। জেনে নিন এর ফজিলত ও মাসআলা",
       "title": "জমাদিউল উলার আইয়ামে বীজের রোজা রাখছেন তো?"
