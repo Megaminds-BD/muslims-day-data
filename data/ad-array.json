@@ -12,7 +12,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://hellohasan.com/2021/11/25/সরকারি-বিদ্যুত-ব্যবহার/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
-      "enable": true,
+      "enable": false,
       "id": 111,
       "message": "আসুন, বান্দার হক্ব সংশ্লিষ্ট একটি কঠিন গুনাহের ব্যাপারে সচেতন হই!",
       "title": "সরকারি বিদ্যুৎ ব্যবহার করে ব্যাডমিন্টন খেলা কি জায়েজ?"
@@ -20,7 +20,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://hellohasan.com/2021/11/22/শীতকালের-বিশেষ-আমল/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
-      "enable": true,
+      "enable": false,
       "id": 110,
       "message": "আসুন আল্লাহর প্রিয় পাত্র হই। আল্লাহর দেয়া সুযোগগুলো কাজে লাগাই",
       "title": "শীতকালের ৫টি বিশেষ আমল"
@@ -44,7 +44,7 @@
     {
       "button_text": "JOIN",
       "action_url": "https://www.facebook.com/groups/muslimsday",
-      "enable": true,
+      "enable": false,
       "id": 106,
       "message": "অ্যাপের যে কোনো সমস্যা আমাদের ফেসবুক গ্রুপের মাধ্যমে জানাতে পারেন",
       "title": "জয়েন করুন Muslims Day অ্যাপের ফেসবুক গ্রুপে"
@@ -52,7 +52,7 @@
     {
       "button_text": "Like",
       "action_url": "https://www.facebook.com/muslimsdayapp",
-      "enable": true,
+      "enable": false,
       "id": 105,
       "message": "বিভিন্ন বিষয়ে আপ টু ডেট থাকতে, আমাদের পেজে লাইক দিয়ে অ্যাক্টিভ থাকুন",
       "title": "Muslims Day অ্যাপের ফেসবুক পেজ ফলো করুন"
@@ -84,7 +84,7 @@
     {
       "button_text": "Donate",
       "action_url": "https://drive.google.com/file/d/1DCCfeLt1kbKd206vGRs3wOu9nG4qu__F",
-      "enable": true,
+      "enable": false,
       "id": 101,
       "message": "আইফোনের জন্য অ্যাপ ডেভেলপমেন্ট চলছে। সাদকায়ে জারিয়ায় সামিল হউন",
       "title": "আর্থিক অনুদান দিন, মাসে ১০০ টাকা হলেও!"
