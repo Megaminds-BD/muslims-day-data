@@ -47,7 +47,7 @@
       "account_number": "20502100204303506",
       "account_type": "Savings Account",
       "bank_or_wallet_name": "Islami Bank Bangladesh Ltd",
-      "branch": "Mirpur 1",
+      "branch": "Mirpur 1 (Dhaka North Zone)",
       "isBank": true,
       "isEnable": true,
       "routing_number": "125263106",
@@ -59,10 +59,10 @@
       "account_number": "1442518777001",
       "account_type": "Current Account",
       "bank_or_wallet_name": "The City Bank",
-      "branch": "Banani",
+      "branch": "Banani (Dhaka North)",
       "isBank": true,
       "isEnable": true,
-      "routing_number": "4367016",
+      "routing_number": "225260438",
       "swift_code": "CIBLBDDH",
       "additional_info": "Account holder address: 16/7, Paikpara (D type) Colony, Mirpur 1, Dhaka 1216\nAccount holder phone: 01521101145"
     }
