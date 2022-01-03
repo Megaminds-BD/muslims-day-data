@@ -30,9 +30,9 @@
     "hijri_year": "1443"
   },
   {
-    "end": "2021-02-13",
+    "end": "2022-02-02",
     "name": "Jumada Al Akhirah",
-    "start": "2021-01-15",
+    "start": "2022-01-05",
     "hijri_year": "1443"
   },
   {
@@ -45,30 +45,30 @@
     "end": "2021-04-13",
     "name": "Sha'ban",
     "start": "2021-03-16",
-    "hijri_year": "1442"
+    "hijri_year": "1443"
   },
   {
     "end": "2021-05-13",
     "name": "Ramadan",
     "start": "2021-04-14",
-    "hijri_year": "1442"
+    "hijri_year": "1443"
   },
   {
     "end": "2021-06-12",
     "name": "Shawwal",
     "start": "2021-05-14",
-    "hijri_year": "1442"
+    "hijri_year": "1443"
   },
   {
     "end": "2021-07-11",
     "name": "Dhu l-Kada ",
     "start": "2021-06-13",
-    "hijri_year": "1442"
+    "hijri_year": "1443"
   },
   {
     "end": "2021-08-10",
     "name": "Dhu Al Hijjah",
     "start": "2021-07-12",
-    "hijri_year": "1442"
+    "hijri_year": "1443"
   }
 ]
