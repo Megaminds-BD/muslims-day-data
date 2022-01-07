@@ -20,7 +20,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://hellohasan.com/2021/11/22/শীতকালের-বিশেষ-আমল/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
-      "enable": false,
+      "enable": true,
       "id": 110,
       "message": "আসুন আল্লাহর প্রিয় পাত্র হই। আল্লাহর দেয়া সুযোগগুলো কাজে লাগাই",
       "title": "শীতকালের ৫টি বিশেষ আমল"
@@ -68,7 +68,7 @@
     {
       "button_text": "Read",
       "action_url": "https://hellohasan.com/2021/07/19/ফরজ-নফল-নামাজের-সময়সূচী/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": false,
+      "enable": true,
       "id": 103,
       "message": "রেফারেন্স সহ জেনে নিই- অ্যাপে প্রদর্শিত সালাতের ওয়াক্তের পেছনের মাসআলা",
       "title": "ফরজ ও নফল সালাতের সময়সীমা"
@@ -76,7 +76,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://hellohasan.com/2021/06/11/জুমার-দিনের-আমল/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": true,
+      "enable": false,
       "id": 102,
       "message": "সূরা কাহফ পড়া, গোসল করা, সুগন্ধি লাগানো, আগে আগে মসজিদে যাওয়া ইত্যাদি",
       "title": "জুমআর দিনের সুন্নাহ ভিত্তিক কিছু আমল"
