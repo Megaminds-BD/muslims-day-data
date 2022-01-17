@@ -2,7 +2,7 @@
   "admob_enable": true,
   "banner_ads": [
     {
-      "button_text": "সরোবর",
+      "button_text": "যোগাযোগ",
       "action_url": "https://www.facebook.com/shoroborbd",
       "enable": true,
       "id": 1,
@@ -10,7 +10,7 @@
       "title": "সরোবর থেকে শাল কিনে বিতরন করতে চান?"
     },
     {
-      "button_text": "সরোবর",
+      "button_text": "বিস্তারিত",
       "action_url": "https://shorobor.biz/product-category/social-business/wiw/?utm_source=muslims-day&utm_medium=banner&utm_campaign=shawl-campaign",
       "enable": true,
       "id": 2,
