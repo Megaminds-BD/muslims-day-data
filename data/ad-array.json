@@ -2,20 +2,20 @@
   "admob_enable": true,
   "banner_ads": [
     {
-      "button_text": "ভিডিও",
-      "action_url": "https://youtu.be/HcxIZbmIrPI?t=60",
-      "enable": false,
-      "id": 112,
-      "message": "একজন মুসলিমের জন্য এটা কতটা মানানসই? ভিডিও থেকে জেনে নিই",
-      "title": "থার্টি ফার্স্ট নাইট উদযাপন - ড. আব্দুল্লাহ জাহাঙ্গীর (রাহিঃ)"
+      "button_text": "সরোবর",
+      "action_url": "https://www.facebook.com/shoroborbd",
+      "enable": true,
+      "id": 1,
+      "message": "মফস্বলের শীতার্ত মানুষদের মাঝে সরোবরের মাধ্যমে বিতরণ করতে পারেন। মূল্য ২৯০/-",
+      "title": "সরোবর থেকে শাল কিনে বিতরন করতে চান?"
     },
     {
-      "button_text": "বিস্তারিত",
-      "action_url": "https://hellohasan.com/2021/11/25/সরকারি-বিদ্যুত-ব্যবহার/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
-      "enable": false,
-      "id": 111,
-      "message": "আসুন, বান্দার হক্ব সংশ্লিষ্ট একটি কঠিন গুনাহের ব্যাপারে সচেতন হই!",
-      "title": "সরকারি বিদ্যুৎ ব্যবহার করে ব্যাডমিন্টন খেলা কি জায়েজ?"
+      "button_text": "সরোবর",
+      "action_url": "https://shorobor.biz/product-category/social-business/wiw",
+      "enable": true,
+      "id": 2,
+      "message": "শীতে আপনার এলাকায় শীতার্ত মানুষদেরকে ২৯০ টাকায় শাল উপহার দিতে পারেন",
+      "title": "উষ্ণতা ছড়াতে সরোবর এনেছে শাল"
     },
     {
       "button_text": "বিস্তারিত",
