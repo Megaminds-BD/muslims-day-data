@@ -4,7 +4,7 @@
     {
       "button_text": "যোগাযোগ",
       "action_url": "https://www.facebook.com/shoroborbd",
-      "enable": true,
+      "enable": false,
       "id": 1,
       "message": "মফস্বলের শীতার্ত মানুষদের মাঝে সরোবরের মাধ্যমে বিতরণ করতে পারেন। মূল্য ২৯০/-",
       "title": "সরোবর থেকে শাল কিনে বিতরন করতে চান?"
@@ -12,7 +12,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://shorobor.biz/product-category/social-business/wiw/?utm_source=muslims-day&utm_medium=banner&utm_campaign=shawl-campaign",
-      "enable": true,
+      "enable": false,
       "id": 2,
       "message": "শীতে আপনার এলাকায় শীতার্ত মানুষদেরকে ২৯০ টাকায় শাল উপহার দিতে পারেন",
       "title": "উষ্ণতা ছড়াতে সরোবর এনেছে শাল"
