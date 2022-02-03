@@ -19,11 +19,11 @@
     },
     {
       "button_text": "বিস্তারিত",
-      "action_url": "https://hellohasan.com/2021/11/22/শীতকালের-বিশেষ-আমল/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
-      "enable": false,
+      "action_url": "https://hellohasan.com/2022/02/02/ramadan-preparation-রমজানের-প্রস্তুতি/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
+      "enable": true,
       "id": 110,
-      "message": "আসুন আল্লাহর প্রিয় পাত্র হই। আল্লাহর দেয়া সুযোগগুলো কাজে লাগাই",
-      "title": "শীতকালের ৫টি বিশেষ আমল"
+      "message": "আপনি রমজানের জন্য সঠিক প্রস্তুতি নিচ্ছেন তো? জেনে নিন প্রস্তুতি সম্পর্কে",
+      "title": "রমজান মাস আসতে বাকি ২ মাসেরও কম সময়!"
     },
     {
       "button_text": "বিস্তারিত",
@@ -62,8 +62,8 @@
       "action_url": "https://hellohasan.com/2021/05/16/আইয়ামে-বীজ-রোজা-কবে-ফজিলত/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
       "enable": false,
       "id": 104,
-      "message": "এ মাসের রোজাঃ ১৭, ১৮ ও ১৯ জানুয়ারি। জেনে নিন এর ফজিলত ও মাসআলা",
-      "title": "জমাদিউস সানীর আইয়ামে বীজের রোজা রাখছেন তো?"
+      "message": "এ মাসের রোজা ১৫, ১৬ ও ১৭ ফেব্রুয়ারি। জেনে নিন এর ফজিলত ও মাসআলা",
+      "title": "রজব মাসের আইয়ামে বীজের রোজা রাখছেন তো?"
     },
     {
       "button_text": "Read",
