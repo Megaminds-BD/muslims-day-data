@@ -3,8 +3,16 @@
   "banner_ads": [
     {
       "button_text": "বিস্তারিত",
-      "action_url": "https://hellohasan.com/2022/02/02/ramadan-preparation-রমজানের-প্রস্তুতি/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
+      "action_url": "https://shorobor.biz/product/iftar/?utm_source=muslims-day&utm_medium=banner&utm_campaign=iftar-2022",
       "enable": true,
+      "id": 110,
+      "message": "মাত্র ৫৯০ টাকায় এক প্যাকেট ইফতার কিনতে পারেন, যা পাবে দরিদ্র রোজাদারগণ",
+      "title": "সরোবর এর মাধ্যমে রামাদানে দুস্থদের ইফতার করাতে চান?"
+    },
+    {
+      "button_text": "বিস্তারিত",
+      "action_url": "https://hellohasan.com/2022/02/02/ramadan-preparation-রমজানের-প্রস্তুতি/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
+      "enable": false,
       "id": 110,
       "message": "রমজানের জন্য সঠিক প্রস্তুতি নিচ্ছেন তো? জেনে নিন রমজানের প্রস্তুতি সম্পর্কে",
       "title": "রমজান মাস আসতে বাকি আর কয়েকটি দিন!"
@@ -76,7 +84,7 @@
     {
       "button_text": "Donate",
       "action_url": "https://drive.google.com/file/d/1DCCfeLt1kbKd206vGRs3wOu9nG4qu__F",
-      "enable": true,
+      "enable": false,
       "id": 101,
       "message": "অ্যাপের কার্যক্রম চালিয়ে নেয়ার জন্য আপনার সাধ্যমত হাদিয়া দিতে পারেন",
       "title": "আর্থিক অনুদান দিন, মাসে ১০০ টাকা হলেও!"
