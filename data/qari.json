@@ -64,8 +64,12 @@
     "server": "http://server8.mp3quran.net/lhdan/"
   },
   {
-    "name": "মুহাম্মাদ সিদ্দীক আল-মিনশাবী",
+    "name": "মুহাম্মাদ সিদ্দীকআল-মিনশাবী (ক্বেরাত)",
     "server": "http://server11.mp3quran.net/minsh_mjwd/"
+  },
+  {
+    "name": "মুহাম্মাদ সিদ্দীক আল-মিনশাবী (হদর)",
+    "server": "https://server10.mp3quran.net/minsh/"
   },
   {
     "name": "জামাল শাকের আব্দুল্লাহ্",
