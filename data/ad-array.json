@@ -2,9 +2,17 @@
   "admob_enable": true,
   "banner_ads": [
     {
+      "button_text": "VISIT",
+      "action_url": "https://apps.apple.com/us/app/muslims-day/id1613431376",
+      "enable": true,
+      "id": 112,
+      "message": "অ্যাপ স্টোর থেকে ডাউনলোড করতে পারেন আপনার আইফোনের জন্য",
+      "title": "রিলিজ হয়েছে মুসলিমস ডে'র iOS অ্যাপ!"
+    },
+    {
       "button_text": "বিস্তারিত",
       "action_url": "https://shorobor.biz/product/iftar/?utm_source=muslims-day&utm_medium=banner&utm_campaign=iftar-2022",
-      "enable": false,
+      "enable": true,
       "id": 111,
       "message": "মাত্র ৫৯০ টাকায় এক প্যাকেট ইফতার কিনতে পারেন, যা পাবে দরিদ্র রোজাদারগণ",
       "title": "সরোবর এর মাধ্যমে রামাদানে ইফতার করাতে চান?"
@@ -84,7 +92,7 @@
     {
       "button_text": "Donate",
       "action_url": "https://drive.google.com/file/d/1DCCfeLt1kbKd206vGRs3wOu9nG4qu__F",
-      "enable": false,
+      "enable": true,
       "id": 101,
       "message": "অ্যাপের কার্যক্রম চালিয়ে নেয়ার জন্য আপনার সাধ্যমত হাদিয়া দিতে পারেন",
       "title": "আর্থিক অনুদান দিন, মাসে ১০০ টাকা হলেও!"
