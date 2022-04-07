@@ -8,6 +8,18 @@
   "account": [
     {
       "account_name": "",
+      "account_number": "01724014785",
+      "account_type": "মার্চেন্ট",
+      "bank_or_wallet_name": "বিকাশ পেমেন্ট (বিনা খরচে)",
+      "branch": "",
+      "isBank": false,
+      "isEnable": true,
+      "routing_number": "",
+      "swift_code": "",
+      "additional_info": "বিকাশের পেমেন্ট অপশন ব্যবহার করে বিনা খরচে ডোনেট করুন"
+    },
+    {
+      "account_name": "",
       "account_number": "01521101145",
       "account_type": "Personal",
       "bank_or_wallet_name": "বিকাশ (সেন্ড মানি করুন)",
