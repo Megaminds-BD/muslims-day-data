@@ -36,7 +36,7 @@
     {
       "button_text": "Rate",
       "action_url": "https://play.google.com/store/apps/details?id=theoaktroop.appoframadan",
-      "enable": true,
+      "enable": false,
       "id": 107,
       "message": "অ্যাপটি পরিচিতদের সাথে শেয়ার করুন ও প্লেস্টোরে 5 star রেটিং দিন",
       "title": "মুসলিমস ডে অ্যাপকে 5 star রেটিং ও রিভিউ দিন"
@@ -84,7 +84,7 @@
     {
       "button_text": "Donate",
       "action_url": "https://drive.google.com/file/d/1DCCfeLt1kbKd206vGRs3wOu9nG4qu__F",
-      "enable": true,
+      "enable": false,
       "id": 101,
       "message": "অ্যাপের কার্যক্রম চালিয়ে নেয়ার জন্য আপনার সাধ্যমত হাদিয়া দিতে পারেন",
       "title": "আর্থিক অনুদান দিন, মাসে ১০০ টাকা হলেও!"
