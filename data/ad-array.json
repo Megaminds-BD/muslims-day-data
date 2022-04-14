@@ -20,7 +20,7 @@
     {
       "button_text": "QUIZ",
       "action_url": "https://docs.google.com/forms/d/e/1FAIpQLSfQXtHJkHUEtZKIC0I5YKFWbO_plLUZkVL_3h4cdzTB9yw_jw/viewform",
-      "enable": false,
+      "enable": true,
       "id": 110,
       "message": "রোজার মাসআলাগুলো সম্পর্কে আপনার জ্ঞানকে ঝালিয়ে নিন!",
       "title": "ফিকহুস সিয়াম বা রোজার মাসআলার উপর কুইজ"
@@ -76,7 +76,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://hellohasan.com/2021/06/11/জুমার-দিনের-আমল/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": false,
+      "enable": true,
       "id": 102,
       "message": "সূরা কাহফ পড়া, গোসল করা, সুগন্ধি লাগানো, আগে আগে মসজিদে যাওয়া ইত্যাদি",
       "title": "জুমআর দিনের সুন্নাহ ভিত্তিক কিছু আমল"
@@ -84,7 +84,7 @@
     {
       "button_text": "Donate",
       "action_url": "https://drive.google.com/file/d/1DCCfeLt1kbKd206vGRs3wOu9nG4qu__F",
-      "enable": false,
+      "enable": true,
       "id": 101,
       "message": "অ্যাপের কার্যক্রম চালিয়ে নেয়ার জন্য আপনার সাধ্যমত হাদিয়া দিতে পারেন",
       "title": "আর্থিক অনুদান দিন, মাসে ১০০ টাকা হলেও!"
