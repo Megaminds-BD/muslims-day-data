@@ -2,6 +2,14 @@
   "admob_enable": true,
   "banner_ads": [
     {
+      "button_text": "READ",
+      "action_url": "https://www.alkawsar.com/bn/article/1530/",
+      "enable": true,
+      "message": "মাসিক আলকাউসার থেকে জেনে নিন যাকাত সম্পর্কিত ব্যাসিক মাসআলা সমূহ",
+      "title": "যাকাত: গুরুত্ব ও মাসায়েল - মাওলানা যাকারিয়া আব্দুল্লাহ",
+      "id": 115
+    },
+    {
       "button_text": "বিস্তারিত",
       "action_url": "https://hellohasan.com/2021/05/05/ফিতরা-কত-টাকা-বিধান/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
       "enable": true,
@@ -84,7 +92,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://hellohasan.com/2021/06/11/জুমার-দিনের-আমল/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": true,
+      "enable": false,
       "id": 102,
       "message": "সূরা কাহফ পড়া, গোসল করা, সুগন্ধি লাগানো, আগে আগে মসজিদে যাওয়া ইত্যাদি",
       "title": "জুমআর দিনের সুন্নাহ ভিত্তিক কিছু আমল"
