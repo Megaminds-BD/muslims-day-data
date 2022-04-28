@@ -4,7 +4,7 @@
     {
       "button_text": "READ",
       "action_url": "https://www.alkawsar.com/bn/article/1530/",
-      "enable": true,
+      "enable": false,
       "message": "মাসিক আলকাউসার থেকে জেনে নিন যাকাত সম্পর্কিত ব্যাসিক মাসআলা সমূহ",
       "title": "যাকাত: গুরুত্ব ও মাসায়েল - মাওলানা যাকারিয়া আব্দুল্লাহ",
       "id": 115
