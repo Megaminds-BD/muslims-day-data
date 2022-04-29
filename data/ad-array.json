@@ -3,10 +3,10 @@
   "banner_ads": [
     {
       "button_text": "READ",
-      "action_url": "https://www.alkawsar.com/bn/article/1530/",
-      "enable": false,
-      "message": "মাসিক আলকাউসার থেকে জেনে নিন যাকাত সম্পর্কিত ব্যাসিক মাসআলা সমূহ",
-      "title": "যাকাত: গুরুত্ব ও মাসায়েল - মাওলানা যাকারিয়া আব্দুল্লাহ",
+      "action_url": "https://hellohasan.com/2021/05/13/ঈদ-উল-ফিতর-সুন্নত-আমল/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
+      "enable": true,
+      "message": "জেনে নিন সুন্নাহের আলোকে ঈদুল ফিতরের কিছু গুরুত্বপূর্ণ আমল",
+      "title": "ঈদুল ফিতরের মাসনূন কিছু আমল",
       "id": 115
     },
     {
@@ -14,16 +14,16 @@
       "action_url": "https://hellohasan.com/2021/05/05/ফিতরা-কত-টাকা-বিধান/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
       "enable": true,
       "message": "ফিতরা মানেই কি ৭৫ টাকা? জেনে নিন ফিতরার বিস্তারিত মাসআলা",
-      "title": "ফিতরা আদায়ের জন্য প্রস্তুতি নিচ্ছি তো?",
+      "title": "ফিতরা আদায় করেছেন তো?",
       "id": 114
     },
     {
       "button_text": "READ",
-      "action_url": "https://hellohasan.com/2022/04/04/islamic-foundation-calendar-2022/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
-      "enable": false,
+      "action_url": "https://hellohasan.com/2022/04/29/ঈদের-নামাজ-নিয়ম-৬-তাকবীর/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
+      "enable": true,
       "id": 113,
-      "message": "ইসলামিক ফাউন্ডেশনের সাথে অ্যাপের সময়ের পার্থক্যের কারণ ও করণীয়",
-      "title": "ঢাকার বাইরের ইউজারদের দৃষ্টি আকর্ষণ করছি!"
+      "message": "জেনে নিন অতিরিক্ত ৬ তাকবীর সহ ঈদের নামাজ আদায়ের পদ্ধতি",
+      "title": "ঈদের সালাতের বিস্তারিত নিয়ম"
     },
     {
       "button_text": "VISIT",
