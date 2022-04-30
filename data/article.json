@@ -44,7 +44,7 @@
     ]
   },
   {
-    "category_id": 10,
+    "category_id": 3,
     "category_name": "রিবা",
     "category_image": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/image/money-bag.png",
     "content_list": [
@@ -56,7 +56,7 @@
     ]
   },
   {
-    "category_id": 3,
+    "category_id": 4,
     "category_name": "ফাজায়েল",
     "category_image": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/image/success.png",
     "content_list": [
@@ -78,7 +78,7 @@
     ]
   },
   {
-    "category_id": 4,
+    "category_id": 5,
     "category_name": "দৈনন্দিন জীবন",
     "category_image": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/image/daily-life.png",
     "content_list": [
@@ -100,7 +100,7 @@
     ]
   },
   {
-    "category_id": 5,
+    "category_id": 6,
     "category_name": "অনুপ্রেরণা",
     "category_image": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/image/incentive.png",
     "content_list": [
@@ -127,7 +127,7 @@
     ]
   },
   {
-    "category_id": 6,
+    "category_id": 7,
     "category_name": "হাদীসের গল্প",
     "category_image": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/image/storytelling.png",
     "content_list": [
@@ -154,7 +154,7 @@
     ]
   },
   {
-    "category_id": 7,
+    "category_id": 8,
     "category_name": "সাদাকা",
     "category_image": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/image/charity.png",
     "content_list": [
@@ -166,7 +166,7 @@
     ]
   },
   {
-    "category_id": 8,
+    "category_id": 9,
     "category_name": "বুক রিভিউ",
     "category_image": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/image/books.png",
     "content_list": [
@@ -193,7 +193,7 @@
     ]
   },
   {
-    "category_id": 9,
+    "category_id": 10,
     "category_name": "গুনাহ থেকে বাঁচুন",
     "category_image": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/image/no-touch.png",
     "content_list": [
