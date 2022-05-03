@@ -4,7 +4,7 @@
     {
       "button_text": "READ",
       "action_url": "https://hellohasan.com/2021/05/13/ঈদ-উল-ফিতর-সুন্নত-আমল/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
-      "enable": true,
+      "enable": false,
       "message": "জেনে নিন সুন্নাহের আলোকে ঈদুল ফিতরের কিছু গুরুত্বপূর্ণ আমল",
       "title": "ঈদুল ফিতরের মাসনূন কিছু আমল",
       "id": 115
@@ -20,7 +20,7 @@
     {
       "button_text": "READ",
       "action_url": "https://hellohasan.com/2022/04/29/ঈদের-নামাজ-নিয়ম-৬-তাকবীর/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
-      "enable": true,
+      "enable": false,
       "id": 113,
       "message": "জেনে নিন অতিরিক্ত ৬ তাকবীর সহ ঈদের নামাজ আদায়ের পদ্ধতি",
       "title": "ঈদের সালাতের বিস্তারিত নিয়ম"
