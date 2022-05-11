@@ -2,44 +2,12 @@
   "admob_enable": true,
   "banner_ads": [
     {
-      "button_text": "READ",
-      "action_url": "https://hellohasan.com/2021/05/13/ঈদ-উল-ফিতর-সুন্নত-আমল/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
-      "enable": false,
-      "message": "জেনে নিন সুন্নাহের আলোকে ঈদুল ফিতরের কিছু গুরুত্বপূর্ণ আমল",
-      "title": "ঈদুল ফিতরের মাসনূন কিছু আমল",
-      "id": 115
-    },
-    {
       "button_text": "বিস্তারিত",
       "action_url": "https://hellohasan.com/2020/05/30/শাওয়াল-ছয়-রোজা-সাক্ষী/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
       "enable": true,
       "message": "একে সাক্ষী রোজা বলা ভিত্তিহীন। জেনে নিন এ রোজার বিস্তারিত",
       "title": "শাওয়াল মাসের ৬টি নফল রোজার ফজিলত",
       "id": 114
-    },
-    {
-      "button_text": "READ",
-      "action_url": "https://hellohasan.com/2022/04/29/ঈদের-নামাজ-নিয়ম-৬-তাকবীর/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
-      "enable": false,
-      "id": 113,
-      "message": "জেনে নিন অতিরিক্ত ৬ তাকবীর সহ ঈদের নামাজ আদায়ের পদ্ধতি",
-      "title": "ঈদের সালাতের বিস্তারিত নিয়ম"
-    },
-    {
-      "button_text": "VISIT",
-      "action_url": "https://apps.apple.com/us/app/muslims-day/id1613431376",
-      "enable": false,
-      "id": 112,
-      "message": "অ্যাপ স্টোর থেকে ডাউনলোড করতে পারেন আপনার আইফোনের জন্য",
-      "title": "রিলিজ হয়েছে মুসলিমস ডে'র iOS অ্যাপ!"
-    },
-    {
-      "button_text": "QUIZ",
-      "action_url": "https://docs.google.com/forms/d/e/1FAIpQLSfQXtHJkHUEtZKIC0I5YKFWbO_plLUZkVL_3h4cdzTB9yw_jw/viewform",
-      "enable": false,
-      "id": 110,
-      "message": "রোজার মাসআলাগুলো সম্পর্কে আপনার জ্ঞানকে ঝালিয়ে নিন!",
-      "title": "ফিকহুস সিয়াম বা রোজার মাসআলার উপর কুইজ"
     },
     {
       "button_text": "বিস্তারিত",
@@ -52,7 +20,7 @@
     {
       "button_text": "Rate",
       "action_url": "https://play.google.com/store/apps/details?id=theoaktroop.appoframadan",
-      "enable": false,
+      "enable": true,
       "id": 107,
       "message": "অ্যাপটি পরিচিতদের সাথে শেয়ার করুন ও প্লেস্টোরে 5 star রেটিং দিন",
       "title": "মুসলিমস ডে অ্যাপকে 5 star রেটিং ও রিভিউ দিন"
@@ -76,15 +44,15 @@
     {
       "button_text": "Read",
       "action_url": "https://hellohasan.com/2021/05/16/আইয়ামে-বীজ-রোজা-কবে-ফজিলত/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": false,
+      "enable": true,
       "id": 104,
-      "message": "এ মাসের রোজা ১৭, ১৮ ও ১৯ মার্চ। জেনে নিন এর ফজিলত ও মাসআলা",
-      "title": "শা'বান মাসের আইয়ামে বীজের রোজা রাখছেন তো?"
+      "message": "এ মাসের রোজা ১৫, ১৬ ও ১৭ মে। জেনে নিন এর ফজিলত ও মাসআলা",
+      "title": "শাওয়াল মাসের আইয়ামে বীজের রোজা রাখছেন তো?"
     },
     {
       "button_text": "Read",
       "action_url": "https://hellohasan.com/2021/07/19/ফরজ-নফল-নামাজের-সময়সূচী/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": false,
+      "enable": true,
       "id": 103,
       "message": "রেফারেন্স সহ জেনে নিই- অ্যাপে প্রদর্শিত সালাতের ওয়াক্তের পেছনের মাসআলা",
       "title": "ফরজ ও নফল সালাতের সময়সীমা"
