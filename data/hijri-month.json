@@ -60,15 +60,15 @@
     "hijri_year": "1443"
   },
   {
-    "end": "2022-07-01",
+    "end": "2022-06-30",
     "name": "Dhu l-Kada ",
     "start": "2022-06-02",
     "hijri_year": "1443"
   },
   {
-    "end": "2022-07-31",
+    "end": "2022-07-30",
     "name": "Dhu Al Hijjah",
-    "start": "2022-07-02",
+    "start": "2022-07-01",
     "hijri_year": "1443"
   }
 ]
