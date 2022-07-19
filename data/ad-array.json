@@ -3,22 +3,6 @@
   "banner_ads": [
     {
       "button_text": "বিস্তারিত",
-      "enable": false,
-      "message": "আপনার কুরবানির সম্পূর্ণ গোশত পৌঁছে যাবে হত-দরিদ্র ও দুস্থদের কাছে",
-      "title": "সরোবরের উদহিয়া / কুরবানি প্রোজেক্টে অংশ নিন",
-      "id": 114,
-      "action_url": "https://shorobor.biz/product/udhiya"
-    },
-    {
-      "button_text": "বিস্তারিত",
-      "action_url": "https://hellohasan.com/2021/05/16/আইয়ামে-বীজ-রোজা-কবে-ফজিলত/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
-      "enable": false,
-      "id": 109,
-      "message": "এ মাসের রোজা ১৪, ১৫ ও ১৬ জুন (মঙ্গল, বুধ ও বৃহঃবার)",
-      "title": "জ্বিলক্বদ মাসের আইয়ামে বীজের রোজা রাখছেন তো?"
-    },
-    {
-      "button_text": "বিস্তারিত",
       "action_url": "https://hellohasan.com/2021/08/03/মুহাররম-আশুরা-রোজা-ফজিলত/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
       "enable": true,
       "id": 108,
@@ -48,14 +32,6 @@
       "id": 105,
       "message": "বিভিন্ন বিষয়ে আপ টু ডেট থাকতে, আমাদের পেজে লাইক দিয়ে অ্যাক্টিভ থাকুন",
       "title": "Muslims Day অ্যাপের ফেসবুক পেজ ফলো করুন"
-    },
-    {
-      "button_text": "Read",
-      "action_url": "https://hellohasan.com/2021/05/16/আইয়ামে-বীজ-রোজা-কবে-ফজিলত/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": false,
-      "id": 104,
-      "message": "এ মাসের রোজা ১৫, ১৬ ও ১৭ মে। জেনে নিন এর ফজিলত ও মাসআলা",
-      "title": "শাওয়াল মাসের আইয়ামে বীজের রোজা রাখছেন তো?"
     },
     {
       "button_text": "Read",
