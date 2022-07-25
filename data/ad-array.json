@@ -18,20 +18,12 @@
       "title": "মুসলিমস ডে অ্যাপকে 5 star রেটিং ও রিভিউ দিন"
     },
     {
-      "button_text": "JOIN",
-      "action_url": "https://www.facebook.com/groups/muslimsday",
-      "enable": false,
+      "button_text": "বিস্তারিত",
+      "action_url": "https://hellohasan.com/2022/07/25/মিতব্যয়ী-হই-অপচয়-বন্ধ-করি/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
+      "enable": true,
       "id": 106,
-      "message": "অ্যাপের যে কোনো সমস্যা আমাদের ফেসবুক গ্রুপের মাধ্যমে জানাতে পারেন",
-      "title": "জয়েন করুন Muslims Day অ্যাপের ফেসবুক গ্রুপে"
-    },
-    {
-      "button_text": "Like",
-      "action_url": "https://www.facebook.com/muslimsdayapp",
-      "enable": false,
-      "id": 105,
-      "message": "বিভিন্ন বিষয়ে আপ টু ডেট থাকতে, আমাদের পেজে লাইক দিয়ে অ্যাক্টিভ থাকুন",
-      "title": "Muslims Day অ্যাপের ফেসবুক পেজ ফলো করুন"
+      "message": "বিদ্যুৎ, পানি, তেল, গ্যাস ইত্যাদি সম্পদের অপচয় বন্ধ করি",
+      "title": "আসুন জীবনের প্রতিটি ক্ষেত্রে মিতব্যয়ী হই"
     },
     {
       "button_text": "Read",
