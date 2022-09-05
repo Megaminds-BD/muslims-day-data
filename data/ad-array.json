@@ -11,11 +11,11 @@
     },
     {
       "button_text": "বিস্তারিত",
-      "action_url": "https://hellohasan.com/2021/07/09/শীয়া-মতবাদ-বই-রিভিউ/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
-      "enable": false,
+      "action_url": "https://hellohasan.com/2021/05/16/আইয়ামে-বীজ-রোজা-কবে-ফজিলত/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
+      "enable": true,
       "id": 107,
-      "message": "জেনে নিন শীয়া সম্প্রদায়ের যাবতীয় শিরকী ও বিদআতী আক্বিদা এবং ভ্রষ্টতা সম্পর্কে",
-      "title": "শীয়া মতবাদ - বিবাদ বনাম ভ্রষ্টতা [বই রিভিউ]"
+      "message": "এ মাসের রোজা ১০, ১১ ও ১২ সেপ্টেম্বর রোজ শনি, রবি ও সোমবার",
+      "title": "সফর মাসের আইয়ামে বীজের রোজা রাখছেন তো?"
     },
     {
       "button_text": "বিস্তারিত",
@@ -28,7 +28,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://hellohasan.com/2022/08/18/বাইতুল্লাহর-মুসাফির-book-review/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
-      "enable": true,
+      "enable": false,
       "id": 105,
       "message": "মাওলানা আবু তাহের মিছবাহ সাহেবের চমৎকার একটি বইয়ের রিভিউ",
       "title": "বাইতুল্লাহর মুসাফির - হজ্জের সফরনামা (বই রিভিউ)"
