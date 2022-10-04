@@ -19,35 +19,11 @@
     },
     {
       "button_text": "বিস্তারিত",
-      "action_url": "https://hellohasan.com/2022/07/25/মিতব্যয়ী-হই-অপচয়-বন্ধ-করি/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
-      "enable": false,
+      "action_url": "https://forms.gle/47n2U7CQRDGegqgMA",
+      "enable": true,
       "id": 106,
-      "message": "বিদ্যুৎ, পানি, তেল, গ্যাস ইত্যাদির অপচয় বন্ধ করি। অপব্যয়কারী শয়তানের ভাই",
-      "title": "আসুন জীবনের প্রতিটি ক্ষেত্রে মিতব্যয়ী হই"
-    },
-    {
-      "button_text": "বিস্তারিত",
-      "action_url": "https://hellohasan.com/2022/08/18/বাইতুল্লাহর-মুসাফির-book-review/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
-      "enable": false,
-      "id": 105,
-      "message": "মাওলানা আবু তাহের মিছবাহ সাহেবের চমৎকার একটি বইয়ের রিভিউ",
-      "title": "বাইতুল্লাহর মুসাফির - হজ্জের সফরনামা (বই রিভিউ)"
-    },
-    {
-      "button_text": "বিস্তারিত",
-      "action_url": "https://hellohasan.com/2020/02/04/মানসাঙ্ক-বই-রিভিউ/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
-      "enable": false,
-      "id": 104,
-      "message": "অশালীন পোষাক ধর্ষণের ক্ষেত্রে কী ধরনের ভূমিকা রাখে? Must read book!",
-      "title": "মানসাঙ্ক - ধর্ষণের কারণ ও প্রতিকার [বই রিভিউ]"
-    },
-    {
-      "button_text": "Read",
-      "action_url": "https://hellohasan.com/2021/07/19/ফরজ-নফল-নামাজের-সময়সূচী/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": false,
-      "id": 103,
-      "message": "রেফারেন্স সহ জেনে নিই- অ্যাপে প্রদর্শিত সালাতের ওয়াক্তের পেছনের মাসআলা",
-      "title": "ফরজ ও নফল সালাতের সময়সীমা"
+      "message": "সীরাতের কোনো একটি ঘটনা পড়ে আপনার ভাবনা ও শিক্ষা লিখুন",
+      "title": "'সীরাহ ভাবনা' প্রতিযোগিতা (সবার জন্য উন্মুক্ত)"
     },
     {
       "button_text": "বিস্তারিত",
