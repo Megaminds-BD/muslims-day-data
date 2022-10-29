@@ -46,5 +46,9 @@
     "masnun_amal": {
         "updated_at": 1623472698,
         "url": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/masnun-amal.json"
-    }
+    },
+    "local_notification": {
+        "updated_at": 1667019432,
+        "url": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/local-notification.json"
+    },
 }
