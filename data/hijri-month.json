@@ -26,32 +26,32 @@
   {
     "name": "Jumada Al Ula",
     "start": "2022-11-26",
-    "end": "2022-12-24",
+    "end": "2022-12-25",
     "hijri_year": "1444"
   },
-  { 
+  {
     "name": "Jumada Al Akhirah",
-    "start": "2022-01-05",
-    "end": "2022-02-02",
+    "start": "2022-12-26",
+    "end": "2023-01-23",
     "hijri_year": "1444"
   },
   {
     "name": "Rajab",
-    "start": "2022-02-03",
-    "end": "2022-03-04",
-    "hijri_year": "1443"
+    "start": "2023-01-24",
+    "end": "2023-02-21",
+    "hijri_year": "1444"
   },
   {
     "name": "Sha'ban",
-    "start": "2022-03-05",
-    "end": "2022-04-02",
-    "hijri_year": "1443"
+    "start": "2023-02-22",
+    "end": "2023-03-23",
+    "hijri_year": "1444"
   },
   {
     "name": "Ramadan",
-    "start": "2022-04-03",
-    "end": "2022-05-02",
-    "hijri_year": "1443"
+    "start": "2023-03-24",
+    "end": "2023-04-21",
+    "hijri_year": "1444"
   },
   {
     "name": "Shawwal",
