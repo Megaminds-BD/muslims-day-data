@@ -2,11 +2,11 @@
   "admob_enable": true,
   "banner_ads": [
     {
-      "button_text": "বিস্তারিত",
+      "button_text": "ফেসবুকে",
       "action_url": "https://www.facebook.com/OrdhekDeen",
       "enable": true,
       "id": 107,
-      "message": "নিজ উপজেলার মাঝে দ্বীনদার পাত্রপাত্রীর বায়োডাটা খুঁজুন খুব সহজে!",
+      "message": "অর্ধেকদ্বীন ডটকমে নিজ উপজেলার মাঝে দ্বীনদার পাত্রপাত্রীর বায়োডাটা খুঁজুন খুব সহজে!",
       "title": "দ্বীনদার পাত্র বা পাত্রীর সন্ধানে OrdhekDeen.com"
     },
     {
