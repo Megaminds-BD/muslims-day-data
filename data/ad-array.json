@@ -12,7 +12,7 @@
     {
       "button_text": "কিনুন",
       "action_url": "https://www.shorobor.biz/product-category/wiw/?utm_source=muslims-day&utm_medium=banner&utm_campaign=wiw",
-      "enable": true,
+      "enable": false,
       "id": 106,
       "message": "সরোবর এর মাধ্যমে শীতার্ত দুস্থদের মাঝে কম্বল, শাল, হুডি পৌঁছাতে পারেন",
       "title": "শীতের কাপড় নিয়ে মানুষের পাশে দাঁড়াচ্ছেন তো?"
