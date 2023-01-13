@@ -4,7 +4,7 @@
     {
       "button_text": "ফেসবুকে",
       "action_url": "https://www.facebook.com/OrdhekDeen",
-      "enable": true,
+      "enable": false,
       "id": 107,
       "message": "অর্ধেকদ্বীন ডটকমে নিজ উপজেলার মাঝে দ্বীনদার পাত্রপাত্রীর বায়োডাটা খুঁজুন খুব সহজে!",
       "title": "দ্বীনদার পাত্র বা পাত্রীর সন্ধানে OrdhekDeen.com"
@@ -20,7 +20,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://aslafacademy.com/all-courses/?utm_source=muslims-day&utm_medium=banner&utm_campaign=yearly_discount",
-      "enable": true,
+      "enable": false,
       "id": 105,
       "message": "সর্বোচ্চ ৮২% ছাড়ে পাওয়া যাচ্ছে ইসলামী বিভিন্ন গুরুত্বপূর্ণ কোর্স",
       "title": "আসলাফ একাডেমিতে চলছে বাৎসরিক অফার"
@@ -36,7 +36,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://hellohasan.com/2021/06/11/জুমার-দিনের-আমল/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": false,
+      "enable": true,
       "id": 102,
       "message": "সূরা কাহফ পড়া, গোসল করা, সুগন্ধি লাগানো, আগে আগে মসজিদে যাওয়া ইত্যাদি",
       "title": "জুমআর দিনের সুন্নাহ ভিত্তিক কিছু আমল"
