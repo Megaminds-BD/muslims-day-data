@@ -3,32 +3,16 @@
   "banner_ads": [
     {
       "button_text": "ফেসবুকে",
-      "action_url": "https://www.facebook.com/OrdhekDeen",
-      "enable": false,
+      "action_url": "https://hellohasan.com/2021/05/16/আইয়ামে-বীজ-রোজা-কবে-ফজিলত/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
+      "enable": true,
       "id": 107,
-      "message": "অর্ধেকদ্বীন ডটকমে নিজ উপজেলার মাঝে দ্বীনদার পাত্রপাত্রীর বায়োডাটা খুঁজুন খুব সহজে!",
-      "title": "দ্বীনদার পাত্র বা পাত্রীর সন্ধানে OrdhekDeen.com"
-    },
-    {
-      "button_text": "কিনুন",
-      "action_url": "https://www.shorobor.biz/product-category/wiw/?utm_source=muslims-day&utm_medium=banner&utm_campaign=wiw",
-      "enable": false,
-      "id": 106,
-      "message": "সরোবর এর মাধ্যমে শীতার্ত দুস্থদের মাঝে কম্বল, শাল, হুডি পৌঁছাতে পারেন",
-      "title": "শীতের কাপড় নিয়ে মানুষের পাশে দাঁড়াচ্ছেন তো?"
-    },
-    {
-      "button_text": "বিস্তারিত",
-      "action_url": "https://aslafacademy.com/all-courses/?utm_source=muslims-day&utm_medium=banner&utm_campaign=yearly_discount",
-      "enable": false,
-      "id": 105,
-      "message": "সর্বোচ্চ ৮২% ছাড়ে পাওয়া যাচ্ছে ইসলামী বিভিন্ন গুরুত্বপূর্ণ কোর্স",
-      "title": "আসলাফ একাডেমিতে চলছে বাৎসরিক অফার"
+      "message": "এ মাসের রোজা ৫-৭ ফেব্রুয়ারি। জেনে নিন এই নফল রোজা সম্পর্কে বিস্তারিত",
+      "title": "রজব মাসের আইয়ামে বীজের রোজা রাখছেন তো?"
     },
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://hellohasan.com/2022/02/02/ramadan-preparation-রমজানের-প্রস্তুতি/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": true,
+      "enable": false,
       "id": 104,
       "message": "রমজানের বাকি মাত্র ২ মাস! জেনে নিন রমজানের প্রস্তুতির বিস্তারিত",
       "title": "রমজানের প্রস্তুতি নিচ্ছেন তো?"
