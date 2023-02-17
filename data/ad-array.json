@@ -2,17 +2,17 @@
   "admob_enable": true,
   "banner_ads": [
     {
-      "button_text": "পড়ুন",
-      "action_url": "https://hellohasan.com/2021/05/16/আইয়ামে-বীজ-রোজা-কবে-ফজিলত/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": false,
+      "button_text": "বিস্তারিত",
+      "action_url": "https://hellohasan.com/2023/02/17/শবে-মেরাজের-আমল-বিদআত/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
+      "enable": true,
       "id": 107,
-      "message": "এ মাসের রোজা ৫-৭ ফেব্রুয়ারি। জেনে নিন এই নফল রোজা সম্পর্কে বিস্তারিত",
-      "title": "রজব মাসের আইয়ামে বীজের রোজা রাখছেন তো?"
+      "message": "নবীজি (সা) ও সাহাবিগণ প্রতি বছর শবে মেরাজ পালন করতেন না। তাহলে করণীয়?",
+      "title": "শবে মেরাজ উদযাপনঃ সুন্নাহ নাকি বিদআত"
     },
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://hellohasan.com/2022/02/02/ramadan-preparation-রমজানের-প্রস্তুতি/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": true,
+      "enable": false,
       "id": 104,
       "message": "রমজানের বাকি ২ মাসেরও কম! জেনে নিন রমজানের প্রস্তুতির বিস্তারিত",
       "title": "রমজানের প্রস্তুতি নিচ্ছেন তো?"
@@ -36,7 +36,7 @@
     {
       "button_text": "Donate",
       "action_url": "https://drive.google.com/file/d/1DCCfeLt1kbKd206vGRs3wOu9nG4qu__F",
-      "enable": true,
+      "enable": false,
       "id": 101,
       "message": "অ্যাপের নিয়মিত ডেভেলপমেন্ট চালিয়ে নিতে আপনার সহযোগিতা প্রয়োজন",
       "title": "মুসলিমস ডে অ্যাপে আর্থিক অনুদান দিন"
