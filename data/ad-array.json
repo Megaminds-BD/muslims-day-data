@@ -3,11 +3,11 @@
   "banner_ads": [
     {
       "button_text": "বিস্তারিত",
-      "action_url": "https://hellohasan.com/2023/02/17/শবে-মেরাজের-আমল-বিদআত/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": false,
+      "action_url": "https://hellohasan.com/2016/07/04/শবে-বরাত-ফজিলত-আমল/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
+      "enable": true,
       "id": 107,
-      "message": "নবীজি (সা) ও সাহাবিগণ প্রতি বছর শবে মেরাজ পালন করতেন না। তাহলে করণীয়?",
-      "title": "শবে মেরাজ উদযাপনঃ সুন্নাহ নাকি বিদআত"
+      "message": "জেনে নিন শবে বরাতের করণীয় আমল ও বর্জনীয় বিদআত-সুসংস্কার সম্পর্কে",
+      "title": "সুন্নাহর আলোকে শবে বরাতের ফজিলত ও আমল"
     },
     {
       "button_text": "বিস্তারিত",
@@ -36,7 +36,7 @@
     {
       "button_text": "Donate",
       "action_url": "https://drive.google.com/file/d/1DCCfeLt1kbKd206vGRs3wOu9nG4qu__F",
-      "enable": false,
+      "enable": true,
       "id": 101,
       "message": "অ্যাপের নিয়মিত ডেভেলপমেন্ট চালিয়ে নিতে আপনার সহযোগিতা প্রয়োজন",
       "title": "মুসলিমস ডে অ্যাপে আর্থিক অনুদান দিন"
