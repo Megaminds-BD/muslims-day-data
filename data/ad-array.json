@@ -28,7 +28,7 @@
     {
       "button_text": "পড়ুন",
       "action_url": "https://muslimsday.com/আইয়ামে-বীজ-রোজার-ফজিলত/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": true,
+      "enable": false,
       "id": 103,
       "message": "শা'বান মাসের রোজা ৬, ৭ ও ৮ মার্চ। জেনে নিন বিস্তারিত",
       "title": "আইয়ামে বীজের রোজা রাখছেন তো?"
