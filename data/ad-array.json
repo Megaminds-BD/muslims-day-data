@@ -19,6 +19,14 @@
     },
     {
       "button_text": "বিস্তারিত",
+      "action_url": "https://www.shorobor.biz/ramadan-food-project?utm_source=muslims-day&utm_medium=banner&utm_campaign=ramadan-food",
+      "enable": true,
+      "id": 105,
+      "message": "\"সরোবর\" এর রামাদান ফুড প্যাকেজ নামাজী রোযাদারদের মাঝে পৌঁছে যাবে।",
+      "title": "রামাদানে দরিদ্র রোযাদারদের খাবার খাওয়ান"
+    },
+    {
+      "button_text": "বিস্তারিত",
       "action_url": "https://hellohasan.com/2021/06/11/জুমার-দিনের-আমল/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
       "enable": false,
       "id": 102,
