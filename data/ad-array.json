@@ -3,16 +3,16 @@
   "banner_ads": [
     {
       "button_text": "বিস্তারিত",
-      "action_url": "https://muslimsday.com/শবে-বরাত-ফজিলত-আমল-বিদআত/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
+      "action_url": "https://muslimsday.com/রমজানের-প্রস্তুতি-নিন/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
       "enable": true,
       "id": 107,
-      "message": "জেনে নিন শবে বরাতের করণীয় আমল ও বর্জনীয় বিদআত-সুসংস্কার সম্পর্কে",
-      "title": "সুন্নাহর আলোকে শবে বরাতের ফজিলত ও আমল"
+      "message": "জেনে নিন কিভাবে প্রস্তুতি নিলে রমাদানের অধিক ফায়দা হাসিল করা সম্ভব",
+      "title": "রমাদান আসার আগেই রমাদানের প্রস্তুতি নিন"
     },
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://muslimsday.com/ফিকহুস-সিয়াম-কুইজ-২০২৩/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": false,
+      "enable": true,
       "id": 104,
       "message": "চলুন শিখি রোজার মাসআলা। ফ্রী কুইজে অংশ নিয়ে জিতে নিই আকর্ষণীয় পুরষ্কার!",
       "title": "ফিকহুস সিয়াম কুইজ প্রতিযোগিতা ২০২৩"
