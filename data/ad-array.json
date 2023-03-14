@@ -4,7 +4,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://muslimsday.com/রমজানের-প্রস্তুতি-নিন/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": false,
+      "enable": true,
       "id": 107,
       "message": "জেনে নিন কিভাবে প্রস্তুতি নিলে রমাদানের অধিক ফায়দা হাসিল করা সম্ভব",
       "title": "রমাদান আসার আগেই রমাদানের প্রস্তুতি নিন"
@@ -12,7 +12,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://muslimsday.com/ফিকহুস-সিয়াম-কুইজ-২০২৩/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": false,
+      "enable": true,
       "id": 104,
       "message": "চলুন শিখি রোজার মাসআলা। ফ্রী কুইজে অংশ নিয়ে জিতে নিই আকর্ষণীয় পুরষ্কার!",
       "title": "ফিকহুস সিয়াম কুইজ প্রতিযোগিতা ২০২৩"
@@ -20,7 +20,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://www.shorobor.biz/ramadan-food-project?utm_source=muslims-day&utm_medium=banner&utm_campaign=ramadan-food",
-      "enable": true,
+      "enable": false,
       "id": 105,
       "message": "\"সরোবর\" এর রামাদান ফুড প্যাকেজ নামাজী রোযাদারদের মাঝে পৌঁছে যাবে।",
       "title": "রামাদানে দরিদ্র রোযাদারদের খাবার খাওয়ান"
@@ -44,7 +44,7 @@
     {
       "button_text": "Donate",
       "action_url": "https://drive.google.com/file/d/1DCCfeLt1kbKd206vGRs3wOu9nG4qu__F",
-      "enable": false,
+      "enable": true,
       "id": 101,
       "message": "অ্যাপের নিয়মিত ডেভেলপমেন্ট চালিয়ে নিতে আপনার সহযোগিতা প্রয়োজন",
       "title": "মুসলিমস ডে অ্যাপে আর্থিক অনুদান দিন"
