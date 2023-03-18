@@ -4,26 +4,18 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://muslimsday.com/রমজানের-প্রস্তুতি-নিন/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": false,
+      "enable": true,
       "id": 107,
       "message": "জেনে নিন কিভাবে প্রস্তুতি নিলে রমাদানের অধিক ফায়দা হাসিল করা সম্ভব",
       "title": "রমাদান আসার আগেই রমাদানের প্রস্তুতি নিন"
     },
     {
-      "button_text": "কুইজ",
-      "action_url": "https://forms.gle/qp5kAhe2kXznJaHAA",
+      "button_text": "Update",
+      "action_url": "https://play.google.com/store/apps/details?id=theoaktroop.appoframadan",
       "enable": true,
       "id": 104,
-      "message": "চলবে ১৭ মার্চ রাত ১০টা পর্যন্ত। আপনিও অংশ নিয়ে পুরষ্কার জিতুন!",
-      "title": "ফিকহুস সিয়াম কুইজ প্রতিযোগিতা ২০২৩"
-    },
-    {
-      "button_text": "বিস্তারিত",
-      "action_url": "https://www.shorobor.biz/ramadan-food-project?utm_source=muslims-day&utm_medium=banner&utm_campaign=ramadan-food",
-      "enable": false,
-      "id": 105,
-      "message": "\"সরোবর\" এর রামাদান ফুড প্যাকেজ নামাজী রোযাদারদের মাঝে পৌঁছে যাবে।",
-      "title": "রামাদানে দরিদ্র রোযাদারদের খাবার খাওয়ান"
+      "message": "নোটিফিকেশন রিপিট ইস্যুটি ফিক্স হয়েছে। আপডেট করুন ও ৫ স্টার রেটিং দিন",
+      "title": "অ্যাপের নতুন আপডেট 5.8.3 এখন প্লে স্টোরে!"
     },
     {
       "button_text": "বিস্তারিত",
@@ -34,17 +26,9 @@
       "title": "জুমআর দিনের সুন্নাহ ভিত্তিক কিছু আমল"
     },
     {
-      "button_text": "পড়ুন",
-      "action_url": "https://muslimsday.com/আইয়ামে-বীজ-রোজার-ফজিলত/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": false,
-      "id": 103,
-      "message": "শা'বান মাসের রোজা ৬, ৭ ও ৮ মার্চ। জেনে নিন বিস্তারিত",
-      "title": "আইয়ামে বীজের রোজা রাখছেন তো?"
-    },
-    {
       "button_text": "Donate",
       "action_url": "https://drive.google.com/file/d/1DCCfeLt1kbKd206vGRs3wOu9nG4qu__F",
-      "enable": false,
+      "enable": true,
       "id": 101,
       "message": "অ্যাপের নিয়মিত ডেভেলপমেন্ট চালিয়ে নিতে আপনার সহযোগিতা প্রয়োজন",
       "title": "মুসলিমস ডে অ্যাপে আর্থিক অনুদান দিন"
