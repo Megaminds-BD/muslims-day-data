@@ -3,19 +3,11 @@
   "banner_ads": [
     {
       "button_text": "বিস্তারিত",
-      "action_url": "https://muslimsday.com/রমজানের-প্রস্তুতি-নিন/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
+      "action_url": "https://muslimsday.com/tag/সাওম-রোজা/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
       "enable": true,
       "id": 107,
-      "message": "জেনে নিন কিভাবে প্রস্তুতি নিলে রমাদানের অধিক ফায়দা হাসিল করা সম্ভব",
-      "title": "রমাদান আসার আগেই রমাদানের প্রস্তুতি নিন"
-    },
-    {
-      "button_text": "Update",
-      "action_url": "https://play.google.com/store/apps/details?id=theoaktroop.appoframadan",
-      "enable": true,
-      "id": 104,
-      "message": "নোটিফিকেশন রিপিট ইস্যুটি ফিক্স হয়েছে। আপডেট করুন ও ৫ স্টার রেটিং দিন",
-      "title": "অ্যাপের নতুন আপডেট 5.8.3 এখন প্লে স্টোরে!"
+      "message": "মুসলিমস ডে ব্লগসাইট থেকে জেনে নিন প্রয়োজনীয় মাসআলা",
+      "title": "রমাদান ও রোজা সম্পর্কিত প্রয়োজনীয় ইলম"
     },
     {
       "button_text": "বিস্তারিত",
