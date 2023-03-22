@@ -3051,12 +3051,12 @@
   },
   "district_info": {
     "bagerhat": {
-      "iftar": 2,
-      "sehri": 4
+      "iftar": 1,
+      "sehri": 5
     },
     "bandarban": {
-      "iftar": -10,
-      "sehri": -4
+      "iftar": -9,
+      "sehri": -6
     },
     "barguna": {
       "iftar": 0,
@@ -3064,130 +3064,130 @@
     },
     "barisal": {
       "iftar": -1,
-      "sehri": 2
+      "sehri": 1
     },
     "bhola": {
-      "iftar": -3,
+      "iftar": -2,
       "sehri": 1
     },
     "bogra": {
-      "iftar": 6,
-      "sehri": 1
+      "iftar": 5,
+      "sehri": 3
     },
     "brahmanbaria": {
-      "iftar": -2,
+      "iftar": -3,
       "sehri": -3
     },
     "chandpur": {
-      "iftar": -2,
-      "sehri": 0
+      "iftar": -1,
+      "sehri": -1
     },
     "chapainawabganj": {
-      "iftar": 10,
-      "sehri": 6
+      "iftar": 9,
+      "sehri": 7
     },
     "chittagong": {
       "iftar": -7,
-      "sehri": -2
+      "sehri": -4
     },
     "chuadanga": {
       "iftar": 6,
-      "sehri": 6
+      "sehri": 7
     },
     "comilla": {
-      "iftar": -3,
-      "sehri": -2
+      "iftar": -4,
+      "sehri": -3
     },
     "cox's bazar": {
-      "iftar": -10,
-      "sehri": -1
+      "iftar": -9,
+      "sehri": -4
     },
     "dhaka": {
       "iftar": 0,
       "sehri": 0
     },
     "dinajpur": {
-      "iftar": 10,
-      "sehri": 2
+      "iftar": 8,
+      "sehri": 4
     },
     "faridpur": {
       "iftar": 2,
       "sehri": 2
     },
     "feni": {
-      "iftar": -4,
-      "sehri": -2
+      "iftar": -5,
+      "sehri": -4
     },
     "gaibandha": {
-      "iftar": 6,
-      "sehri": -1
+      "iftar": 4,
+      "sehri": 1
     },
     "gazipur": {
       "iftar": 0,
-      "sehri": 0
+      "sehri": -1
     },
     "gopalganj": {
       "iftar": 2,
       "sehri": 3
     },
     "habiganj": {
-      "iftar": -3,
-      "sehri": -4
+      "iftar": -4,
+      "sehri": -5
     },
     "jamalpur": {
-      "iftar": 4,
+      "iftar": 3,
       "sehri": -1
     },
     "jessore": {
-      "iftar": 5,
+      "iftar": 4,
       "sehri": 5
     },
     "jhalokati": {
       "iftar": 0,
-      "sehri": 3
+      "sehri": 2
     },
     "jhenaidah": {
-      "iftar": 5,
+      "iftar": 4,
       "sehri": 5
     },
     "joypurhat": {
-      "iftar": 8,
-      "sehri": 2
-    },
-    "khagrachhari": {
-      "iftar": -7,
-      "sehri": -5
-    },
-    "khulna": {
-      "iftar": 3,
-      "sehri": 5
-    },
-    "kishoreganj": {
-      "iftar": 0,
-      "sehri": -3
-    },
-    "kurigram": {
-      "iftar": 7,
-      "sehri": -1
-    },
-    "kushtia": {
       "iftar": 6,
       "sehri": 4
     },
+    "khagrachhari": {
+      "iftar": -7,
+      "sehri": -6
+    },
+    "khulna": {
+      "iftar": 3,
+      "sehri": 4
+    },
+    "kishoreganj": {
+      "iftar": -1,
+      "sehri": -3
+    },
+    "kurigram": {
+      "iftar": 5,
+      "sehri": -1
+    },
+    "kushtia": {
+      "iftar": 5,
+      "sehri": 5
+    },
     "lakshmipur": {
-      "iftar": -2,
-      "sehri": 0
+      "iftar": -3,
+      "sehri": -1
     },
     "lalmonirhat": {
-      "iftar": 8,
-      "sehri": -1
+      "iftar": 5,
+      "sehri": 2
     },
     "madaripur": {
       "iftar": 1,
       "sehri": 2
     },
     "magura": {
-      "iftar": 4,
+      "iftar": 3,
       "sehri": 4
     },
     "manikganj": {
@@ -3199,47 +3199,47 @@
       "sehri": 7
     },
     "moulvibazar": {
-      "iftar": -3,
+      "iftar": -5,
       "sehri": -6
     },
     "munshiganj": {
-      "iftar": 0,
-      "sehri": 0
+      "iftar": -1,
+      "sehri": -1
     },
     "mymensingh": {
       "iftar": 2,
-      "sehri": -3
+      "sehri": -2
     },
     "naogaon": {
-      "iftar": 8,
-      "sehri": 3
+      "iftar": 7,
+      "sehri": 4
     },
     "narail": {
       "iftar": 3,
       "sehri": 4
     },
     "narayanganj": {
-      "iftar": 0,
+      "iftar": -1,
       "sehri": 0
     },
     "narsingdi": {
       "iftar": -1,
-      "sehri": -1
+      "sehri": -2
     },
     "natore": {
+      "iftar": 6,
+      "sehri": 5
+    },
+    "netrakona": {
+      "iftar": -1,
+      "sehri": -3
+    },
+    "nilphamari": {
       "iftar": 7,
       "sehri": 4
     },
-    "netrakona": {
-      "iftar": 0,
-      "sehri": -4
-    },
-    "nilphamari": {
-      "iftar": 10,
-      "sehri": 1
-    },
     "noakhali": {
-      "iftar": -2,
+      "iftar": -4,
       "sehri": -1
     },
     "pabna": {
@@ -3247,64 +3247,64 @@
       "sehri": 4
     },
     "panchagarh": {
-      "iftar": 12,
-      "sehri": 1
+      "iftar": 9,
+      "sehri": 3
     },
     "patuakhali": {
       "iftar": -1,
-      "sehri": 4
+      "sehri": 2
     },
     "pirojpur": {
       "iftar": 0,
-      "sehri": 4
+      "sehri": 3
     },
     "rajbari": {
-      "iftar": 5,
-      "sehri": 4
+      "iftar": 4,
+      "sehri": 5
     },
     "rajshahi": {
-      "iftar": 8,
-      "sehri": 5
+      "iftar": 7,
+      "sehri": 6
     },
     "rangamati": {
       "iftar": -8,
-      "sehri": -4
+      "sehri": -6
     },
     "rangpur": {
-      "iftar": 8,
-      "sehri": 0
+      "iftar": 5,
+      "sehri": 3
     },
     "satkhira": {
-      "iftar": 5,
-      "sehri": 7
+      "iftar": 4,
+      "sehri": 6
     },
     "shariatpur": {
       "iftar": -1,
-      "sehri": 2
+      "sehri": 1
     },
     "sherpur": {
-      "iftar": 3,
+      "iftar": 2,
       "sehri": -1
     },
     "sirajganj": {
-      "iftar": 4,
-      "sehri": 1
+      "iftar": 3,
+      "sehri": 2
     },
     "sunamganj": {
-      "iftar": -1,
+      "iftar": -3,
       "sehri": -6
     },
     "sylhet": {
-      "iftar": -4,
-      "sehri": -7
+      "iftar": -5,
+      "sehri": -8
     },
     "tangail": {
-      "iftar": 3,
-      "sehri": 0
+      "iftar": 2,
+      "sehri": 1
     },
     "thakurgaon": {
-      "iftar": 12,
-      "sehri": 2
+      "iftar": 9,
+      "sehri": 4
     }
   }
 }
