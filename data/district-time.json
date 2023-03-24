@@ -3068,7 +3068,7 @@
     },
     "bhola": {
       "iftar": -2,
-      "sehri": 1
+      "sehri": 0
     },
     "bogra": {
       "iftar": 5,
@@ -3136,7 +3136,7 @@
     },
     "jamalpur": {
       "iftar": 3,
-      "sehri": -1
+      "sehri": 0
     },
     "jessore": {
       "iftar": 4,
@@ -3168,7 +3168,7 @@
     },
     "kurigram": {
       "iftar": 5,
-      "sehri": -1
+      "sehri": 0
     },
     "kushtia": {
       "iftar": 5,
@@ -3183,7 +3183,7 @@
       "sehri": 2
     },
     "madaripur": {
-      "iftar": 1,
+      "iftar": 0,
       "sehri": 2
     },
     "magura": {
@@ -3207,7 +3207,7 @@
       "sehri": -1
     },
     "mymensingh": {
-      "iftar": 2,
+      "iftar": 0,
       "sehri": -2
     },
     "naogaon": {
@@ -3284,7 +3284,7 @@
     },
     "sherpur": {
       "iftar": 2,
-      "sehri": -1
+      "sehri": 0
     },
     "sirajganj": {
       "iftar": 3,
