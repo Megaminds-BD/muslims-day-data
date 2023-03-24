@@ -3,16 +3,16 @@
   "banner_ads": [
     {
       "button_text": "বিস্তারিত",
-      "action_url": "https://muslimsday.com/tag/সাওম-রোজা/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": true,
+      "action_url": "https://muslimsday.com/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
+      "enable": false,
       "id": 107,
-      "message": "আমাদের নতুন ওয়েবসাইট থেকে জেনে নিন প্রয়োজনীয় মাসআলা",
-      "title": "রমাদান ও রোজা সম্পর্কিত প্রয়োজনীয় ইলম"
+      "message": "এখান থেকে জেনে নিন রোজা সম্পর্কিত প্রয়োজনীয় মাসআলা",
+      "title": "MuslimsDay.Com আমাদের নতুন ওয়েবসাইট"
     },
     {
       "button_text": "বিস্তারিত",
-      "action_url": "https://hellohasan.com/2021/06/11/জুমার-দিনের-আমল/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": false,
+      "action_url": "https://muslimsday.com/জুমআর-দিনের-আমল/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
+      "enable": true,
       "id": 102,
       "message": "সূরা কাহফ পড়া, গোসল করা, সুগন্ধি লাগানো, আগে আগে মসজিদে যাওয়া ইত্যাদি",
       "title": "জুমআর দিনের সুন্নাহ ভিত্তিক কিছু আমল"
