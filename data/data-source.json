@@ -1,6 +1,6 @@
 {
     "ad": {
-        "updated_at": 1648624763,
+        "updated_at": 1648624764,
         "url": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/ad-array.json"
     },
     "app_info": {
@@ -36,7 +36,7 @@
         "url": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/wrong-concept.json"
     },
     "article": {
-        "updated_at": 1623472705,
+        "updated_at": 1623472706,
         "url": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/article.json"
     },
     "masala": {
