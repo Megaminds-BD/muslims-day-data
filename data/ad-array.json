@@ -11,11 +11,11 @@
     },
     {
       "button_text": "বিস্তারিত",
-      "action_url": "https://muslimsday.com/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": false,
+      "action_url": "https://muslimsday.com/আরবির-বাংলা-উচ্চারণ/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
+      "enable": true,
       "id": 107,
-      "message": "এখান থেকে জেনে নিন রোজা সম্পর্কিত প্রয়োজনীয় মাসআলা",
-      "title": "MuslimsDay.Com আমাদের নতুন ওয়েবসাইট"
+      "message": "এতে অর্থ বিকৃতি হয়ে গুনাহ হয়। তাই আমরা কখনোই বাংলা উচ্চারণ যোগ করব না",
+      "title": "অ্যাপে দুআগুলোর বাংলা উচ্চারণ কেন দেয়া হয় নি?"
     },
     {
       "button_text": "বিস্তারিত",
