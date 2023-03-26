@@ -3,8 +3,16 @@
   "banner_ads": [
     {
       "button_text": "বিস্তারিত",
-      "action_url": "https://muslimsday.com/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
+      "action_url": "https://muslimsday.com/day-light-savings-prayer-time/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
       "enable": true,
+      "id": 108,
+      "message": "সেটিংস থেকে ১ ঘন্টা ডে লাইট সেভিংস যোগ করে নিন",
+      "title": "ইউরোপের ইউজারদের দৃষ্টি আকর্ষণ করছি"
+    },
+    {
+      "button_text": "বিস্তারিত",
+      "action_url": "https://muslimsday.com/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
+      "enable": false,
       "id": 107,
       "message": "এখান থেকে জেনে নিন রোজা সম্পর্কিত প্রয়োজনীয় মাসআলা",
       "title": "MuslimsDay.Com আমাদের নতুন ওয়েবসাইট"
@@ -20,7 +28,7 @@
     {
       "button_text": "Donate",
       "action_url": "https://drive.google.com/file/d/1DCCfeLt1kbKd206vGRs3wOu9nG4qu__F",
-      "enable": true,
+      "enable": false,
       "id": 101,
       "message": "অ্যাপের নিয়মিত ডেভেলপমেন্ট চালিয়ে নিতে আপনার সহযোগিতা প্রয়োজন",
       "title": "মুসলিমস ডে অ্যাপে আর্থিক অনুদান দিন"
