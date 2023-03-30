@@ -12,7 +12,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://muslimsday.com/আরবির-বাংলা-উচ্চারণ/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": true,
+      "enable": false,
       "id": 107,
       "message": "এতে অর্থ বিকৃতি হয়ে গুনাহ হয়। তাই আমরা বাংলা উচ্চারণ দেই না।",
       "title": "অ্যাপে দুআগুলোর বাংলা উচ্চারণ কেন দেয়া হয় নি?"
@@ -36,7 +36,7 @@
     {
       "button_text": "Donate",
       "action_url": "https://drive.google.com/file/d/1DCCfeLt1kbKd206vGRs3wOu9nG4qu__F",
-      "enable": false,
+      "enable": true,
       "id": 101,
       "message": "অ্যাপের নিয়মিত ডেভেলপমেন্ট চালিয়ে নিতে আপনার সহযোগিতা প্রয়োজন",
       "title": "মুসলিমস ডে অ্যাপে আর্থিক অনুদান দিন"
