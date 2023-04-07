@@ -4,18 +4,18 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://muslimsday.com/ফিতরা-কত-টাকা-মাসআলা/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": false,
+      "enable": true,
       "id": 108,
       "message": "সকলের ফিতরা সমান হওয়া জরুরি নয়। নিজেই নিজের ফিতরা হিসাব করুন",
       "title": "সাদাকাতুল ফিতর বা ফিতরার পরিমাণ ও মাসআলা"
     },
     {
-      "button_text": "ভিডিও",
-      "action_url": "https://youtu.be/LfboVLI717Q",
+      "button_text": "বিস্তারিত",
+      "action_url": "https://hellohasan.com/2022/10/08/কাদিয়ানীরা-মুসলমান-নয়/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
       "enable": true,
       "id": 107,
-      "message": "মাওলানা তাহমীদুল মাওলার ছোট্ট একটি ভিডিও থেকে সঠিক তথ্য জেনে নিই",
-      "title": "১৫ রমজানে প্রচন্ড শব্দ বিষয়ক বিভ্রান্তি না ছড়াই"
+      "message": "এটি আলাদা একটি ধর্ম। জেনে নিন, মুসলিম দাবী করলেও কেন তারা অমুসলিম",
+      "title": "কাদিয়ানী সম্প্রদায় যে কারণে মুসলমান নয় [বই রিভিউ]"
     },
     {
       "button_text": "বিস্তারিত",
@@ -36,7 +36,7 @@
     {
       "button_text": "Donate",
       "action_url": "https://drive.google.com/file/d/1DCCfeLt1kbKd206vGRs3wOu9nG4qu__F",
-      "enable": false,
+      "enable": true,
       "id": 101,
       "message": "অ্যাপের নিয়মিত ডেভেলপমেন্ট চালিয়ে নিতে আপনার সহযোগিতা প্রয়োজন",
       "title": "মুসলিমস ডে অ্যাপে আর্থিক অনুদান দিন"
