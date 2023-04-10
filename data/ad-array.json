@@ -4,7 +4,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://muslimsday.com/ফিতরা-কত-টাকা-মাসআলা/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": true,
+      "enable": false,
       "id": 108,
       "message": "সকলের ফিতরা সমান হওয়া জরুরি নয়। নিজেই নিজের ফিতরা হিসাব করুন",
       "title": "সাদাকাতুল ফিতর বা ফিতরার পরিমাণ ও মাসআলা"
@@ -12,18 +12,18 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://hellohasan.com/2022/10/08/কাদিয়ানীরা-মুসলমান-নয়/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": true,
+      "enable": false,
       "id": 107,
       "message": "সর্বসম্মতিক্রমে কাদিয়ানীরা অমুসলিম। এই ধর্ম সম্পর্কে জানুন ও সতর্ক থাকুন",
       "title": "কাদিয়ানী সম্প্রদায় যে কারণে মুসলমান নয় [বই রিভিউ]"
     },
     {
       "button_text": "বিস্তারিত",
-      "action_url": "https://muslimsday.com/islamic-foundation-calendar-time/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": false,
+      "action_url": "https://muslimsday.com/ইতিকাফ-ফজিলত-মাসআলা/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
+      "enable": true,
       "id": 103,
-      "message": "জেনে নিন কিভাবে সেটিংস থেকে এটা কনফিগারেশন করতে হয়",
-      "title": "ইসলামিক ফাউন্ডেশনের সাহরি-ইফতারের সূচী"
+      "message": "জেনে নিন ইতিকাফ সম্পর্কিত প্রয়োজনীয় তথ্য",
+      "title": "ই'তিকাফের গুরুত্ব, ফজিলত ও মাসআলা"
     },
     {
       "button_text": "বিস্তারিত",
@@ -36,7 +36,7 @@
     {
       "button_text": "Donate",
       "action_url": "https://drive.google.com/file/d/1DCCfeLt1kbKd206vGRs3wOu9nG4qu__F",
-      "enable": true,
+      "enable": false,
       "id": 101,
       "message": "অ্যাপের নিয়মিত ডেভেলপমেন্ট চালিয়ে নিতে আপনার সহযোগিতা প্রয়োজন",
       "title": "মুসলিমস ডে অ্যাপে আর্থিক অনুদান দিন"
