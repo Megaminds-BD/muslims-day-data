@@ -12,6 +12,10 @@
     "server": "http://server13.mp3quran.net/basit_mjwd/"
   },
   {
+    "name": "আব্দুল ওয়াদুদ হানিফ",
+    "server": "https://server8.mp3quran.net/wdod/"
+  },
+  {
     "name": "মাহির আল মুয়াইকালী",
     "server": "http://server8.mp3quran.net/maher/"
   },
