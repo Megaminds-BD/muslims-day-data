@@ -11,6 +11,14 @@
     },
     {
       "button_text": "বিস্তারিত",
+      "action_url": "https://zakat.mibd.org/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
+      "enable": true,
+      "id": 108,
+      "message": "মুআসসাসা ইলমিয়্যাহ বাংলাদেশ কর্তৃক প্রকাশিত ও পরিচালিত",
+      "title": "যাকাত ক্যালকুলেশন করুন অনলাইনে!"
+    },
+    {
+      "button_text": "বিস্তারিত",
       "action_url": "https://hellohasan.com/2022/10/08/কাদিয়ানীরা-মুসলমান-নয়/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
       "enable": false,
       "id": 107,
