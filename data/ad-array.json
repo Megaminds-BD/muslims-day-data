@@ -11,19 +11,11 @@
     },
     {
       "button_text": "বিস্তারিত",
-      "action_url": "https://zakat.mibd.org/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
+      "action_url": "https://muslimsday.com/ঈদের-নামাজের-নিয়ম/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
       "enable": true,
       "id": 108,
-      "message": "মুআসসাসা ইলমিয়্যাহ বাংলাদেশ কর্তৃক প্রকাশিত ও পরিচালিত",
-      "title": "যাকাত ক্যালকুলেশন করুন অনলাইনে!"
-    },
-    {
-      "button_text": "বিস্তারিত",
-      "action_url": "https://hellohasan.com/2022/10/08/কাদিয়ানীরা-মুসলমান-নয়/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": false,
-      "id": 107,
-      "message": "সর্বসম্মতিক্রমে কাদিয়ানীরা অমুসলিম। এই ধর্ম সম্পর্কে জানুন ও সতর্ক থাকুন",
-      "title": "কাদিয়ানী সম্প্রদায় যে কারণে মুসলমান নয় [বই রিভিউ]"
+      "message": "সুন্নাহের আলোকে হানাফী মাযহাবের ফতোয়ার আলোকে লিখিত",
+      "title": "ঈদের নামাজের ধারাবাহিক পদ্ধতি"
     },
     {
       "button_text": "বিস্তারিত",
