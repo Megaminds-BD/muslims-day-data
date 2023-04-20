@@ -1,6 +1,6 @@
 {
     "ad": {
-        "updated_at": 1648624781,
+        "updated_at": 1648624782,
         "url": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/ad-array.json"
     },
     "app_info": {
@@ -20,7 +20,7 @@
         "url": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/dua.json"
     },
     "hijri_month": {
-        "updated_at": 1615798069,
+        "updated_at": 1615798070,
         "url": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/hijri-month.json"
     },
     "qari": {
