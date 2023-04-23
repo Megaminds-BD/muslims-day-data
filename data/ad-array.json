@@ -3,27 +3,11 @@
   "banner_ads": [
     {
       "button_text": "বিস্তারিত",
-      "action_url": "https://muslimsday.com/ফিতরা-কত-টাকা-মাসআলা/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": false,
-      "id": 108,
-      "message": "সকলের ফিতরা সমান হওয়া জরুরি নয়। নিজেই নিজের ফিতরা হিসাব করুন",
-      "title": "সাদাকাতুল ফিতর বা ফিতরার পরিমাণ ও মাসআলা"
-    },
-    {
-      "button_text": "বিস্তারিত",
-      "action_url": "https://muslimsday.com/ঈদের-আনন্দে-রমজানের-সংযম/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
+      "action_url": "https://muslimsday.com/শাওয়ালের-ছয়-রোজা/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
       "enable": true,
       "id": 104,
-      "message": "আসুন ঈদ উদযাপন করি সুন্নাহের অনুসরণে। গুনাহে না জড়াই। নামাজে যত্নবান হই",
-      "title": "ঈদের আনন্দে রমযানের সংযম হারিয়ে যাচ্ছে না তো?"
-    },
-    {
-      "button_text": "রেটিং দিন",
-      "action_url": "https://play.google.com/store/apps/details?id=theoaktroop.appoframadan",
-      "enable": false,
-      "id": 103,
-      "message": "আমাদেরকে উৎসাহ দিতে প্লে স্টোরে ৫ স্টার রেটিং ও রিভিউ দিতে পারেন",
-      "title": "মুসলিমস ডে আপনার কাছে কেমন লাগলো?"
+      "message": "রমাদানের পর এ রোজাগুলো রাখলে সারা বছর রোজা রাখার সওয়াব পাওয়া যায়",
+      "title": "শাওয়াল মাসের ৬টি রোজা রাখছেন তো?"
     },
     {
       "button_text": "বিস্তারিত",
