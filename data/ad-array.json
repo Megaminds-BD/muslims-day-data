@@ -11,6 +11,14 @@
     },
     {
       "button_text": "বিস্তারিত",
+      "action_url": "https://muslimsday.com/আইয়ামে-বীজ-রোজার-ফজিলত/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
+      "enable": true,
+      "id": 103,
+      "message": "এ মসের রোজা ৪, ৫ ও ৬ মে (বৃহস্পতি, শুক্র ও শনিবার)",
+      "title": "শাওয়ালের আইয়ামে বীজের রোজা রাখছেন তো?"
+    },
+    {
+      "button_text": "বিস্তারিত",
       "action_url": "https://muslimsday.com/জুমআর-দিনের-আমল/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
       "enable": false,
       "id": 102,
@@ -20,7 +28,7 @@
     {
       "button_text": "Donate",
       "action_url": "https://drive.google.com/file/d/1DCCfeLt1kbKd206vGRs3wOu9nG4qu__F",
-      "enable": false,
+      "enable": true,
       "id": 101,
       "message": "এই ফান্ডে যাকাত-ফিতরা প্রদান করা যাবে না। সাধারন ডোনেশন দিতে পারেন",
       "title": "মুসলিমস ডে অ্যাপে আর্থিক অনুদান দিন"
