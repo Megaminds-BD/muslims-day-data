@@ -3,16 +3,8 @@
   "banner_ads": [
     {
       "button_text": "বিস্তারিত",
-      "action_url": "https://muslimsday.com/শ্রমিকের-দায়-ও-অধিকার/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
-      "enable": true,
-      "id": 105,
-      "message": "জেনে নিন শ্রমিক বা কর্মচারীর কর্তব্য ও প্রাপ্য অধিকার সম্পর্কে ইসলামী রূপরেখা",
-      "title": "ইসলামে শ্রমিকের দায় ও অধিকার"
-    },
-    {
-      "button_text": "বিস্তারিত",
       "action_url": "https://muslimsday.com/শাওয়ালের-ছয়-রোজা/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
-      "enable": false,
+      "enable": true,
       "id": 104,
       "message": "রমাদানের পর এ রোজাগুলো রাখলে সারা বছর রোজা রাখার সওয়াব পাওয়া যায়",
       "title": "শাওয়াল মাসের ৬টি রোজা রাখছেন তো?"
@@ -20,7 +12,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://muslimsday.com/আইয়ামে-বীজ-রোজার-ফজিলত/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
-      "enable": false,
+      "enable": true,
       "id": 103,
       "message": "এ মসের রোজা ৪, ৫ ও ৬ মে (বৃহস্পতি, শুক্র ও শনিবার)",
       "title": "শাওয়ালের আইয়ামে বীজের রোজা রাখছেন তো?"
@@ -36,7 +28,7 @@
     {
       "button_text": "Donate",
       "action_url": "https://drive.google.com/file/d/1DCCfeLt1kbKd206vGRs3wOu9nG4qu__F",
-      "enable": false,
+      "enable": true,
       "id": 101,
       "message": "এই ফান্ডে যাকাত-ফিতরা প্রদান করা যাবে না। সাধারন ডোনেশন দিতে পারেন",
       "title": "মুসলিমস ডে অ্যাপে আর্থিক অনুদান দিন"
