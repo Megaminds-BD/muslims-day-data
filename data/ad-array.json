@@ -3,19 +3,11 @@
   "banner_ads": [
     {
       "button_text": "বিস্তারিত",
-      "action_url": "https://muslimsday.com/শাওয়ালের-ছয়-রোজা/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
-      "enable": true,
-      "id": 104,
-      "message": "রমাদানের পর এ রোজাগুলো রাখলে সারা বছর রোজা রাখার সওয়াব পাওয়া যায়",
-      "title": "শাওয়াল মাসের ৬টি রোজা রাখছেন তো?"
-    },
-    {
-      "button_text": "বিস্তারিত",
-      "action_url": "https://muslimsday.com/tag/হজ-ওমরা/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
+      "action_url": "https://muslimsday.com/tag/হজ-ওমরা/?order=ASC&utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
       "enable": true,
       "id": 103,
-      "message": "সুন্নাহের আলোকে মুসলিমস ডে ব্লগে হজ্জ ও ওমরার ধারাবাহিক পদ্ধতি জানুন",
-      "title": "হজ্জ ও ওমরা বিষয়ে জানুন আমাদের ব্লগ থেকে"
+      "message": "সুন্নাহের আলোকে মুসলিমস ডে ব্লগ থেকে হজ্জ ও ওমরা সম্পর্কে জানুন",
+      "title": "হজ্জ ও ওমরা বিষয়ক মাসআলা জেনে নিই"
     },
     {
       "button_text": "বিস্তারিত",
