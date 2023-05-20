@@ -3,19 +3,11 @@
   "banner_ads": [
     {
       "button_text": "বিস্তারিত",
-      "action_url": "https://muslimsday.com/tag/হজ-ওমরা/?order=ASC&utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
+      "action_url": "https://muslimsday.com/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
       "enable": true,
       "id": 103,
-      "message": "সুন্নাহের আলোকে মুসলিমস ডে ব্লগ থেকে হজ্জ ও ওমরা সম্পর্কে জানুন",
-      "title": "হজ্জ ও ওমরা বিষয়ক মাসআলা জেনে নিই"
-    },
-    {
-      "button_text": "বিস্তারিত",
-      "action_url": "https://muslimsday.com/জুমআর-দিনের-আমল/?utm_source=muslims-day&utm_medium=banner&utm_campaign=blog-reach",
-      "enable": false,
-      "id": 102,
-      "message": "সূরা কাহফ পড়া, গোসল করা, সুগন্ধি লাগানো, আগে আগে মসজিদে যাওয়া ইত্যাদি",
-      "title": "জুমআর দিনের সুন্নাহ ভিত্তিক কিছু আমল"
+      "message": "নামাজ, রোজা, হজ-ওমরা, যাকাত ইত্যাদি আমল সম্পর্কে জানুন",
+      "title": "দ্বীনী ইলম শেখার বিশ্বস্ত মাধ্যম মুসলিমস ডে ব্লগ"
     },
     {
       "button_text": "Donate",
