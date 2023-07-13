@@ -3,16 +3,16 @@
   "banner_ads": [
     {
       "button_text": "বিস্তারিত",
-      "action_url": "https://www.alkawsar.com/bn/article/3408/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
+      "action_url": "https://muslimsday.com/tag/মুহাররম-আশুরা/?utm_source=muslims-day&utm_medium=banner&utm_campaign=site-reach",
       "enable": true,
       "id": 103,
-      "message": "মাওলানা মুহাম্মাদ আব্দুল মালেক সাহেবের লিখা সময়োপযোগি একটি প্রবন্ধ",
-      "title": "হজ-ওমরা থেকে আমরা কী নিয়ে ফিরব?"
+      "message": "মুহাররম শোক কিংবা অপয়া মাস নয়। জেনে নিন এর ফজিলত ও তাৎপর্য",
+      "title": "মুহাররম-আশুরা: ফজিলত, করণীয় ও বর্জনীয়"
     },
     {
       "button_text": "Donate",
       "action_url": "https://muslimsday.com/donation",
-      "enable": false,
+      "enable": true,
       "id": 101,
       "message": "এই ফান্ডে যাকাত-ফিতরা প্রদান করা যাবে না। সাধারন ডোনেশন দিতে পারেন",
       "title": "মুসলিমস ডে অ্যাপে আর্থিক অনুদান দিন"
