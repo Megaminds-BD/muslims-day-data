@@ -3,24 +3,16 @@
   "banner_ads": [
     {
       "button_text": "বিস্তারিত",
-      "action_url": "https://muslimsday.com/muharram-quiz-2023/?utm_source=muslimsday&utm_medium=banner&utm_campaign=quiz_reach",
-      "enable": true,
-      "id": 103,
-      "message": "মুহাররম ও আশুরা সম্পর্কে জেনে FREE কুইজে অংশ নিন এবং পুরষ্কার জিতুন!",
-      "title": "মুহাররম ও আশুরা কুইজ প্রতিযোগিতা ২০২৩!"
-    },
-    {
-      "button_text": "বিস্তারিত",
       "action_url": "https://muslimsday.com/মুহাররম-মাস-ফজিলত-ও-আমল/?utm_source=muslimsday&utm_medium=banner&utm_campaign=blog_reach",
       "enable": true,
       "id": 102,
-      "message": "আশুরার রোজা: ২৮-৩০ জুলাই। আইয়ামে বীজের রোজা: ১-৩ আগস্ট",
-      "title": "মুহাররমের আমল রোজা রাখা ও তওবা করা"
+      "message": "এ মাসের রোজা ১-৩ আগস্ট। ৩১ তারিখ দিবাগত রাতে সাহরি",
+      "title": "আইয়ামে বীজের রোজা রাখছেন তো? [Reminder]"
     },
     {
       "button_text": "Donate",
       "action_url": "https://muslimsday.com/donation",
-      "enable": false,
+      "enable": true,
       "id": 101,
       "message": "এই ফান্ডে যাকাত-ফিতরা প্রদান করা যাবে না। সাধারন ডোনেশন দিতে পারেন",
       "title": "মুসলিমস ডে অ্যাপে আর্থিক অনুদান দিন"
