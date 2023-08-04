@@ -3,11 +3,11 @@
   "banner_ads": [
     {
       "button_text": "বিস্তারিত",
-      "action_url": "https://muslimsday.com/আইয়ামে-বীজ-রোজার-ফজিলত/?utm_source=muslimsday&utm_medium=banner&utm_campaign=blog_reach",
-      "enable": false,
+      "action_url": "https://muslimsday.com/ইসলামে-বৃক্ষরোপন/?utm_source=muslimsday&utm_medium=banner&utm_campaign=blog_reach",
+      "enable": true,
       "id": 102,
-      "message": "এ মাসের রোজা ১-৩ আগস্ট। ৩১ জুলাই দিবাগত রাতে সাহরি",
-      "title": "আইয়ামে বীজের রোজা রাখছেন তো? [Reminder]"
+      "message": "জুন-জুলাই-আগস্ট বৃক্ষরোপনের উপযুক্ত সময়। আসুন সাধ্যমত গাছ লাগাই",
+      "title": "ইসলামের দৃষ্টিতে বৃক্ষরোপন: এটি একটি সাদাকা"
     },
     {
       "button_text": "Donate",
