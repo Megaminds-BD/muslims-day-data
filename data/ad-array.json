@@ -3,11 +3,11 @@
   "banner_ads": [
     {
       "button_text": "বিস্তারিত",
-      "action_url": "https://muslimsday.com/ইসলামে-বৃক্ষরোপন/?utm_source=muslimsday&utm_medium=banner&utm_campaign=blog_reach",
-      "enable": false,
+      "action_url": "https://muslimsday.com/আখেরী-চাহার-সোম্বা-বিদআত/?utm_source=muslimsday&utm_medium=banner&utm_campaign=blog_reach",
+      "enable": true,
       "id": 102,
-      "message": "জুন-জুলাই-আগস্ট বৃক্ষরোপনের উপযুক্ত সময়। আসুন সাধ্যমত গাছ লাগাই",
-      "title": "ইসলামের দৃষ্টিতে বৃক্ষরোপন: এটি একটি সাদাকা"
+      "message": "বহুল প্রচলিত একটি বিদআত ও সফর মাসের অন্যান্য ভিত্তিহীন বিশ্বাস",
+      "title": "আখেরি চাহার সোম্বা: একটি ভিত্তিহীন রসম"
     },
     {
       "button_text": "Donate",
