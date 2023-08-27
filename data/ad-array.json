@@ -3,6 +3,14 @@
   "banner_ads": [
     {
       "button_text": "বিস্তারিত",
+      "action_url": "https://muslimsday.com/আইয়ামে-বীজ-রোজার-ফজিলত/?utm_source=muslimsday&utm_medium=banner&utm_campaign=blog-reach",
+      "enable": true,
+      "id": 104,
+      "message": "এ মাসের আইয়ামে বীজের ৩টি নফল রোজা ৩০, ৩১ আগস্ট ও ১ সেপ্টেম্বর",
+      "title": "সফর মাসের আইয়ামে বীজের রোজা রাখছেন তো?"
+    },
+    {
+      "button_text": "বিস্তারিত",
       "action_url": "https://muslimsday.com/সীরাত-প্রতিযোগিতা-২০২৩/?utm_source=muslimsday&utm_medium=banner&utm_campaign=sirat-quiz",
       "enable": true,
       "id": 103,
@@ -12,7 +20,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://muslimsday.com/আখেরী-চাহার-সোম্বা-বিদআত/?utm_source=muslimsday&utm_medium=banner&utm_campaign=blog_reach",
-      "enable": true,
+      "enable": false,
       "id": 102,
       "message": "বহুল প্রচলিত একটি বিদআত ও সফর মাসের অন্যান্য ভিত্তিহীন বিশ্বাস",
       "title": "আখেরি চাহার সোম্বা: একটি ভিত্তিহীন রসম"
@@ -20,7 +28,7 @@
     {
       "button_text": "Donate",
       "action_url": "https://muslimsday.com/donation",
-      "enable": true,
+      "enable": false,
       "id": 101,
       "message": "এই ফান্ডে যাকাত-ফিতরা প্রদান করা যাবে না। সাধারন ডোনেশন দিতে পারেন",
       "title": "মুসলিমস ডে অ্যাপে আর্থিক অনুদান দিন"
