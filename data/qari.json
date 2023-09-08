@@ -110,5 +110,9 @@
   {
     "name": "মুহাম্মাদ আইয়ুব ইবনে মুহাম্মাদ ইউসুফ",
     "server": "http://server8.mp3quran.net/ayyub/"
+  },
+  {
+    "name": "আবদুল্লাহ আওয়াদ আল জুহানী",
+    "server": "https://server13.mp3quran.net/jhn/"
   }
 ]
