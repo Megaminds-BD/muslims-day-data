@@ -4,17 +4,17 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://muslimsday.com/সীরাত-প্রতিযোগিতা-২০২৩/?utm_source=muslimsday&utm_medium=banner&utm_campaign=sirat-quiz",
-      "enable": true,
+      "enable": false,
       "id": 103,
-      "message": "কুইজে অংশ নিয়ে পুরষ্কার জিতুন! পুরষ্কার দেয়া হচ্ছে WafiLife এর সৌজন্যে",
+      "message": "সকল প্রতিযোগির জন্য থাকছে ওয়াফিলাইফের পক্ষ থেকে বিশেষ উপহার!",
       "title": "মুসলিমস ডে সীরাত প্রতিযোগিতা ২০২৩"
     },
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://muslimsday.com/আখেরী-চাহার-সোম্বা-বিদআত/?utm_source=muslimsday&utm_medium=banner&utm_campaign=blog_reach",
-      "enable": false,
+      "enable": true,
       "id": 102,
-      "message": "বহুল প্রচলিত একটি বিদআত ও সফর মাসের অন্যান্য ভিত্তিহীন বিশ্বাস",
+      "message": "জেনে নিন সমাজে বহুল প্রচলিত সফর মাসের একটি বিদআত সম্পর্কে",
       "title": "আখেরি চাহার সোম্বা: একটি ভিত্তিহীন রসম"
     },
     {
