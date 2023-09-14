@@ -4,7 +4,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://muslimsday.com/সীরাত-প্রতিযোগিতা-২০২৩/?utm_source=muslimsday&utm_medium=banner&utm_campaign=sirat-quiz",
-      "enable": false,
+      "enable": true,
       "id": 103,
       "message": "সকল প্রতিযোগির জন্য থাকছে ওয়াফিলাইফের পক্ষ থেকে বিশেষ উপহার!",
       "title": "মুসলিমস ডে সীরাত প্রতিযোগিতা ২০২৩"
@@ -12,7 +12,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://muslimsday.com/আখেরী-চাহার-সোম্বা-বিদআত/?utm_source=muslimsday&utm_medium=banner&utm_campaign=blog_reach",
-      "enable": true,
+      "enable": false,
       "id": 102,
       "message": "জেনে নিন সমাজে বহুল প্রচলিত সফর মাসের একটি বিদআত সম্পর্কে",
       "title": "আখেরি চাহার সোম্বা: একটি ভিত্তিহীন রসম"
