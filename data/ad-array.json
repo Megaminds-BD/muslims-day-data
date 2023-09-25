@@ -4,23 +4,23 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://muslimsday.com/সীরাত-প্রতিযোগিতা-২০২৩/?utm_source=muslimsday&utm_medium=banner&utm_campaign=sirat-quiz",
-      "enable": true,
+      "enable": false,
       "id": 103,
       "message": "সকল প্রতিযোগির জন্য থাকছে ওয়াফিলাইফের পক্ষ থেকে বিশেষ উপহার!",
       "title": "মুসলিমস ডে সীরাত প্রতিযোগিতা ২০২৩"
     },
     {
       "button_text": "বিস্তারিত",
-      "action_url": "https://muslimsday.com/আখেরী-চাহার-সোম্বা-বিদআত/?utm_source=muslimsday&utm_medium=banner&utm_campaign=blog_reach",
-      "enable": false,
+      "action_url": "https://muslimsday.com/জন্মদিন-পালনের-ইতিহাস/?utm_source=muslimsday&utm_medium=banner&utm_campaign=blog_reach",
+      "enable": true,
       "id": 102,
-      "message": "জেনে নিন সমাজে বহুল প্রচলিত সফর মাসের একটি বিদআত সম্পর্কে",
-      "title": "আখেরি চাহার সোম্বা: একটি ভিত্তিহীন রসম"
+      "message": "জেনে নিন জন্মদিন পালনের বিধান ও এই রেওয়াজের পেছনের ইতিহাস",
+      "title": "প্রসঙ্গ মীলাদুন্নবী: জন্মদিন পালনের বিধান"
     },
     {
       "button_text": "Donate",
       "action_url": "https://muslimsday.com/donation",
-      "enable": true,
+      "enable": false,
       "id": 101,
       "message": "এই ফান্ডে যাকাত-ফিতরা প্রদান করা যাবে না। সাধারন ডোনেশন দিতে পারেন",
       "title": "মুসলিমস ডে অ্যাপে আর্থিক অনুদান দিন"
