@@ -3,11 +3,35 @@
   "banner_ads": [
     {
       "button_text": "বিস্তারিত",
+      "action_url": "https://muslimsday.com/আইয়ামে-বীজ-রোজার-ফজিলত/?utm_source=muslimsday&utm_medium=banner&utm_campaign=sirat-quiz",
+      "enable": true,
+      "id": 105,
+      "message": "রবিউল আউয়াল মাসের রোজার তারিখ: ২৯, ৩০ সেপ্টেম্বর ও ১ অক্টোবর ২০২৩",
+      "title": "আইয়ামে বীজের রোজা রাখছেন তো?"
+    },
+    {
+      "button_text": "বিস্তারিত",
       "action_url": "https://muslimsday.com/সীরাত-প্রতিযোগিতা-২০২৩/?utm_source=muslimsday&utm_medium=banner&utm_campaign=sirat-quiz",
       "enable": false,
-      "id": 103,
+      "id": 105,
       "message": "সকল প্রতিযোগির জন্য থাকছে ওয়াফিলাইফের পক্ষ থেকে বিশেষ উপহার!",
       "title": "মুসলিমস ডে সীরাত প্রতিযোগিতা ২০২৩"
+    },
+    {
+      "button_text": "বিস্তারিত",
+      "action_url": "https://muslimsday.com/১২-রবিউল-আউয়াল/?utm_source=muslimsday&utm_medium=banner&utm_campaign=blog_reach",
+      "enable": true,
+      "id": 104,
+      "message": "কোনো বিশুদ্ধ ও দলিলযোগ্য বর্ণনায় এ তারিখটি অকাট্যভাবে প্রমাণিত নয়",
+      "title": "১২ রবিউল আউয়াল কি নবীজির সা. জন্মদিন?"
+    },
+    {
+      "button_text": "বিস্তারিত",
+      "action_url": "https://muslimsday.com/ঈদে-মীলাদুন্নবীর-ইতিহাস/?utm_source=muslimsday&utm_medium=banner&utm_campaign=blog_reach",
+      "enable": true,
+      "id": 103,
+      "message": "কবে থেকে ১২ রবিউল আউয়াল ঈদে মীলাদুন্নবী পালন শুরু হলো?",
+      "title": "মীলাদুন্নবীর ইতিহাস ও হাস্যকর কিছু দাবী"
     },
     {
       "button_text": "বিস্তারিত",
