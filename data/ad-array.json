@@ -10,9 +10,17 @@
       "title": "মুসলিমস ডে সীরাত প্রতিযোগিতা ২০২৩"
     },
     {
+      "button_text": "VISIT",
+      "action_url": "https://www.wafilife.com/?utm_source=muslimsday&utm_medium=banner&utm_campaign=sirat-quiz",
+      "enable": true,
+      "id": 104,
+      "message": "ঘুরে আসতে পারেন জনপ্রিয় অনলাইন বুকশপ ওয়াফিলাইফের ওয়েবসাইট থেকে",
+      "title": "সীরাত প্রতিযোগিতার কুইজের স্পন্সর ওয়াফিলাইফ"
+    },
+    {
       "button_text": "Donate",
       "action_url": "https://muslimsday.com/donation",
-      "enable": true,
+      "enable": false,
       "id": 101,
       "message": "এই ফান্ডে যাকাত-ফিতরা প্রদান করা যাবে না। সাধারন ডোনেশন দিতে পারেন",
       "title": "মুসলিমস ডে অ্যাপে আর্থিক অনুদান দিন"
