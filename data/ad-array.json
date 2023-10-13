@@ -3,19 +3,11 @@
   "banner_ads": [
     {
       "button_text": "বিস্তারিত",
-      "action_url": "https://muslimsday.com/সীরাত-প্রতিযোগিতা-২০২৩/?utm_source=muslimsday&utm_medium=banner&utm_campaign=sirat-quiz",
+      "action_url": "https://docs.google.com/forms/d/e/1FAIpQLSfnlmPhwY4wDL2Dvc7wYU3QoDjVgW6Ao50xoBnFhDItbvjOwg/viewform?usp=sf_link",
       "enable": true,
       "id": 105,
-      "message": "সকল প্রতিযোগির জন্য থাকছে ওয়াফিলাইফের পক্ষ থেকে বিশেষ উপহার!",
+      "message": "কুইজের সময়: ১৩ অক্টোবর শুক্রবার রাত ৯টা থেকে ১০:৩০। অংশ নিয়ে পুরস্কার জিতুন!",
       "title": "মুসলিমস ডে সীরাত প্রতিযোগিতা ২০২৩"
-    },
-    {
-      "button_text": "VISIT",
-      "action_url": "https://www.wafilife.com/?utm_source=muslimsday&utm_medium=banner&utm_campaign=sirat-quiz",
-      "enable": true,
-      "id": 104,
-      "message": "ঘুরে আসতে পারেন জনপ্রিয় অনলাইন বুকশপ ওয়াফিলাইফের ওয়েবসাইট থেকে",
-      "title": "সীরাত প্রতিযোগিতার কুইজের স্পন্সর ওয়াফিলাইফ"
     },
     {
       "button_text": "Donate",
