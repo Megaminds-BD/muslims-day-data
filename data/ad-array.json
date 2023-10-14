@@ -4,7 +4,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://docs.google.com/forms/d/e/1FAIpQLSfnlmPhwY4wDL2Dvc7wYU3QoDjVgW6Ao50xoBnFhDItbvjOwg/viewform?usp=sf_link",
-      "enable": true,
+      "enable": false,
       "id": 105,
       "message": "কুইজের সময়: ১৩ অক্টোবর শুক্রবার রাত ৯টা থেকে ১০:৩০। অংশ নিয়ে পুরস্কার জিতুন!",
       "title": "মুসলিমস ডে সীরাত প্রতিযোগিতা ২০২৩"
