@@ -10,6 +10,14 @@
       "title": "অমুসলিমদের ধর্মীয় অনুষ্ঠানে অংশগ্রহনের বিধান"
     },
     {
+      "button_text": "বিস্তারিত",
+      "action_url": "https://muslimsday.com/ধর্ম-যার-উৎসব-তার",
+      "enable": true,
+      "id": 104,
+      "message": "প্রশ্ন শুধু উদারতার নয়, বিশ্বাসেরও। পড়ুন মাওলানা শিব্বির আহমদের প্রবন্ধ",
+      "title": "পূজামন্ডপে মুসলিম সন্তান"
+    },
+    {
       "button_text": "Donate",
       "action_url": "https://muslimsday.com/donation",
       "enable": false,
