@@ -1,10 +1,10 @@
 {
     "ad": {
-        "updated_at": 1648624822,
+        "updated_at": 1648624823,
         "url": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/ad-array.json"
     },
     "app_info": {
-        "updated_at": 1618127655,
+        "updated_at": 1618127656,
         "url": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/app-info.json"
     },
     "district_time": {
@@ -12,7 +12,7 @@
         "url": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/district-time.json"
     },
     "donation": {
-        "updated_at": 1634005327,
+        "updated_at": 1634005328,
         "url": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/donation.json"
     },
     "dua": {
