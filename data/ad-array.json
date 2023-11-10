@@ -2,12 +2,12 @@
   "admob_enable": true,
   "banner_ads": [
     {
-      "button_text": "বিস্তারিত",
-      "action_url": "https://muslimsday.com",
+      "button_text": "Update",
+      "action_url": "https://play.google.com/store/apps/details?id=theoaktroop.appoframadan",
       "enable": true,
       "id": 105,
-      "message": "নামাজ, রোজা, হজ-ওমরা সহ বিভিন্ন ইসলামী ইলমের সমাহার",
-      "title": "মুসলিমস ডে ব্লগ ওয়েবসাইটে ভিজিট করুন"
+      "message": "নতুন ভার্সনে থাকছে দৈনিক আয়াত/হাদীস নোটিফিকেশনে আরবি টেক্সট ও অন্যান্য",
+      "title": "মুসলিমস ডে অ্যাপের নতুন ভার্সন 5.9.0 তে আপডেট করুন"
     },
     {
       "button_text": "Donate",
